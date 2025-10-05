@@ -1,0 +1,45 @@
+# === Logs ===
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# === Dependencies ===
+node_modules/
+
+# === Build Output ===
+dist/
+dist-ssr/
+build/
+
+# === Vite Cache ===
+.vite/
+
+# === Local Files ===
+*.local
+
+# === Environment Variables ===
+.env
+.env.*
+!.env.example  # Keep a safe example if needed
+
+# === Editor Directories and Files ===
+.vscode/*
+!.vscode/extensions.json
+.idea/
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# === Tailwind / TypeScript ===
+.tailwindcache/
+*.tsbuildinfo
+
+# === OS Files ===
+Thumbs.db

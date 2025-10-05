@@ -27,7 +27,7 @@ const DetailPanel: React.FC<DetailPanelProps> = ({
   }
 
   return (
-    <div className="h-full bg-gray-50 p-8">
+    <div className="h-full bg-transparent p-8">
       <button onClick={onClose} className="mb-4">
         ← Back
       </button>

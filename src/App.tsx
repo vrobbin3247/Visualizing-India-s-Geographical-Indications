@@ -64,15 +64,25 @@ function App() {
   };
 
   return (
-    <div className="flex h-screen relative">
-      {/* Detail Panel */}
+    <div className="relative h-screen overflow-hidden">
+      {/* Map View - Always full width */}
+      <div className="w-full h-full absolute top-0 left-0 z-0">
+        <MapView
+          data={giData}
+          onMarkerClick={handleMarkerClick}
+          selectedGI={selectedGI}
+          filters={filters}
+        />
+      </div>
+
+      {/* Detail Panel - Fixed position for overlay and slide-in from right */}
       <div
-        className={`transition-all duration-300 ease-in-out ${
-          selectedGI ? "w-2/5" : "w-0"
-        } h-screen overflow-hidden`}
+        className={`fixed top-0 left-0 h-screen transition-transform duration-300 ease-in-out w-2/5 transform ${
+          selectedGI ? "translate-x-0" : "-translate-x-full"
+        } z-40`}
       >
         {selectedGI && (
-          <div className="h-full overflow-y-auto bg-white">
+          <div className="h-full overflow-y-auto bg-white/30 backdrop-blur-md border border-white/50 shadow-lg rounded-l-xl">
             <DetailPanel
               selectedGI={selectedGI}
               onClose={handleClosePanel}
@@ -82,22 +92,8 @@ function App() {
         )}
       </div>
 
-      {/* Map View */}
-      <div
-        className={`transition-all duration-300 ${
-          selectedGI ? "w-3/5" : "w-full"
-        } h-screen z-0`}
-      >
-        <MapView
-          data={giData}
-          onMarkerClick={handleMarkerClick}
-          selectedGI={selectedGI}
-          filters={filters}
-        />
-      </div>
-
       {/* Filter Bar */}
-      <div className="fixed bottom-0 left-0 right-0 z-50">
+      <div className="fixed bottom-0 left-0 right-0 **z-50**">
         <FilterBar filters={filters} setFilters={setFilters} giData={giData} />
       </div>
     </div>

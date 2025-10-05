@@ -93,8 +93,20 @@ function App() {
       </div>
 
       {/* Filter Bar */}
-      <div className="fixed bottom-0 left-0 right-0 **z-50**">
-        <FilterBar filters={filters} setFilters={setFilters} giData={giData} />
+      <div
+        className={`fixed bottom-0 left-0 right-0 z-50 transition-all duration-500 ease-in-out transform ${
+          selectedGI
+            ? "translate-y-24 opacity-0 pointer-events-none"
+            : "translate-y-0 opacity-100"
+        }`}
+      >
+        <div className="bg-white/30 backdrop-blur-md border-t border-white/50 shadow-lg rounded-t-xl ">
+          <FilterBar
+            filters={filters}
+            setFilters={setFilters}
+            giData={giData}
+          />
+        </div>
       </div>
     </div>
   );

@@ -23,11 +23,8 @@ interface GI {
 const typeColors: { [key: string]: string } = {
   Agricultural: "#10B981",
   Handicraft: "#F59E0B",
-  Handicrafts: "#F59E0B",
   Manufactured: "#3B82F6",
   "Food Stuff": "#EF4444",
-  "Food stuff": "#EF4444",
-  Natural: "#8B5CF6",
   "Natural Goods": "#8B5CF6",
 };
 

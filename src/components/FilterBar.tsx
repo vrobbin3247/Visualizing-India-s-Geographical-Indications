@@ -78,7 +78,7 @@ const FilterBar: React.FC<FilterBarProps> = ({
   ).length;
 
   return (
-    <div className="w-full bg-gray-100 border-t border-gray-300 p-4 shadow-lg">
+    <div className="w-full bg-transparent p-4 shadow-lg">
       <div className="max-w-7xl mx-auto flex flex-wrap items-center justify-center gap-3">
         {/* Type Filter */}
         <div className="flex flex-col">

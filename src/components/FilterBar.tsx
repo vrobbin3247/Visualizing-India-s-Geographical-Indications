@@ -70,12 +70,7 @@ const FilterBar: React.FC<FilterBarProps> = ({
   };
 
   // Calculate filtered count
-  const filteredCount = giData.filter(
-    (gi) =>
-      (filters.type === "All" || gi.type === filters.type) &&
-      (filters.state === "All" || gi.states.includes(filters.state)) &&
-      gi.name.toLowerCase().includes(filters.search.toLowerCase())
-  ).length;
+  
 
   return (
     <div className="w-full bg-transparent p-4 shadow-lg">

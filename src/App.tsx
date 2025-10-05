@@ -9,6 +9,7 @@ interface GI {
   name: string;
   type: string;
   states: string[];
+  info: string;
   coordinates: { state: string; lat: number; lng: number }[];
   primaryState: string;
   stateCount: number;
@@ -93,7 +94,7 @@ function App() {
 
       {/* Filter Bar - positioned at bottom */}
       <div className="fixed bottom-0 left-0 right-0 z-50">
-        <FilterBar filters={filters} setFilters={setFilters} giData={giData} />
+        <FilterBar filters={filters} setFilters={setFilters} />
       </div>
     </div>
   );

@@ -8,14 +8,13 @@ import {
 } from "react-leaflet";
 import "leaflet/dist/leaflet.css";
 import type { Map } from "leaflet";
-// Import with type assertion
-import geojsonData from "../data/india_state.geojson?raw";
 
 interface GI {
   id: string;
   name: string;
   type: string;
   states: string[];
+  info: string;
   coordinates: { state: string; lat: number; lng: number }[];
   primaryState: string;
   stateCount: number;

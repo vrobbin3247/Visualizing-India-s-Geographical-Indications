@@ -35,7 +35,7 @@ const FilterBar: React.FC<FilterBarProps> = ({ filters, setFilters }) => {
   };
 
   return (
-    <div className="fixed bottom-0 w-full bg-gray-100 p-4 flex justify-center space-x-4">
+    <div className="w-full bg-gray-100 p-4 flex justify-center space-x-4">
       <select name="type" value={filters.type} onChange={handleFilterChange} className="p-2 rounded">
         {types.map(t => <option key={t} value={t}>{t}</option>)}
       </select>

@@ -8,8 +8,8 @@ interface GI {
   id: string;
   name: string;
   type: string;
-  states: string[];
   info: string;
+  states: string[];
   coordinates: { state: string; lat: number; lng: number }[];
   primaryState: string;
   stateCount: number;
@@ -26,8 +26,12 @@ function App() {
 
   useEffect(() => {
     fetch("/script/processedGIData.json")
-      .then((response) => response.json())
-      .then((data) => setGiData(data))
+      .then((response) => {
+        return response.json();
+      })
+      .then((data) => {
+        setGiData(data);
+      })
       .catch((err) => console.error("Error loading GI data:", err));
   }, []);
 
@@ -61,7 +65,7 @@ function App() {
 
   return (
     <div className="flex h-screen relative">
-      {/* Detail Panel - slides in from left */}
+      {/* Detail Panel */}
       <div
         className={`transition-all duration-300 ease-in-out ${
           selectedGI ? "w-2/5" : "w-0"
@@ -82,7 +86,7 @@ function App() {
       <div
         className={`transition-all duration-300 ${
           selectedGI ? "w-3/5" : "w-full"
-        } h-screen`}
+        } h-screen z-0`}
       >
         <MapView
           data={giData}
@@ -92,9 +96,9 @@ function App() {
         />
       </div>
 
-      {/* Filter Bar - positioned at bottom */}
+      {/* Filter Bar */}
       <div className="fixed bottom-0 left-0 right-0 z-50">
-        <FilterBar filters={filters} setFilters={setFilters} />
+        <FilterBar filters={filters} setFilters={setFilters} giData={giData} />
       </div>
     </div>
   );

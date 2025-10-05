@@ -1,5 +1,14 @@
+import React, { useState, useEffect } from "react";
 
-import React, { useState, useEffect } from 'react';
+interface GI {
+  id: string;
+  name: string;
+  type: string;
+  states: string[];
+  coordinates: { state: string; lat: number; lng: number }[];
+  primaryState: string;
+  stateCount: number;
+}
 
 interface Filters {
   type: string;
@@ -10,47 +19,134 @@ interface Filters {
 interface FilterBarProps {
   filters: Filters;
   setFilters: React.Dispatch<React.SetStateAction<Filters>>;
+  giData?: GI[]; // Make optional
 }
 
-const FilterBar: React.FC<FilterBarProps> = ({ filters, setFilters }) => {
-  const [types, setTypes] = useState<string[]>([]);
-  const [states, setStates] = useState<string[]>([]);
-  
-  useEffect(() => {
-    fetch('/script/giDataSummary.json')
-      .then(res => res.json())
-      .then(data => {
-        setTypes(['All', ...data.types]);
-        setStates(['All', ...data.states]);
-      });
-  }, []);
+const FilterBar: React.FC<FilterBarProps> = ({
+  filters,
+  setFilters,
+  giData = [],
+}) => {
+  const [searchInput, setSearchInput] = useState(filters.search);
 
-  const handleFilterChange = (e: React.ChangeEvent<HTMLInputElement | HTMLSelectElement>) => {
-    const { name, value } = e.target;
-    setFilters(prev => ({ ...prev, [name]: value }));
+  // Extract unique types and states - giData is now guaranteed to be an array
+  const uniqueTypes =
+    giData.length > 0
+      ? ["All", ...Array.from(new Set(giData.map((gi) => gi.type)))].sort()
+      : ["All"];
+
+  const uniqueStates =
+    giData.length > 0
+      ? [
+          "All",
+          ...Array.from(new Set(giData.flatMap((gi) => gi.states))),
+        ].sort()
+      : ["All"];
+
+  // Debounce search input
+  useEffect(() => {
+    const timer = setTimeout(() => {
+      setFilters((prev) => ({ ...prev, search: searchInput }));
+    }, 300);
+
+    return () => clearTimeout(timer);
+  }, [searchInput, setFilters]);
+
+  const handleTypeChange = (e: React.ChangeEvent<HTMLSelectElement>) => {
+    setFilters((prev) => ({ ...prev, type: e.target.value }));
+  };
+
+  const handleStateChange = (e: React.ChangeEvent<HTMLSelectElement>) => {
+    setFilters((prev) => ({ ...prev, state: e.target.value }));
+  };
+
+  const handleSearchChange = (e: React.ChangeEvent<HTMLInputElement>) => {
+    setSearchInput(e.target.value);
   };
 
   const resetFilters = () => {
-    setFilters({ type: 'All', state: 'All', search: '' });
+    setFilters({ type: "All", state: "All", search: "" });
+    setSearchInput("");
   };
 
+  // Calculate filtered count
+  const filteredCount = giData.filter(
+    (gi) =>
+      (filters.type === "All" || gi.type === filters.type) &&
+      (filters.state === "All" || gi.states.includes(filters.state)) &&
+      gi.name.toLowerCase().includes(filters.search.toLowerCase())
+  ).length;
+
   return (
-    <div className="w-full bg-gray-100 p-4 flex justify-center space-x-4">
-      <select name="type" value={filters.type} onChange={handleFilterChange} className="p-2 rounded">
-        {types.map(t => <option key={t} value={t}>{t}</option>)}
-      </select>
-      <select name="state" value={filters.state} onChange={handleFilterChange} className="p-2 rounded">
-        {states.map(s => <option key={s} value={s}>{s}</option>)}
-      </select>
-      <input
-        type="text"
-        name="search"
-        placeholder="Search..."
-        value={filters.search}
-        onChange={handleFilterChange}
-        className="p-2 rounded"
-      />
-      <button onClick={resetFilters} className="p-2 bg-gray-800 text-white rounded">Reset</button>
+    <div className="w-full bg-gray-100 border-t border-gray-300 p-4 shadow-lg">
+      <div className="max-w-7xl mx-auto flex flex-wrap items-center justify-center gap-3">
+        {/* Type Filter */}
+        <div className="flex flex-col">
+          <label className="text-xs text-gray-600 mb-1 ml-1">Type</label>
+          <select
+            name="type"
+            value={filters.type}
+            onChange={handleTypeChange}
+            className="px-4 py-2 border border-gray-300 rounded-lg bg-white hover:border-gray-400 focus:outline-none focus:ring-2 focus:ring-blue-500 transition-all"
+            disabled={giData.length === 0}
+          >
+            {uniqueTypes.map((type) => (
+              <option key={type} value={type}>
+                {type}
+              </option>
+            ))}
+          </select>
+        </div>
+
+        {/* State Filter */}
+        <div className="flex flex-col">
+          <label className="text-xs text-gray-600 mb-1 ml-1">State</label>
+          <select
+            name="state"
+            value={filters.state}
+            onChange={handleStateChange}
+            className="px-4 py-2 border border-gray-300 rounded-lg bg-white hover:border-gray-400 focus:outline-none focus:ring-2 focus:ring-blue-500 transition-all"
+            disabled={giData.length === 0}
+          >
+            {uniqueStates.map((state) => (
+              <option key={state} value={state}>
+                {state}
+              </option>
+            ))}
+          </select>
+        </div>
+
+        {/* Search Input */}
+        <div className="flex flex-col">
+          <label className="text-xs text-gray-600 mb-1 ml-1">Search GI</label>
+          <input
+            type="text"
+            name="search"
+            placeholder="Search by name..."
+            value={searchInput}
+            onChange={handleSearchChange}
+            className="px-4 py-2 border border-gray-300 rounded-lg bg-white hover:border-gray-400 focus:outline-none focus:ring-2 focus:ring-blue-500 transition-all w-64"
+            disabled={giData.length === 0}
+          />
+        </div>
+
+        {/* Reset Button */}
+        <div className="flex flex-col">
+          <label className="text-xs text-transparent mb-1">Reset</label>
+          <button
+            onClick={resetFilters}
+            className="px-6 py-2 bg-gray-800 text-white rounded-lg hover:bg-gray-700 focus:outline-none focus:ring-2 focus:ring-gray-500 transition-all disabled:opacity-50 disabled:cursor-not-allowed"
+            disabled={giData.length === 0}
+          >
+            Reset
+          </button>
+        </div>
+
+        {/* Filter Count Display */}
+        {giData.length > 0 && (
+          <div className="flex flex-col justify-end ml-4"></div>
+        )}
+      </div>
     </div>
   );
 };

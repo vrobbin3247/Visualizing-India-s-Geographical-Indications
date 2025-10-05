@@ -10,6 +10,7 @@ import {
 } from "react-leaflet";
 import L from "leaflet";
 import "leaflet/dist/leaflet.css";
+import "leaflet-providers";
 import type { Map } from "leaflet";
 
 interface GI {
@@ -31,7 +32,6 @@ const typeColors: { [key: string]: string } = {
   "Natural Goods": "#8B5CF6",
 };
 
-// Custom pin icon
 const createPinIcon = (color: string) => {
   return L.divIcon({
     className: "custom-pin",
@@ -44,13 +44,6 @@ const createPinIcon = (color: string) => {
                 stroke-width="2"/>
           <circle cx="20" cy="14" r="6" fill="#ffffff"/>
         </svg>
-        <div style="
-          position: absolute;
-          top: -8px;
-          left: 50%;
-          transform: translateX(-50%);
-          animation: bounce 1s ease-in-out infinite;
-        "></div>
       </div>
       <style>
         @keyframes bounce {
@@ -66,7 +59,7 @@ const createPinIcon = (color: string) => {
 };
 
 interface MapViewProps {
-  data: GI[]; // Pass data as prop instead of fetching
+  data: GI[];
   onMarkerClick: (gi: GI) => void;
   selectedGI: GI | null;
   filters: { type: string; state: string; search: string };
@@ -81,7 +74,6 @@ const MapView: React.FC<MapViewProps> = ({
   const [geoJSON, setGeoJSON] = useState<any>(null);
   const mapRef = useRef<Map>(null);
 
-  // Load GeoJSON
   useEffect(() => {
     fetch("/data/india_state.geojson")
       .then((res) => res.json())
@@ -89,7 +81,6 @@ const MapView: React.FC<MapViewProps> = ({
       .catch((err) => console.error("Error loading GeoJSON:", err));
   }, []);
 
-  // Pan to selected GI
   useEffect(() => {
     if (selectedGI && mapRef.current) {
       const { lat, lng } = selectedGI.coordinates[0];
@@ -97,7 +88,6 @@ const MapView: React.FC<MapViewProps> = ({
     }
   }, [selectedGI]);
 
-  // Filter data
   const filteredData = data.filter(
     (gi) =>
       (filters.type === "All" || gi.type === filters.type) &&
@@ -122,71 +112,108 @@ const MapView: React.FC<MapViewProps> = ({
   }
 
   return (
-    <MapContainer
-      ref={mapRef}
-      center={[20, 78]}
-      zoom={5}
-      style={{ height: "100%", width: "100%" }}
-      scrollWheelZoom={true}
-    >
-      <TileLayer
-        url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
-        attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
-      />
+    <div style={{ position: "relative", height: "100%", width: "100%" }}>
+      <MapContainer
+        ref={mapRef}
+        center={[20, 78]}
+        zoom={5}
+        style={{ height: "100%", width: "100%" }}
+        scrollWheelZoom={true}
+      >
+        <TileLayer
+          url="https://server.arcgisonline.com/ArcGIS/rest/services/NatGeo_World_Map/MapServer/tile/{z}/{y}/{x}"
+          attribution="Tiles &copy; Esri &mdash; National Geographic, Esri, DeLorme, NAVTEQ, UNEP-WCMC, USGS, NASA, ESA, METI, NRCAN, GEBCO, NOAA, iPC"
+          maxZoom={16}
+        />
 
-      {geoJSON && <GeoJSON data={geoJSON} style={geoJsonStyle} />}
+        {geoJSON && <GeoJSON data={geoJSON} style={geoJsonStyle} />}
 
-      {filteredData.flatMap((gi) =>
-        gi.coordinates.map((coord) => {
-          return (
-            <CircleMarker
-              key={`${gi.id}-${coord.state}`}
-              center={[coord.lat, coord.lng]}
-              radius={8}
-              pathOptions={{
-                color: "#ffffff",
-                weight: 2,
-                fillColor: typeColors[gi.type] || "#6B7280",
-                fillOpacity: 0.8,
-              }}
-              eventHandlers={{
-                click: () => onMarkerClick(gi),
-              }}
-            >
-              <Tooltip direction="top" offset={[0, -10]}>
-                <div className="text-sm">
-                  <strong>{gi.name}</strong>
-                  <br />
-                  <span className="text-gray-600">{gi.type}</span>
-                </div>
-              </Tooltip>
-            </CircleMarker>
-          );
-        })
-      )}
+        {filteredData.flatMap((gi) =>
+          gi.coordinates.map((coord) => {
+            return (
+              <CircleMarker
+                key={`${gi.id}-${coord.state}`}
+                center={[coord.lat, coord.lng]}
+                radius={8}
+                pathOptions={{
+                  color: "#ffffff",
+                  weight: 2,
+                  fillColor: typeColors[gi.type] || "#6B7280",
+                  fillOpacity: 0.8,
+                }}
+                eventHandlers={{
+                  click: () => onMarkerClick(gi),
+                }}
+              >
+                <Tooltip direction="top" offset={[0, -10]}>
+                  <div className="text-sm">
+                    <strong>{gi.name}</strong>
+                    <br />
+                    <span className="text-gray-600">{gi.type}</span>
+                  </div>
+                </Tooltip>
+              </CircleMarker>
+            );
+          })
+        )}
 
-      {/* Pin marker for selected GI */}
-      {selectedGI && (
-        <Marker
-          position={[
-            selectedGI.coordinates[0].lat,
-            selectedGI.coordinates[0].lng,
-          ]}
-          icon={createPinIcon(typeColors[selectedGI.type] || "#6B7280")}
-        >
-          <Popup>
-            <div className="p-2">
-              <h3 className="font-bold text-lg">{selectedGI.name}</h3>
-              <p className="text-sm text-gray-600 mt-1">{selectedGI.type}</p>
-              <p className="text-sm mt-2">{selectedGI.info}</p>
-              <p className="text-xs text-gray-500 mt-2">
-                States: {selectedGI.states.join(", ")}
-              </p>
+        {selectedGI && (
+          <Marker
+            position={[
+              selectedGI.coordinates[0].lat,
+              selectedGI.coordinates[0].lng,
+            ]}
+            icon={createPinIcon(typeColors[selectedGI.type] || "#6B7280")}
+          >
+            <Popup>
+              <div className="p-2">
+                <h3 className="font-bold text-lg">{selectedGI.name}</h3>
+                <p className="text-sm text-gray-600 mt-1">{selectedGI.type}</p>
+                <p className="text-sm mt-2">{selectedGI.info}</p>
+                <p className="text-xs text-gray-500 mt-2">
+                  States: {selectedGI.states.join(", ")}
+                </p>
+              </div>
+            </Popup>
+          </Marker>
+        )}
+      </MapContainer>
+
+      {/* Legend */}
+      <div
+        className="absolute top-4 right-4 bg-white/30 backdrop-blur-md border-t border-white/50 shadow-lg rounded-t-xl p-4 z-[1000]"
+        style={{ maxWidth: "200px" }}
+      >
+        <h3 className="text-sm font-bold text-gray-800 mb-3 border-b pb-2">
+          GI Types
+        </h3>
+        <div className="space-y-2">
+          {Object.entries(typeColors).map(([type, color]) => (
+            <div key={type} className="flex items-center gap-2">
+              <div
+                className="w-4 h-4 rounded-full border-2 border-white shadow-sm"
+                style={{ backgroundColor: color }}
+              />
+              <span className="text-xs text-gray-700">{type}</span>
             </div>
-          </Popup>
-        </Marker>
-      )}
-    </MapContainer>
+          ))}
+        </div>
+        <div className="mt-3 pt-3 border-t">
+          <div className="flex items-center gap-2">
+            <svg width="20" height="25" viewBox="0 0 40 50">
+              <path
+                d="M20 0C12.268 0 6 6.268 6 14c0 10.5 14 36 14 36s14-25.5 14-36c0-7.732-6.268-14-14-14z"
+                fill="#6B7280"
+                stroke="#ffffff"
+                strokeWidth="2"
+              />
+              <circle cx="20" cy="14" r="6" fill="#ffffff" />
+            </svg>
+            <span className="text-xs text-gray-700">Selected</span>
+          </div>
+        </div>
+      </div>
+    </div>
   );
 };
 

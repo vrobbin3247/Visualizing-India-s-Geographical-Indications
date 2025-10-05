@@ -41,9 +41,22 @@ const DetailPanel: React.FC<DetailPanelProps> = ({
       <div className="description">{selectedGI.info}</div>
       <button
         onClick={onNext}
-        className="mt-8 w-full bg-gray-800 text-white py-2 rounded"
+        className="mt-8 w-full bg-gray-800 text-white py-2 rounded flex justify-center items-center"
       >
-        → Next item based on filter
+        <svg
+          xmlns="http://www.w3.org/2000/svg"
+          className="h-6 w-6"
+          fill="none"
+          viewBox="0 0 24 24"
+          stroke="currentColor"
+        >
+          <path
+            strokeLinecap="round"
+            strokeLinejoin="round"
+            strokeWidth={2}
+            d="M14 5l7 7m0 0l-7 7m7-7H3"
+          />
+        </svg>
       </button>
     </div>
   );

@@ -11,6 +11,7 @@ import {
 import L from "leaflet";
 import "leaflet/dist/leaflet.css";
 import "leaflet-providers";
+import { useDrag } from "react-use-gesture";
 import type { Map } from "leaflet";
 
 interface GI {
@@ -74,6 +75,27 @@ const MapView: React.FC<MapViewProps> = ({
 }) => {
   const [geoJSON, setGeoJSON] = useState<any>(null);
   const mapRef = useRef<Map>(null);
+  const [isLegendOpen, setIsLegendOpen] = useState(true);
+
+  useEffect(() => {
+    const timer = setTimeout(() => {
+      setIsLegendOpen(false);
+    }, 2000);
+
+    return () => clearTimeout(timer);
+  }, []);
+
+  const bind = useDrag(
+    ({ down, direction: [xDir], velocity }) => {
+      if (!down && velocity > 0.2) {
+        if (xDir > 0) {
+          setIsLegendOpen(false); // Swipe right to close
+        } else {
+          setIsLegendOpen(true); // Swipe left to open
+        }
+      }
+    }
+  );
 
   useEffect(() => {
     fetch("/data/india_state.geojson")
@@ -187,37 +209,67 @@ const MapView: React.FC<MapViewProps> = ({
         )}
       </MapContainer>
 
-      {/* Legend */}
+      {/* Legend & Toggle Container */}
       <div
-        className="absolute top-4 right-4 bg-white/30 backdrop-blur-md border-t border-white/50 shadow-lg rounded-t-xl p-4 z-[1000]"
-        style={{ maxWidth: "200px" }}
+        {...bind()}
+        className={`absolute top-4 right-0 z-[1000] flex items-start transition-transform duration-300 ease-in-out md:right-4 ${
+          isLegendOpen
+            ? "translate-x-0"
+            : "translate-x-[calc(100%-44px)] md:translate-x-0"
+        }`}
       >
-        <h3 className="text-sm font-bold text-gray-800 mb-3 border-b pb-2">
-          GI Types
-        </h3>
-        <div className="space-y-2">
-          {Object.entries(typeColors).map(([type, color]) => (
-            <div key={type} className="flex items-center gap-2">
-              <div
-                className="w-4 h-4 rounded-full border-2 border-white shadow-sm"
-                style={{ backgroundColor: color }}
-              />
-              <span className="text-xs text-gray-700">{type}</span>
+        <button
+          onClick={() => setIsLegendOpen(!isLegendOpen)}
+          className="md:hidden mt-1 bg-white/50 backdrop-blur-md p-2 rounded-l-lg shadow-lg flex-shrink-0"
+          style={{ width: "44px", height: "44px" }}
+        >
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            className="h-6 w-6 text-gray-700 mx-auto"
+            fill="none"
+            viewBox="0 0 24 24"
+            stroke="currentColor"
+          >
+            <path
+              strokeLinecap="round"
+              strokeLinejoin="round"
+              strokeWidth={2}
+              d={isLegendOpen ? "M9 5l7 7-7 7" : "M15 19l-7-7 7-7"}
+            />
+          </svg>
+        </button>
+
+        <div
+          className="bg-white/30 backdrop-blur-md border-t border-white/50 shadow-lg rounded-r-xl p-4 md:rounded-xl"
+          style={{ width: "200px" }}
+        >
+          <h3 className="text-sm font-bold text-gray-800 mb-3 border-b pb-2">
+            GI Types
+          </h3>
+          <div className="space-y-2">
+            {Object.entries(typeColors).map(([type, color]) => (
+              <div key={type} className="flex items-center gap-2">
+                <div
+                  className="w-4 h-4 rounded-full border-2 border-white shadow-sm"
+                  style={{ backgroundColor: color }}
+                />
+                <span className="text-xs text-gray-700">{type}</span>
+              </div>
+            ))}
+          </div>
+          <div className="mt-3 pt-3 border-t">
+            <div className="flex items-center gap-2">
+              <svg width="20" height="25" viewBox="0 0 40 50">
+                <path
+                  d="M20 0C12.268 0 6 6.268 6 14c0 10.5 14 36 14 36s14-25.5 14-36c0-7.732-6.268-14-14-14z"
+                  fill="#6B7280"
+                  stroke="#ffffff"
+                  strokeWidth="2"
+                />
+                <circle cx="20" cy="14" r="6" fill="#ffffff" />
+              </svg>
+              <span className="text-xs text-gray-700">Selected</span>
             </div>
-          ))}
-        </div>
-        <div className="mt-3 pt-3 border-t">
-          <div className="flex items-center gap-2">
-            <svg width="20" height="25" viewBox="0 0 40 50">
-              <path
-                d="M20 0C12.268 0 6 6.268 6 14c0 10.5 14 36 14 36s14-25.5 14-36c0-7.732-6.268-14-14-14z"
-                fill="#6B7280"
-                stroke="#ffffff"
-                strokeWidth="2"
-              />
-              <circle cx="20" cy="14" r="6" fill="#ffffff" />
-            </svg>
-            <span className="text-xs text-gray-700">Selected</span>
           </div>
         </div>
       </div>

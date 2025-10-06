@@ -3,7 +3,9 @@
     "id": "1",
     "name": "Darjeeling Tea",
     "type": "Agricultural",
-    "states": ["West Bengal"],
+    "states": [
+      "West Bengal"
+    ],
     "coordinates": [
       {
         "state": "West Bengal",
@@ -13,14 +15,16 @@
     ],
     "primaryState": "West Bengal",
     "stateCount": 1,
-    "image_url": "https://example.com/images/Darjeeling_Tea.jpg",
+    "image_url": "https://cdn11.bigcommerce.com/s-icmhjzy/images/stencil/960w/products/123/5128/Darjeeling_Rnd__48462.1591645870.png",
     "info": "Darjeeling Tea, from the hills of Darjeeling, West Bengal, is renowned globally as the 'Champagne of Teas' for its distinctive muscatel flavor and aroma. This prestigious GI-tagged product is cultivated at high altitudes, yielding a delicate and complex brew highly prized by connoisseurs worldwide."
   },
   {
     "id": "2",
     "name": "Pochampalli Ikat",
     "type": "Handicraft",
-    "states": ["Telangana"],
+    "states": [
+      "Telangana"
+    ],
     "coordinates": [
       {
         "state": "Telangana",
@@ -30,14 +34,16 @@
     ],
     "primaryState": "Telangana",
     "stateCount": 1,
-    "image_url": "https://example.com/images/Pochampalli_Ikat.jpg",
+    "image_url": "https://mapacademy.io/wp-content/uploads/2022/04/pochampally-ikat-10Thumbnail.jpg",
     "info": "Pochampalli Ikat, originating from Bhoodan Pochampally in Telangana, is a traditional handicraft famous for its unique double ikat weaving technique. This intricate process creates mesmerizing geometric patterns on silk and cotton fabrics, making each piece a distinct work of art and a celebrated GI product."
   },
   {
     "id": "3",
     "name": "Chanderi Sarees",
     "type": "Handicraft",
-    "states": ["Madhya Pradesh"],
+    "states": [
+      "Madhya Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Madhya Pradesh",
@@ -47,14 +53,16 @@
     ],
     "primaryState": "Madhya Pradesh",
     "stateCount": 1,
-    "image_url": "https://example.com/images/Chanderi_Sarees.jpg",
+    "image_url": "https://tiimg.tistatic.com/fp/1/006/116/ladies-chanderi-silk-saree-641.jpg",
     "info": "Chanderi Sarees hail from the historic town of Chanderi in Madhya Pradesh, known for their sheer texture, lightweight feel, and fine luxurious drapes. Woven from silk and cotton, these GI-tagged sarees are adorned with intricate zari work, blending traditional artistry with elegance."
   },
   {
     "id": "4",
     "name": "Kotpad Handloom fabric",
     "type": "Handicraft",
-    "states": ["Odisha"],
+    "states": [
+      "Odisha"
+    ],
     "coordinates": [
       {
         "state": "Odisha",
@@ -64,14 +72,16 @@
     ],
     "primaryState": "Odisha",
     "stateCount": 1,
-    "image_url": "https://example.com/images/Kotpad_Handloom_fabric.jpg",
+    "image_url": "https://priyaodisha.com/cdn/shop/products/handloom-kotpad-cotton-saree-handloom-sareecotton-priyadarshini-handloom-140604.jpg",
     "info": "Kotpad Handloom Fabric, originating from Kotpad in Odisha, is celebrated for its natural dyeing process using the roots of the 'Aal' tree. This GI-tagged textile features striking tribal motifs and earthy tones, reflecting the rich cultural heritage and sustainable practices of the local communities."
   },
   {
     "id": "6",
     "name": "Kancheepuram Silk",
     "type": "Handicraft",
-    "states": ["Tamil Nadu"],
+    "states": [
+      "Tamil Nadu"
+    ],
     "coordinates": [
       {
         "state": "Tamil Nadu",
@@ -81,14 +91,16 @@
     ],
     "primaryState": "Tamil Nadu",
     "stateCount": 1,
-    "image_url": "https://example.com/images/Kancheepuram_Silk.jpg",
+    "image_url": "https://grandmaslegacy.wordpress.com/wp-content/uploads/2017/11/jacquard_kanjeevaram.jpg",
     "info": "Kancheepuram Silk sarees, woven in Kancheepuram, Tamil Nadu, are legendary for their exquisite craftsmanship, heavy silk, and rich zari borders. These GI-protected masterpieces are often adorned with traditional temple motifs and vibrant colors, symbolizing South Indian heritage and elegance."
   },
   {
     "id": "7",
     "name": "Mysore Agarbathi",
     "type": "Manufactured",
-    "states": ["Karnataka"],
+    "states": [
+      "Karnataka"
+    ],
     "coordinates": [
       {
         "state": "Karnataka",
@@ -98,14 +110,16 @@
     ],
     "primaryState": "Karnataka",
     "stateCount": 1,
-    "image_url": "https://example.com/images/Mysore_Agarbathi.jpg",
+    "image_url": "https://www.gitagged.com/wp-content/uploads/2019/12/Mysore-Sandal-Agarbathi-3.jpg",
     "info": "Mysore Agarbathi, originating from Mysore in Karnataka, is known for its unique blend of natural aromatic ingredients and traditional hand-rolling techniques. This GI-tagged incense stick offers a distinct and long-lasting fragrance, creating a serene ambiance that embodies the region's rich heritage."
   },
   {
     "id": "8",
     "name": "Kota Doria",
     "type": "Handicraft",
-    "states": ["Rajasthan"],
+    "states": [
+      "Rajasthan"
+    ],
     "coordinates": [
       {
         "state": "Rajasthan",
@@ -115,14 +129,16 @@
     ],
     "primaryState": "Rajasthan",
     "stateCount": 1,
-    "image_url": "https://example.com/images/Kota_Doria.jpg",
+    "image_url": "https://fabriclore.com/cdn/shop/articles/Kota_Doria.JPG",
     "info": "Kota Doria, woven in Kota, Rajasthan, is a lightweight and transparent fabric featuring a distinctive square check pattern known as 'khats'. This GI-protected textile, crafted from cotton and silk, is celebrated for its delicate elegance and comfortable wear, perfect for warm climates."
   },
   {
     "id": "9",
     "name": "Bhavani Jamakkalam",
     "type": "Handicraft",
-    "states": ["Tamil Nadu"],
+    "states": [
+      "Tamil Nadu"
+    ],
     "coordinates": [
       {
         "state": "Tamil Nadu",
@@ -132,14 +148,16 @@
     ],
     "primaryState": "Tamil Nadu",
     "stateCount": 1,
-    "image_url": "https://example.com/images/Bhavani_Jamakkalam.jpg",
+    "image_url": "https://cpimg.tistatic.com/04865896/b/7/Bhavani-Jamakkalam.jpg",
     "info": "Bhavani Jamakkalam refers to durable and colorful floor coverings or rugs hand-woven in Bhavani, Tamil Nadu. This GI-tagged product is known for its vibrant designs, robust construction, and utility, serving as both a traditional floor covering and a comfortable seating option."
   },
   {
     "id": "10",
     "name": "Aranmula Kannadi",
     "type": "Handicraft",
-    "states": ["Kerala"],
+    "states": [
+      "Kerala"
+    ],
     "coordinates": [
       {
         "state": "Kerala",
@@ -149,14 +167,16 @@
     ],
     "primaryState": "Kerala",
     "stateCount": 1,
-    "image_url": "https://example.com/images/Aranmula_Kannadi.jpg",
+    "image_url": "https://aranmulakannadi.net/cdn/shop/files/FullSizeRender6_530x@2x.jpg",
     "info": "Aranmula Kannadi is a unique handmade metal-alloy mirror from Aranmula, Kerala, famed for its perfect reflection without distortion. Unlike ordinary silvered glass mirrors, this GI-tagged artifact is a front-surface mirror, crafted through an ancient metallurgical art form passed down through generations."
   },
   {
     "id": "11",
     "name": "Salem Fabric",
     "type": "Handicraft",
-    "states": ["Tamil Nadu"],
+    "states": [
+      "Tamil Nadu"
+    ],
     "coordinates": [
       {
         "state": "Tamil Nadu",
@@ -166,14 +186,16 @@
     ],
     "primaryState": "Tamil Nadu",
     "stateCount": 1,
-    "image_url": "https://example.com/images/Salem_Fabric.jpg",
+    "image_url": "https://asiainch.org/wp-content/uploads/2019/09/4-7.png",
     "info": "Salem Fabric, from Salem in Tamil Nadu, is renowned for its high-quality cotton and silk textiles, particularly its intricate handloom weaving. This GI-tagged product encompasses a variety of fabrics known for their durability, vibrant colors, and traditional patterns, reflecting the region's rich textile heritage."
   },
   {
     "id": "12",
     "name": "Solapur Chaddar",
     "type": "Handicraft",
-    "states": ["Maharashtra"],
+    "states": [
+      "Maharashtra"
+    ],
     "coordinates": [
       {
         "state": "Maharashtra",
@@ -183,14 +205,16 @@
     ],
     "primaryState": "Maharashtra",
     "stateCount": 1,
-    "image_url": "https://example.com/images/Solapur_Chaddar.jpg",
+    "image_url": "https://cotonine.com/cdn/shop/files/LifestyleSingleChaddarRedSet_1024x1024@2x.jpg",
     "info": "Solapur Chaddar, originating from Solapur in Maharashtra, is a popular cotton bed sheet known for its durability, unique designs, and thermal properties. This GI-tagged product is traditionally hand-woven, making it a comfortable and long-lasting bedding choice for households across India."
   },
   {
     "id": "13",
     "name": "Solapur Terry Towel",
     "type": "Handicraft",
-    "states": ["Maharashtra"],
+    "states": [
+      "Maharashtra"
+    ],
     "coordinates": [
       {
         "state": "Maharashtra",
@@ -200,14 +224,16 @@
     ],
     "primaryState": "Maharashtra",
     "stateCount": 1,
-    "image_url": "https://example.com/images/Solapur_Terry_Towel.jpg",
+    "image_url": "https://www.gitagged.com/wp-content/uploads/2018/09/SOLAPUR-TERRY-TOWEL-PREMIER-FLOWER.jpg",
     "info": "Solapur Terry Towel, also from Solapur in Maharashtra, is famed for its high absorbency, softness, and resilience. This GI-tagged product is crafted using specialized weaving techniques, ensuring a plush feel and excellent functional quality, making it a favored choice for everyday use."
   },
   {
     "id": "14",
     "name": "Mysore Silk",
     "type": "Handicraft",
-    "states": ["Karnataka"],
+    "states": [
+      "Karnataka"
+    ],
     "coordinates": [
       {
         "state": "Karnataka",
@@ -217,14 +243,16 @@
     ],
     "primaryState": "Karnataka",
     "stateCount": 1,
-    "image_url": "https://example.com/images/Mysore_Silk.jpg",
+    "image_url": "https://www.shopkhoj.com/wp-content/uploads/2024/12/Mysore-Silk-sarees.jpg",
     "info": "Mysore Silk, produced in Mysore, Karnataka, is celebrated for its purity, rich texture, and intricate zari work, primarily found in sarees. This GI-tagged silk is known for its use of genuine silk and pure gold zari, reflecting the regal traditions of the Mysore royal family and Karnataka's weaving heritage."
   },
   {
     "id": "15",
     "name": "Kullu Shawl",
     "type": "Handicraft",
-    "states": ["Himachal Pradesh"],
+    "states": [
+      "Himachal Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Himachal Pradesh",
@@ -234,14 +262,16 @@
     ],
     "primaryState": "Himachal Pradesh",
     "stateCount": 1,
-    "image_url": "https://example.com/images/Kullu_Shawl.jpg",
+    "image_url": "https://5.imimg.com/data5/SELLER/Default/2020/11/GW/DK/NO/117116792/kullu-shawls.jpg",
     "info": "Kullu Shawl, originating from Kullu in Himachal Pradesh, is an exquisite woolen wrap adorned with distinctive geometric patterns and vibrant borders. This GI-tagged handicraft is hand-woven by local artisans, showcasing the region's rich weaving traditions and providing warmth with style."
   },
   {
     "id": "16",
     "name": "Madurai Sungudi",
     "type": "Handicraft",
-    "states": ["Tamil Nadu"],
+    "states": [
+      "Tamil Nadu"
+    ],
     "coordinates": [
       {
         "state": "Tamil Nadu",
@@ -251,14 +281,16 @@
     ],
     "primaryState": "Tamil Nadu",
     "stateCount": 1,
-    "image_url": "https://example.com/images/Madurai_Sungudi.jpg",
+    "image_url": "https://cdn.shopaccino.com/kalpavastram/products/20241005143927-174229138171383_l.jpg",
     "info": "Madurai Sungudi, from Madurai in Tamil Nadu, is a unique tie-dyed cotton fabric known for its vibrant colors and intricate dotted patterns. This GI-tagged textile traditionally involves a laborious process of natural dyeing and resist printing, creating designs that reflect local culture and craftsmanship."
   },
   {
     "id": "17",
     "name": "Kangra Tea",
     "type": "Agricultural",
-    "states": ["Himachal Pradesh"],
+    "states": [
+      "Himachal Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Himachal Pradesh",
@@ -268,14 +300,16 @@
     ],
     "primaryState": "Himachal Pradesh",
     "stateCount": 1,
-    "image_url": "https://example.com/images/Kangra_Tea.jpg",
+    "image_url": "https://5.imimg.com/data5/SELLER/Default/2020/12/GL/HS/SR/115079691/kangra-green-tea.jpg",
     "info": "Kangra Tea, cultivated in the Kangra valley of Himachal Pradesh, is a highly prized black and green tea known for its distinctive aroma and delicate flavor. This GI-tagged product benefits from the unique agro-climatic conditions of the Himalayas, offering a unique taste profile that is sought after globally."
   },
   {
     "id": "18",
     "name": "Coorg Orange",
     "type": "Agricultural",
-    "states": ["Karnataka"],
+    "states": [
+      "Karnataka"
+    ],
     "coordinates": [
       {
         "state": "Karnataka",
@@ -285,14 +319,16 @@
     ],
     "primaryState": "Karnataka",
     "stateCount": 1,
-    "image_url": "https://example.com/images/Coorg_Orange.jpg",
+    "image_url": "https://kstdc.co/wp-content/uploads/2021/12/shutterstock_1990404881_LR.jpg",
     "info": "Coorg Orange, grown in the Kodagu (Coorg) district of Karnataka, is a highly aromatic and sweet-sour mandarin variety. This GI-tagged fruit is celebrated for its juicy pulp and easy-to-peel skin, thriving in the region's unique climate and soil conditions, making it a local delicacy."
   },
   {
     "id": "19",
     "name": "Mysore Betel leaf",
     "type": "Agricultural",
-    "states": ["Karnataka"],
+    "states": [
+      "Karnataka"
+    ],
     "coordinates": [
       {
         "state": "Karnataka",
@@ -302,14 +338,16 @@
     ],
     "primaryState": "Karnataka",
     "stateCount": 1,
-    "image_url": "https://example.com/images/Mysore_Betel_leaf.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Betel_leafs_Selling.JPG",
     "info": "Mysore Betel Leaf, cultivated around Mysore in Karnataka, is highly esteemed for its distinctive taste, smooth texture, and aroma. This GI-tagged leaf is a significant part of traditional Indian culture, used in religious ceremonies and as a mouth freshener, embodying the rich agricultural heritage of the region."
   },
   {
     "id": "20",
     "name": "Nanjanagud Banana",
     "type": "Agricultural",
-    "states": ["Karnataka"],
+    "states": [
+      "Karnataka"
+    ],
     "coordinates": [
       {
         "state": "Karnataka",
@@ -319,14 +357,16 @@
     ],
     "primaryState": "Karnataka",
     "stateCount": 1,
-    "image_url": "https://example.com/images/Nanjanagud_Banana.jpg",
+    "image_url": "https://static.wixstatic.com/media/a3e695_72d188c6b17d474393858ef52bcb7f96~mv2.jpg",
     "info": "Nanjanagud Banana, from Nanjanagud in Karnataka, is a unique and aromatic banana variety known for its pleasant fragrance and distinct sweet flavor. This GI-tagged fruit is specifically grown in the fertile soils near the Kapila river, making it a sought-after local agricultural product."
   },
   {
     "id": "21",
     "name": "Bidriware",
     "type": "Handicraft",
-    "states": ["Karnataka"],
+    "states": [
+      "Karnataka"
+    ],
     "coordinates": [
       {
         "state": "Karnataka",
@@ -336,14 +376,16 @@
     ],
     "primaryState": "Karnataka",
     "stateCount": 1,
-    "image_url": "https://example.com/images/Bidriware.jpg",
+    "image_url": "https://static.toiimg.com/photo/imgsize-866766,msid-68102322/68102322.jpg",
     "info": "Bidriware is a unique metal handicraft from Bidar, Karnataka, distinguished by its striking inlay work of pure silver or gold on a blackened alloy of zinc and copper. This GI-tagged art form involves intricate designs and a specialized oxidation process, resulting in stunning contrast and enduring beauty."
   },
   {
     "id": "22",
     "name": "Channapatna Toys & Dolls",
     "type": "Handicraft",
-    "states": ["Karnataka"],
+    "states": [
+      "Karnataka"
+    ],
     "coordinates": [
       {
         "state": "Karnataka",
@@ -353,14 +395,16 @@
     ],
     "primaryState": "Karnataka",
     "stateCount": 1,
-    "image_url": "https://example.com/images/Channapatna_Toys_&_Dolls.jpg",
+    "image_url": "https://www.zwende.com/cdn/shop/products/craftizen_toys_kathakali_pdp_2.jpg",
     "info": "Channapatna Toys & Dolls, originating from Channapatna in Karnataka, are renowned for their traditional wooden craftsmanship and vibrant, natural dyes. These GI-tagged toys are handmade using lacquered wood, making them safe, eco-friendly, and cherished for their cultural significance and artistic appeal."
   },
   {
     "id": "23",
     "name": "Coimbatore Wet Grinder",
     "type": "Manufactured",
-    "states": ["Tamil Nadu"],
+    "states": [
+      "Tamil Nadu"
+    ],
     "coordinates": [
       {
         "state": "Tamil Nadu",
@@ -370,14 +414,16 @@
     ],
     "primaryState": "Tamil Nadu",
     "stateCount": 1,
-    "image_url": "https://example.com/images/Coimbatore_Wet_Grinder.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Wet_grinder.JPG/1200px-Wet_grinder.JPG",
     "info": "Coimbatore Wet Grinder, manufactured in Coimbatore, Tamil Nadu, is an innovative kitchen appliance essential for preparing South Indian staples like dosa and idli batter. This GI-tagged grinder is celebrated for its efficiency, durability, and ergonomic design, revolutionizing home cooking."
   },
   {
     "id": "24",
     "name": "Mysore Rosewood Inlay",
     "type": "Handicraft",
-    "states": ["Karnataka"],
+    "states": [
+      "Karnataka"
+    ],
     "coordinates": [
       {
         "state": "Karnataka",
@@ -387,14 +433,16 @@
     ],
     "primaryState": "Karnataka",
     "stateCount": 1,
-    "image_url": "https://example.com/images/Mysore_Rosewood_Inlay.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Wood_inlay_Mysore.jpg",
     "info": "Mysore Rosewood Inlay, a renowned handicraft from Mysore, Karnataka, features intricate designs meticulously inlaid into rosewood surfaces. This GI-tagged art often depicts mythological scenes, flora, and fauna, showcasing exceptional skill and preserving a centuries-old tradition of fine woodworking."
   },
   {
     "id": "25",
     "name": "Kasuti Embroidery",
     "type": "Handicraft",
-    "states": ["Karnataka"],
+    "states": [
+      "Karnataka"
+    ],
     "coordinates": [
       {
         "state": "Karnataka",
@@ -404,14 +452,16 @@
     ],
     "primaryState": "Karnataka",
     "stateCount": 1,
-    "image_url": "https://example.com/images/Kasuti_Embroidery.jpg",
+    "image_url": "https://www.gitagged.com/wp-content/uploads/2025/04/ILK-Kasuti-COT-Saree-P1-15-7-300x451.jpg",
     "info": "Kasuti Embroidery, originating from the Dharwad region of Karnataka, is a traditional hand embroidery characterized by intricate patterns inspired by temples, chariots, and natural motifs. This GI-tagged craft utilizes four types of stitches to create vibrant and durable designs on various fabrics, reflecting cultural narratives."
   },
   {
     "id": "26",
     "name": "Mysore Traditional Paintings",
     "type": "Handicraft",
-    "states": ["Karnataka"],
+    "states": [
+      "Karnataka"
+    ],
     "coordinates": [
       {
         "state": "Karnataka",
@@ -421,14 +471,16 @@
     ],
     "primaryState": "Karnataka",
     "stateCount": 1,
-    "image_url": "https://example.com/images/Mysore_Traditional_Paintings.jpg",
+    "image_url": "https://5.imimg.com/data5/SELLER/Default/2022/5/QO/UF/PV/152570923/mysore1.jpg",
     "info": "Mysore Traditional Paintings, from Mysore, Karnataka, are classical South Indian paintings known for their elegance, muted colors, and intricate details. This GI-tagged art form often depicts Hindu deities and mythological scenes, using gesso work and gold foil to achieve a distinct, opulent finish."
   },
   {
     "id": "27",
     "name": "Mysore Sandalwood Oil",
     "type": "Manufactured",
-    "states": ["Karnataka"],
+    "states": [
+      "Karnataka"
+    ],
     "coordinates": [
       {
         "state": "Karnataka",
@@ -438,14 +490,16 @@
     ],
     "primaryState": "Karnataka",
     "stateCount": 1,
-    "image_url": "https://example.com/images/Mysore_Sandalwood_Oil.jpg",
+    "image_url": "https://5.imimg.com/data5/SELLER/Default/2020/9/YU/TU/TY/22622718/flowers-fragrances-attar-500x500.png",
     "info": "Mysore Sandalwood Oil, produced in Mysore, Karnataka, is prized globally for its rich, woody, and long-lasting aroma. This GI-tagged essential oil is derived from Santalum album trees, historically grown in the region, and is highly valued in perfumery, aromatherapy, and traditional medicine."
   },
   {
     "id": "28",
     "name": "Mysore Sandal soap",
     "type": "Manufactured",
-    "states": ["Karnataka"],
+    "states": [
+      "Karnataka"
+    ],
     "coordinates": [
       {
         "state": "Karnataka",
@@ -455,14 +509,16 @@
     ],
     "primaryState": "Karnataka",
     "stateCount": 1,
-    "image_url": "https://example.com/images/Mysore_Sandal_soap.jpg",
+    "image_url": "https://www.gitagged.com/wp-content/uploads/2021/08/Mysore-Sandal-Soap-Original-150g-3.jpg",
     "info": "Mysore Sandal Soap, manufactured in Mysore, Karnataka, is an iconic Indian soap crafted with pure sandalwood oil. This GI-tagged product is known for its luxurious fragrance, moisturizing properties, and heritage, embodying the essence of Karnataka's prized sandalwood forests."
   },
   {
     "id": "29",
     "name": "Srikalahasthi Kalamkari",
     "type": "Handicraft",
-    "states": ["Andhra Pradesh"],
+    "states": [
+      "Andhra Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Andhra Pradesh",
@@ -472,14 +528,16 @@
     ],
     "primaryState": "Andhra Pradesh",
     "stateCount": 1,
-    "image_url": "https://example.com/images/Srikalahasthi_Kalamkari.jpg",
+    "image_url": "https://ibef.org/experienceindia/images/srikalahasthi/srikalahasthi-1.png",
     "info": "Srikalahasthi Kalamkari, originating from Srikalahasthi in Andhra Pradesh, is a traditional pen-painted textile art form. This GI-tagged craft involves intricate freehand drawing and natural dyeing techniques to depict mythological narratives and divine figures on cotton fabric, making each piece a vibrant storytelling canvas."
   },
   {
     "id": "29",
     "name": "Orissa Ikat",
     "type": "Handicraft",
-    "states": ["Odisha"],
+    "states": [
+      "Odisha"
+    ],
     "coordinates": [
       {
         "state": "Odisha",
@@ -489,14 +547,16 @@
     ],
     "primaryState": "Odisha",
     "stateCount": 1,
-    "image_url": "https://example.com/images/Orissa_Ikat.jpg",
+    "image_url": "https://mapacademy.io/wp-content/uploads/2024/07/odisha-ikat-1L-1.jpg",
     "info": "Orissa Ikat, primarily from regions like Sambalpur and Bargarh in Odisha, is a distinctive weaving technique where warp and/or weft threads are tie-dyed before weaving. This GI-tagged fabric is celebrated for its exquisite craftsmanship, vibrant colors, and fluid patterns, embodying Odisha's rich textile heritage."
   },
   {
     "id": "30",
     "name": "Kondapalli Bommallu",
     "type": "Handicraft",
-    "states": ["Andhra Pradesh"],
+    "states": [
+      "Andhra Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Andhra Pradesh",
@@ -506,14 +566,16 @@
     ],
     "primaryState": "Andhra Pradesh",
     "stateCount": 1,
-    "image_url": "https://example.com/images/Kondapalli_Bommallu.jpg",
+    "image_url": "https://giheritage.com/uploads/product/kondapalli-bommallu-kondapalli11-h.jpg",
     "info": "Kondapalli Bommallu are traditional wooden toys from Kondapalli village in Andhra Pradesh, characterized by their lightweight quality and vibrant hand-painted details. This GI-tagged handicraft, often depicting mythological figures and rural life, is made from a soft wood known as Tella Poniki, showcasing exquisite craftsmanship."
   },
   {
     "id": "31",
     "name": "Madhubani Paintings",
     "type": "Handicraft",
-    "states": ["Bihar"],
+    "states": [
+      "Bihar"
+    ],
     "coordinates": [
       {
         "state": "Bihar",
@@ -523,14 +585,16 @@
     ],
     "primaryState": "Bihar",
     "stateCount": 1,
-    "image_url": "https://example.com/images/Madhubani_Paintings.jpg",
+    "image_url": "https://5.imimg.com/data5/TI/ZI/PR/SELLER-9770284/mppk004-500x500.jpg",
     "info": "Madhubani Paintings, originating from the Madhubani district of Bihar, are vibrant folk art known for their intricate geometric patterns and depiction of nature and mythology. This GI-tagged traditional painting style, traditionally done by women on walls and cloth, uses natural dyes and features bold outlines."
   },
   {
     "id": "32",
     "name": "Thanjavur Paintings",
     "type": "Handicraft",
-    "states": ["Tamil Nadu"],
+    "states": [
+      "Tamil Nadu"
+    ],
     "coordinates": [
       {
         "state": "Tamil Nadu",
@@ -540,14 +604,16 @@
     ],
     "primaryState": "Tamil Nadu",
     "stateCount": 1,
-    "image_url": "https://example.com/images/Thanjavur_Paintings.jpg",
+    "image_url": "https://mangalatanjorepaintings.com/cdn/shop/files/WhatsApp_Image_2024-07-17_at_1.04.47_PM_1_546x600.jpg",
     "info": "Thanjavur Paintings, from Thanjavur in Tamil Nadu, are classical South Indian art pieces characterized by their vibrant colors, glittering gold foil, and intricate gesso work. This GI-tagged art form typically portrays Hindu deities and mythological events, serving as a rich cultural and religious expression."
   },
   {
     "id": "33",
     "name": "Silver Filigree of Karimnagar",
     "type": "Handicraft",
-    "states": ["Telangana"],
+    "states": [
+      "Telangana"
+    ],
     "coordinates": [
       {
         "state": "Telangana",
@@ -557,14 +623,16 @@
     ],
     "primaryState": "Telangana",
     "stateCount": 1,
-    "image_url": "https://example.com/images/Silver_Filigree_of_Karimnagar.jpg",
+    "image_url": "https://www.dsource.in/sites/default/files/gallery/3519/1.jpg",
     "info": "Silver Filigree of Karimnagar, from Karimnagar in Telangana, is an exquisite art form involving intricate lacework with fine silver wires. This GI-tagged handicraft creates delicate jewelry, utility items, and showpieces, showcasing the meticulous skill and precision of local artisans."
   },
   {
     "id": "34",
     "name": "Alleppey Coir",
     "type": "Handicraft",
-    "states": ["Kerala"],
+    "states": [
+      "Kerala"
+    ],
     "coordinates": [
       {
         "state": "Kerala",
@@ -581,7 +649,9 @@
     "id": "35",
     "name": "Mysore Malligae",
     "type": "Agricultural",
-    "states": ["Karnataka"],
+    "states": [
+      "Karnataka"
+    ],
     "coordinates": [
       {
         "state": "Karnataka",
@@ -598,7 +668,9 @@
     "id": "36",
     "name": "Udupi Malligae",
     "type": "Agricultural",
-    "states": ["Karnataka"],
+    "states": [
+      "Karnataka"
+    ],
     "coordinates": [
       {
         "state": "Karnataka",
@@ -615,7 +687,9 @@
     "id": "37",
     "name": "Hadagali Malligae",
     "type": "Agricultural",
-    "states": ["Karnataka"],
+    "states": [
+      "Karnataka"
+    ],
     "coordinates": [
       {
         "state": "Karnataka",
@@ -632,7 +706,9 @@
     "id": "38",
     "name": "Muga Silk of Assam",
     "type": "Handicraft",
-    "states": ["Assam"],
+    "states": [
+      "Assam"
+    ],
     "coordinates": [
       {
         "state": "Assam",
@@ -649,7 +725,9 @@
     "id": "39",
     "name": "Temple Jewellery of Nagercoil",
     "type": "Handicraft",
-    "states": ["Tamil Nadu"],
+    "states": [
+      "Tamil Nadu"
+    ],
     "coordinates": [
       {
         "state": "Tamil Nadu",
@@ -666,7 +744,9 @@
     "id": "40",
     "name": "Navara Rice",
     "type": "Agricultural",
-    "states": ["Kerala"],
+    "states": [
+      "Kerala"
+    ],
     "coordinates": [
       {
         "state": "Kerala",
@@ -683,7 +763,9 @@
     "id": "41",
     "name": "Palakkadan Matta Rice",
     "type": "Agricultural",
-    "states": ["Kerala"],
+    "states": [
+      "Kerala"
+    ],
     "coordinates": [
       {
         "state": "Kerala",
@@ -700,7 +782,9 @@
     "id": "42",
     "name": "Thanjavur Art Plate",
     "type": "Handicraft",
-    "states": ["Tamil Nadu"],
+    "states": [
+      "Tamil Nadu"
+    ],
     "coordinates": [
       {
         "state": "Tamil Nadu",
@@ -717,7 +801,9 @@
     "id": "43",
     "name": "Ilkal Sarees",
     "type": "Handicraft",
-    "states": ["Karnataka"],
+    "states": [
+      "Karnataka"
+    ],
     "coordinates": [
       {
         "state": "Karnataka",
@@ -734,7 +820,9 @@
     "id": "44",
     "name": "Applique (Khatwa) Work of Bihar",
     "type": "Handicraft",
-    "states": ["Bihar"],
+    "states": [
+      "Bihar"
+    ],
     "coordinates": [
       {
         "state": "Bihar",
@@ -751,7 +839,9 @@
     "id": "45",
     "name": "Sujini Embroidery Work of Bihar",
     "type": "Handicraft",
-    "states": ["Bihar"],
+    "states": [
+      "Bihar"
+    ],
     "coordinates": [
       {
         "state": "Bihar",
@@ -768,7 +858,9 @@
     "id": "46",
     "name": "Sikki Grass Products of Bihar",
     "type": "Handicraft",
-    "states": ["Bihar"],
+    "states": [
+      "Bihar"
+    ],
     "coordinates": [
       {
         "state": "Bihar",
@@ -785,7 +877,11 @@
     "id": "47",
     "name": "Malabar Pepper",
     "type": "Agricultural",
-    "states": ["Kerala", "Karnataka", "Tamilnadu"],
+    "states": [
+      "Kerala",
+      "Karnataka",
+      "Tamilnadu"
+    ],
     "coordinates": [
       {
         "state": "Kerala",
@@ -812,7 +908,9 @@
     "id": "48",
     "name": "Allahabad Surkha Guava",
     "type": "Agricultural",
-    "states": ["Uttar Pradesh"],
+    "states": [
+      "Uttar Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Uttar Pradesh",
@@ -829,7 +927,9 @@
     "id": "49",
     "name": "Nakshi Kantha",
     "type": "Handicraft",
-    "states": ["West Bengal"],
+    "states": [
+      "West Bengal"
+    ],
     "coordinates": [
       {
         "state": "West Bengal",
@@ -846,7 +946,9 @@
     "id": "50",
     "name": "Ganjifa Cards of Mysore",
     "type": "Handicraft",
-    "states": ["Karnataka"],
+    "states": [
+      "Karnataka"
+    ],
     "coordinates": [
       {
         "state": "Karnataka",
@@ -863,7 +965,9 @@
     "id": "51",
     "name": "Navalgund Durries",
     "type": "Handicraft",
-    "states": ["Karnataka"],
+    "states": [
+      "Karnataka"
+    ],
     "coordinates": [
       {
         "state": "Karnataka",
@@ -880,7 +984,9 @@
     "id": "52",
     "name": "Karnataka Bronzeware",
     "type": "Handicraft",
-    "states": ["Karnataka"],
+    "states": [
+      "Karnataka"
+    ],
     "coordinates": [
       {
         "state": "Karnataka",
@@ -897,7 +1003,9 @@
     "id": "53",
     "name": "Molakalmuru Sarees",
     "type": "Handicraft",
-    "states": ["Karnataka"],
+    "states": [
+      "Karnataka"
+    ],
     "coordinates": [
       {
         "state": "Karnataka",
@@ -914,7 +1022,10 @@
     "id": "54",
     "name": "Monsooned Malabar Arabica Coffee",
     "type": "Agricultural",
-    "states": ["Karnataka", "Kerala"],
+    "states": [
+      "Karnataka",
+      "Kerala"
+    ],
     "coordinates": [
       {
         "state": "Karnataka",
@@ -936,7 +1047,10 @@
     "id": "55",
     "name": "Monsooned Malabar Robusta Coffee",
     "type": "Agricultural",
-    "states": ["Karnataka", "Kerala"],
+    "states": [
+      "Karnataka",
+      "Kerala"
+    ],
     "coordinates": [
       {
         "state": "Karnataka",
@@ -958,7 +1072,9 @@
     "id": "56",
     "name": "Salem Silk known as Salem Venpattu",
     "type": "Handicraft",
-    "states": ["Tamil Nadu"],
+    "states": [
+      "Tamil Nadu"
+    ],
     "coordinates": [
       {
         "state": "Tamil Nadu",
@@ -975,7 +1091,9 @@
     "id": "57",
     "name": "Kovai Kora Cotton Sarees",
     "type": "Handicraft",
-    "states": ["Tamil Nadu"],
+    "states": [
+      "Tamil Nadu"
+    ],
     "coordinates": [
       {
         "state": "Tamil Nadu",
@@ -992,7 +1110,9 @@
     "id": "58",
     "name": "Arani Silk",
     "type": "Handicraft",
-    "states": ["Tamil Nadu"],
+    "states": [
+      "Tamil Nadu"
+    ],
     "coordinates": [
       {
         "state": "Tamil Nadu",
@@ -1009,7 +1129,10 @@
     "id": "59",
     "name": "Alleppey Green Cardamom",
     "type": "Agricultural",
-    "states": ["Kerala", "Tamilnadu"],
+    "states": [
+      "Kerala",
+      "Tamilnadu"
+    ],
     "coordinates": [
       {
         "state": "Kerala",
@@ -1031,7 +1154,9 @@
     "id": "60",
     "name": "Coorg Green Cardamom",
     "type": "Agricultural",
-    "states": ["Karnataka"],
+    "states": [
+      "Karnataka"
+    ],
     "coordinates": [
       {
         "state": "Karnataka",
@@ -1048,7 +1173,9 @@
     "id": "61",
     "name": "East India Leather",
     "type": "Manufactured",
-    "states": ["Tamil Nadu"],
+    "states": [
+      "Tamil Nadu"
+    ],
     "coordinates": [
       {
         "state": "Tamil Nadu",
@@ -1065,7 +1192,9 @@
     "id": "62",
     "name": "Bastar Dhokra",
     "type": "Handicraft",
-    "states": ["Chattisgarh"],
+    "states": [
+      "Chattisgarh"
+    ],
     "coordinates": [
       {
         "state": "Chattisgarh",
@@ -1082,7 +1211,9 @@
     "id": "63",
     "name": "Bastar Wooden Craft",
     "type": "Handicraft",
-    "states": ["Chattisgarh"],
+    "states": [
+      "Chattisgarh"
+    ],
     "coordinates": [
       {
         "state": "Chattisgarh",
@@ -1099,7 +1230,9 @@
     "id": "64",
     "name": "Nirmal Toys and Craft",
     "type": "Handicraft",
-    "states": ["Telangana"],
+    "states": [
+      "Telangana"
+    ],
     "coordinates": [
       {
         "state": "Telangana",
@@ -1116,7 +1249,9 @@
     "id": "65",
     "name": "Maddalam of Palakkad",
     "type": "Handicraft",
-    "states": ["Kerala"],
+    "states": [
+      "Kerala"
+    ],
     "coordinates": [
       {
         "state": "Kerala",
@@ -1133,7 +1268,9 @@
     "id": "66",
     "name": "Screw Pine Craft of Kerala",
     "type": "Handicraft",
-    "states": ["Kerala"],
+    "states": [
+      "Kerala"
+    ],
     "coordinates": [
       {
         "state": "Kerala",
@@ -1150,7 +1287,9 @@
     "id": "67",
     "name": "Swamimalai Bronze Icons",
     "type": "Handicraft",
-    "states": ["Tamil Nadu"],
+    "states": [
+      "Tamil Nadu"
+    ],
     "coordinates": [
       {
         "state": "Tamil Nadu",
@@ -1167,7 +1306,9 @@
     "id": "68",
     "name": "Bastar Iron Craft",
     "type": "Handicraft",
-    "states": ["Chattisgarh"],
+    "states": [
+      "Chattisgarh"
+    ],
     "coordinates": [
       {
         "state": "Chattisgarh",
@@ -1184,7 +1325,9 @@
     "id": "69",
     "name": "Konark Stone carving",
     "type": "Handicraft",
-    "states": ["Odisha"],
+    "states": [
+      "Odisha"
+    ],
     "coordinates": [
       {
         "state": "Odisha",
@@ -1201,7 +1344,9 @@
     "id": "70",
     "name": "Orissa Pattachitra",
     "type": "Handicraft",
-    "states": ["Odisha"],
+    "states": [
+      "Odisha"
+    ],
     "coordinates": [
       {
         "state": "Odisha",
@@ -1218,7 +1363,9 @@
     "id": "71",
     "name": "Machilipatnam Kalamkari",
     "type": "Handicraft",
-    "states": ["Andhra Pradesh"],
+    "states": [
+      "Andhra Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Andhra Pradesh",
@@ -1235,7 +1382,9 @@
     "id": "72",
     "name": "Eathomozhy Tall Coconut",
     "type": "Agricultural",
-    "states": ["Tamil Nadu"],
+    "states": [
+      "Tamil Nadu"
+    ],
     "coordinates": [
       {
         "state": "Tamil Nadu",
@@ -1252,7 +1401,9 @@
     "id": "73",
     "name": "Brass Broidered Coconut Shell Crafts of Kerala",
     "type": "Handicraft",
-    "states": ["Kerala"],
+    "states": [
+      "Kerala"
+    ],
     "coordinates": [
       {
         "state": "Kerala",
@@ -1269,7 +1420,9 @@
     "id": "74",
     "name": "Blue Pottery of Jaipur",
     "type": "Handicraft",
-    "states": ["Rajasthan"],
+    "states": [
+      "Rajasthan"
+    ],
     "coordinates": [
       {
         "state": "Rajasthan",
@@ -1286,7 +1439,9 @@
     "id": "75",
     "name": "Molela Clay Work",
     "type": "Handicraft",
-    "states": ["Rajasthan"],
+    "states": [
+      "Rajasthan"
+    ],
     "coordinates": [
       {
         "state": "Rajasthan",
@@ -1303,7 +1458,9 @@
     "id": "76",
     "name": "Kathputlis of Rajasthan",
     "type": "Handicraft",
-    "states": ["Rajasthan"],
+    "states": [
+      "Rajasthan"
+    ],
     "coordinates": [
       {
         "state": "Rajasthan",
@@ -1320,7 +1477,9 @@
     "id": "77",
     "name": "Leather Toys of Indore",
     "type": "Handicraft",
-    "states": ["Madhya Pradesh"],
+    "states": [
+      "Madhya Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Madhya Pradesh",
@@ -1337,7 +1496,9 @@
     "id": "78",
     "name": "Bagh Prints of Madhya Pradesh",
     "type": "Handicraft",
-    "states": ["Madhya Pradesh"],
+    "states": [
+      "Madhya Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Madhya Pradesh",
@@ -1354,7 +1515,9 @@
     "id": "79",
     "name": "Sankheda Furniture",
     "type": "Handicraft",
-    "states": ["Gujarat"],
+    "states": [
+      "Gujarat"
+    ],
     "coordinates": [
       {
         "state": "Gujarat",
@@ -1371,7 +1534,9 @@
     "id": "80",
     "name": "Agates of Cambay",
     "type": "Handicraft",
-    "states": ["Gujarat"],
+    "states": [
+      "Gujarat"
+    ],
     "coordinates": [
       {
         "state": "Gujarat",
@@ -1388,7 +1553,9 @@
     "id": "81",
     "name": "Bell Metal Ware of Datia and Tikamgarh",
     "type": "Handicraft",
-    "states": ["Madhya Pradesh"],
+    "states": [
+      "Madhya Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Madhya Pradesh",
@@ -1405,7 +1572,9 @@
     "id": "82",
     "name": "Kutch Embroidery",
     "type": "Handicraft",
-    "states": ["Gujarat"],
+    "states": [
+      "Gujarat"
+    ],
     "coordinates": [
       {
         "state": "Gujarat",
@@ -1422,7 +1591,9 @@
     "id": "83",
     "name": "Kani Shawl",
     "type": "Handicraft",
-    "states": ["Jammu & Kashmir"],
+    "states": [
+      "Jammu & Kashmir"
+    ],
     "coordinates": [
       {
         "state": "Jammu & Kashmir",
@@ -1439,7 +1610,9 @@
     "id": "84",
     "name": "Chamba Rumal",
     "type": "Handicraft",
-    "states": ["Himachal Pradesh"],
+    "states": [
+      "Himachal Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Himachal Pradesh",
@@ -1456,7 +1629,9 @@
     "id": "85",
     "name": "Dharwad Pedha",
     "type": "Food Stuff",
-    "states": ["Karnataka"],
+    "states": [
+      "Karnataka"
+    ],
     "coordinates": [
       {
         "state": "Karnataka",
@@ -1473,7 +1648,9 @@
     "id": "86",
     "name": "Pokkali Rice",
     "type": "Agricultural",
-    "states": ["Kerala"],
+    "states": [
+      "Kerala"
+    ],
     "coordinates": [
       {
         "state": "Kerala",
@@ -1490,7 +1667,9 @@
     "id": "87",
     "name": "Pipli Applique Work",
     "type": "Handicraft",
-    "states": ["Odisha"],
+    "states": [
+      "Odisha"
+    ],
     "coordinates": [
       {
         "state": "Odisha",
@@ -1507,7 +1686,9 @@
     "id": "88",
     "name": "Budithi Bell & Brass Metal Craft",
     "type": "Handicraft",
-    "states": ["Andhra Pradesh"],
+    "states": [
+      "Andhra Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Andhra Pradesh",
@@ -1524,7 +1705,9 @@
     "id": "89",
     "name": "Thanjavur Doll",
     "type": "Handicraft",
-    "states": ["Tamil Nadu"],
+    "states": [
+      "Tamil Nadu"
+    ],
     "coordinates": [
       {
         "state": "Tamil Nadu",
@@ -1541,7 +1724,9 @@
     "id": "90",
     "name": "Santiniketan Leather Goods",
     "type": "Handicraft",
-    "states": ["West Bengal"],
+    "states": [
+      "West Bengal"
+    ],
     "coordinates": [
       {
         "state": "West Bengal",
@@ -1558,7 +1743,9 @@
     "id": "91",
     "name": "Nirmal Furniture",
     "type": "Handicraft",
-    "states": ["Telangana"],
+    "states": [
+      "Telangana"
+    ],
     "coordinates": [
       {
         "state": "Telangana",
@@ -1575,7 +1762,9 @@
     "id": "92",
     "name": "Nirmal Paintings",
     "type": "Handicraft",
-    "states": ["Telangana"],
+    "states": [
+      "Telangana"
+    ],
     "coordinates": [
       {
         "state": "Telangana",
@@ -1592,7 +1781,9 @@
     "id": "93",
     "name": "Andhra Pradesh Leather Puppetry",
     "type": "Handicraft",
-    "states": ["Andhra Pradesh"],
+    "states": [
+      "Andhra Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Andhra Pradesh",
@@ -1609,7 +1800,9 @@
     "id": "94",
     "name": "Malda Laxman Bhog Mango",
     "type": "Agricultural",
-    "states": ["West Bengal"],
+    "states": [
+      "West Bengal"
+    ],
     "coordinates": [
       {
         "state": "West Bengal",
@@ -1626,7 +1819,9 @@
     "id": "95",
     "name": "Malda Khirsapati (Himsagar) Mango",
     "type": "Agricultural",
-    "states": ["West Bengal"],
+    "states": [
+      "West Bengal"
+    ],
     "coordinates": [
       {
         "state": "West Bengal",
@@ -1643,7 +1838,9 @@
     "id": "96",
     "name": "Malda Fazli Mango",
     "type": "Agricultural",
-    "states": ["West Bengal"],
+    "states": [
+      "West Bengal"
+    ],
     "coordinates": [
       {
         "state": "West Bengal",
@@ -1660,7 +1857,9 @@
     "id": "97",
     "name": "Kashmir Pashmina",
     "type": "Handicraft",
-    "states": ["Jammu & Kashmir"],
+    "states": [
+      "Jammu & Kashmir"
+    ],
     "coordinates": [
       {
         "state": "Jammu & Kashmir",
@@ -1677,7 +1876,9 @@
     "id": "98",
     "name": "Kashmir Sozani Craft",
     "type": "Handicraft",
-    "states": ["Jammu & Kashmir"],
+    "states": [
+      "Jammu & Kashmir"
+    ],
     "coordinates": [
       {
         "state": "Jammu & Kashmir",
@@ -1694,7 +1895,9 @@
     "id": "99",
     "name": "Naga Mircha",
     "type": "Agricultural",
-    "states": ["Nagaland"],
+    "states": [
+      "Nagaland"
+    ],
     "coordinates": [
       {
         "state": "Nagaland",
@@ -1711,7 +1914,9 @@
     "id": "100",
     "name": "Nilgiri (Orthodox)",
     "type": "Agricultural",
-    "states": ["Tamil Nadu"],
+    "states": [
+      "Tamil Nadu"
+    ],
     "coordinates": [
       {
         "state": "Tamil Nadu",
@@ -1728,7 +1933,9 @@
     "id": "101",
     "name": "Assam (Orthodox)",
     "type": "Agricultural",
-    "states": ["Assam"],
+    "states": [
+      "Assam"
+    ],
     "coordinates": [
       {
         "state": "Assam",
@@ -1745,7 +1952,9 @@
     "id": "102",
     "name": "Lucknow Chikan Craft",
     "type": "Handicraft",
-    "states": ["Uttar Pradesh"],
+    "states": [
+      "Uttar Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Uttar Pradesh",
@@ -1762,7 +1971,9 @@
     "id": "103",
     "name": "Virupakshi Hill Banana",
     "type": "Agricultural",
-    "states": ["Tamil Nadu"],
+    "states": [
+      "Tamil Nadu"
+    ],
     "coordinates": [
       {
         "state": "Tamil Nadu",
@@ -1779,7 +1990,9 @@
     "id": "104",
     "name": "Sirumalai Hill Banana",
     "type": "Agricultural",
-    "states": ["Tamil Nadu"],
+    "states": [
+      "Tamil Nadu"
+    ],
     "coordinates": [
       {
         "state": "Tamil Nadu",
@@ -1796,7 +2009,9 @@
     "id": "105",
     "name": "Feni",
     "type": "Manufactured",
-    "states": ["Goa"],
+    "states": [
+      "Goa"
+    ],
     "coordinates": [
       {
         "state": "Goa",
@@ -1813,7 +2028,9 @@
     "id": "106",
     "name": "Uppada Jamdani Sarees",
     "type": "Handicraft",
-    "states": ["Andhra Pradesh"],
+    "states": [
+      "Andhra Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Andhra Pradesh",
@@ -1830,7 +2047,9 @@
     "id": "107",
     "name": "Tirupathi Laddu",
     "type": "Food Stuff",
-    "states": ["Andhra Pradesh"],
+    "states": [
+      "Andhra Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Andhra Pradesh",
@@ -1847,7 +2066,9 @@
     "id": "108",
     "name": "Mango Malihabadi Dusseheri",
     "type": "Agricultural",
-    "states": ["Uttar Pradesh"],
+    "states": [
+      "Uttar Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Uttar Pradesh",
@@ -1864,7 +2085,9 @@
     "id": "109",
     "name": "Puneri Pagadi",
     "type": "Handicraft",
-    "states": ["Maharashtra"],
+    "states": [
+      "Maharashtra"
+    ],
     "coordinates": [
       {
         "state": "Maharashtra",
@@ -1881,7 +2104,9 @@
     "id": "110",
     "name": "Banaras Brocades and Sarees",
     "type": "Handicraft",
-    "states": ["Uttar Pradesh"],
+    "states": [
+      "Uttar Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Uttar Pradesh",
@@ -1898,7 +2123,9 @@
     "id": "111",
     "name": "Tangaliya Shawl",
     "type": "Handicraft",
-    "states": ["Gujarat"],
+    "states": [
+      "Gujarat"
+    ],
     "coordinates": [
       {
         "state": "Gujarat",
@@ -1915,7 +2142,9 @@
     "id": "112",
     "name": "Vazhakulam Pineapple",
     "type": "Agricultural",
-    "states": ["Kerala"],
+    "states": [
+      "Kerala"
+    ],
     "coordinates": [
       {
         "state": "Kerala",
@@ -1932,7 +2161,9 @@
     "id": "113",
     "name": "Devanahalli Pomello",
     "type": "Agricultural",
-    "states": ["Karnataka"],
+    "states": [
+      "Karnataka"
+    ],
     "coordinates": [
       {
         "state": "Karnataka",
@@ -1949,7 +2180,9 @@
     "id": "114",
     "name": "Appemidi Mango",
     "type": "Agricultural",
-    "states": ["Karnataka"],
+    "states": [
+      "Karnataka"
+    ],
     "coordinates": [
       {
         "state": "Karnataka",
@@ -1966,7 +2199,9 @@
     "id": "115",
     "name": "Kamalapur Red Banana",
     "type": "Agricultural",
-    "states": ["Karnataka"],
+    "states": [
+      "Karnataka"
+    ],
     "coordinates": [
       {
         "state": "Karnataka",
@@ -1983,7 +2218,9 @@
     "id": "116",
     "name": "Santipore Saree",
     "type": "Handicraft",
-    "states": ["West Bengal"],
+    "states": [
+      "West Bengal"
+    ],
     "coordinates": [
       {
         "state": "West Bengal",
@@ -2000,7 +2237,9 @@
     "id": "117",
     "name": "Cannanore Home Furnishings",
     "type": "Handicraft",
-    "states": ["Kerala"],
+    "states": [
+      "Kerala"
+    ],
     "coordinates": [
       {
         "state": "Kerala",
@@ -2017,7 +2256,9 @@
     "id": "118",
     "name": "Peruvian Pisco",
     "type": "Manufactured",
-    "states": ["Peru"],
+    "states": [
+      "Peru"
+    ],
     "coordinates": [
       {
         "state": "Peru",
@@ -2034,7 +2275,9 @@
     "id": "119",
     "name": "Sanganeri Hand Block Printing",
     "type": "Handicraft",
-    "states": ["Rajasthan"],
+    "states": [
+      "Rajasthan"
+    ],
     "coordinates": [
       {
         "state": "Rajasthan",
@@ -2051,7 +2294,9 @@
     "id": "120",
     "name": "Balaramapuram Sarees and Fine Cotton Fabrics",
     "type": "Handicraft",
-    "states": ["Kerala"],
+    "states": [
+      "Kerala"
+    ],
     "coordinates": [
       {
         "state": "Kerala",
@@ -2068,7 +2313,9 @@
     "id": "121",
     "name": "Bikaneri Bhujia",
     "type": "Food Stuff",
-    "states": ["Rajasthan"],
+    "states": [
+      "Rajasthan"
+    ],
     "coordinates": [
       {
         "state": "Rajasthan",
@@ -2085,7 +2332,9 @@
     "id": "122",
     "name": "Guntur Sannam Chilli",
     "type": "Agricultural",
-    "states": ["Andhra Pradesh"],
+    "states": [
+      "Andhra Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Andhra Pradesh",
@@ -2102,7 +2351,9 @@
     "id": "123",
     "name": "Nashik Valley Wine",
     "type": "Manufactured",
-    "states": ["Maharashtra"],
+    "states": [
+      "Maharashtra"
+    ],
     "coordinates": [
       {
         "state": "Maharashtra",
@@ -2119,7 +2370,9 @@
     "id": "124",
     "name": "Gadwal Sarees",
     "type": "Handicraft",
-    "states": ["Telangana"],
+    "states": [
+      "Telangana"
+    ],
     "coordinates": [
       {
         "state": "Telangana",
@@ -2136,7 +2389,9 @@
     "id": "125",
     "name": "Kinnauri Shawl",
     "type": "Handicraft",
-    "states": ["Himachal Pradesh"],
+    "states": [
+      "Himachal Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Himachal Pradesh",
@@ -2153,7 +2408,9 @@
     "id": "126",
     "name": "Kasaragod Sarees",
     "type": "Handicraft",
-    "states": ["Kerala"],
+    "states": [
+      "Kerala"
+    ],
     "coordinates": [
       {
         "state": "Kerala",
@@ -2170,7 +2427,9 @@
     "id": "127",
     "name": "Kuthampully Sarees",
     "type": "Handicraft",
-    "states": ["Kerala"],
+    "states": [
+      "Kerala"
+    ],
     "coordinates": [
       {
         "state": "Kerala",
@@ -2187,7 +2446,9 @@
     "id": "128",
     "name": "Sandur Lambani Embroidery",
     "type": "Handicraft",
-    "states": ["Karnataka"],
+    "states": [
+      "Karnataka"
+    ],
     "coordinates": [
       {
         "state": "Karnataka",
@@ -2204,7 +2465,9 @@
     "id": "129",
     "name": "Hand Made Carpet of Bhadohi",
     "type": "Handicraft",
-    "states": ["Uttar Pradesh"],
+    "states": [
+      "Uttar Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Uttar Pradesh",
@@ -2221,7 +2484,9 @@
     "id": "130",
     "name": "Paithani Sarees and Fabrics",
     "type": "Handicraft",
-    "states": ["Maharashtra"],
+    "states": [
+      "Maharashtra"
+    ],
     "coordinates": [
       {
         "state": "Maharashtra",
@@ -2238,7 +2503,9 @@
     "id": "131",
     "name": "Mahabaleshwar Strawberry",
     "type": "Agricultural",
-    "states": ["Maharashtra"],
+    "states": [
+      "Maharashtra"
+    ],
     "coordinates": [
       {
         "state": "Maharashtra",
@@ -2255,7 +2522,9 @@
     "id": "132",
     "name": "Hyderabad Haleem",
     "type": "Food Stuff",
-    "states": ["Telangana"],
+    "states": [
+      "Telangana"
+    ],
     "coordinates": [
       {
         "state": "Telangana",
@@ -2272,7 +2541,9 @@
     "id": "133",
     "name": "Champangne",
     "type": "Manufactured",
-    "states": ["France"],
+    "states": [
+      "France"
+    ],
     "coordinates": [
       {
         "state": "France",
@@ -2289,7 +2560,9 @@
     "id": "134",
     "name": "Napa Valley",
     "type": "Manufactured",
-    "states": ["United States of America"],
+    "states": [
+      "United States of America"
+    ],
     "coordinates": [
       {
         "state": "United States of America",
@@ -2306,7 +2579,9 @@
     "id": "135",
     "name": "Central Travancore Jaggery",
     "type": "Agricultural",
-    "states": ["Kerala"],
+    "states": [
+      "Kerala"
+    ],
     "coordinates": [
       {
         "state": "Kerala",
@@ -2323,7 +2598,9 @@
     "id": "136",
     "name": "Champa Silk Saree And Fabrics",
     "type": "Handicraft",
-    "states": ["Chhattisgarh"],
+    "states": [
+      "Chhattisgarh"
+    ],
     "coordinates": [
       {
         "state": "Chhattisgarh",
@@ -2340,7 +2617,9 @@
     "id": "137",
     "name": "Wayanad Jeerakasala Rice",
     "type": "Agricultural",
-    "states": ["Kerala"],
+    "states": [
+      "Kerala"
+    ],
     "coordinates": [
       {
         "state": "Kerala",
@@ -2357,7 +2636,9 @@
     "id": "138",
     "name": "Wayanad Gandhakasala Rice",
     "type": "Agricultural",
-    "states": ["Kerala"],
+    "states": [
+      "Kerala"
+    ],
     "coordinates": [
       {
         "state": "Kerala",
@@ -2374,7 +2655,9 @@
     "id": "140",
     "name": "Nashik Grapes",
     "type": "Agricultural",
-    "states": ["Maharashtra"],
+    "states": [
+      "Maharashtra"
+    ],
     "coordinates": [
       {
         "state": "Maharashtra",
@@ -2391,7 +2674,9 @@
     "id": "141",
     "name": "Surat Zari Craft",
     "type": "Handicraft",
-    "states": ["Gujarat"],
+    "states": [
+      "Gujarat"
+    ],
     "coordinates": [
       {
         "state": "Gujarat",
@@ -2408,7 +2693,9 @@
     "id": "142",
     "name": "Cheriyal Paintings",
     "type": "Handicraft",
-    "states": ["Telangana"],
+    "states": [
+      "Telangana"
+    ],
     "coordinates": [
       {
         "state": "Telangana",
@@ -2425,7 +2712,9 @@
     "id": "143",
     "name": "Pembarthi Metal Craft",
     "type": "Handicraft",
-    "states": ["Telangana"],
+    "states": [
+      "Telangana"
+    ],
     "coordinates": [
       {
         "state": "Telangana",
@@ -2442,7 +2731,9 @@
     "id": "144",
     "name": "Payyannur Pavithra Ring",
     "type": "Handicraft",
-    "states": ["Kerala"],
+    "states": [
+      "Kerala"
+    ],
     "coordinates": [
       {
         "state": "Kerala",
@@ -2459,7 +2750,11 @@
     "id": "145",
     "name": "Phulkari",
     "type": "Handicraft",
-    "states": ["Punjab", "Haryana", "Rajasthan"],
+    "states": [
+      "Punjab",
+      "Haryana",
+      "Rajasthan"
+    ],
     "coordinates": [
       {
         "state": "Punjab",
@@ -2486,7 +2781,9 @@
     "id": "146",
     "name": "Khandua Saree and Fabrics",
     "type": "Handicraft",
-    "states": ["Odisha"],
+    "states": [
+      "Odisha"
+    ],
     "coordinates": [
       {
         "state": "Odisha",
@@ -2503,7 +2800,9 @@
     "id": "147",
     "name": "Byadagi Chilli",
     "type": "Agricultural",
-    "states": ["Karnataka"],
+    "states": [
+      "Karnataka"
+    ],
     "coordinates": [
       {
         "state": "Karnataka",
@@ -2520,7 +2819,9 @@
     "id": "148",
     "name": "Scotch Whisky",
     "type": "Manufactured",
-    "states": ["United Kingdom"],
+    "states": [
+      "United Kingdom"
+    ],
     "coordinates": [
       {
         "state": "United Kingdom",
@@ -2537,7 +2838,9 @@
     "id": "149",
     "name": "Prosciutto di Parma",
     "type": "Food Stuff",
-    "states": ["Italy"],
+    "states": [
+      "Italy"
+    ],
     "coordinates": [
       {
         "state": "Italy",
@@ -2554,7 +2857,9 @@
     "id": "150",
     "name": "Bagru Hand Block Print",
     "type": "Handicraft",
-    "states": ["Rajasthan"],
+    "states": [
+      "Rajasthan"
+    ],
     "coordinates": [
       {
         "state": "Rajasthan",
@@ -2571,7 +2876,9 @@
     "id": "151",
     "name": "Venkatagiri Sarees",
     "type": "Handicraft",
-    "states": ["Andhra Pradesh"],
+    "states": [
+      "Andhra Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Andhra Pradesh",
@@ -2588,7 +2895,9 @@
     "id": "152",
     "name": "Gir Kesar Mango",
     "type": "Agricultural",
-    "states": ["Gujarat"],
+    "states": [
+      "Gujarat"
+    ],
     "coordinates": [
       {
         "state": "Gujarat",
@@ -2605,7 +2914,9 @@
     "id": "153",
     "name": "Bhalia Wheat",
     "type": "Agricultural",
-    "states": ["Gujarat"],
+    "states": [
+      "Gujarat"
+    ],
     "coordinates": [
       {
         "state": "Gujarat",
@@ -2622,7 +2933,9 @@
     "id": "154",
     "name": "Villianur Terracotta Works",
     "type": "Handicraft",
-    "states": ["Pondicherry"],
+    "states": [
+      "Pondicherry"
+    ],
     "coordinates": [
       {
         "state": "Pondicherry",
@@ -2639,7 +2952,9 @@
     "id": "155",
     "name": "Tirukanur Papier Mache Craft",
     "type": "Handicraft",
-    "states": ["Pondicherry"],
+    "states": [
+      "Pondicherry"
+    ],
     "coordinates": [
       {
         "state": "Pondicherry",
@@ -2656,7 +2971,9 @@
     "id": "156",
     "name": "Cognac",
     "type": "Manufactured",
-    "states": ["France"],
+    "states": [
+      "France"
+    ],
     "coordinates": [
       {
         "state": "France",
@@ -2673,7 +2990,9 @@
     "id": "157",
     "name": "Kachchh Shawls",
     "type": "Handicraft",
-    "states": ["Gujarat"],
+    "states": [
+      "Gujarat"
+    ],
     "coordinates": [
       {
         "state": "Gujarat",
@@ -2690,7 +3009,9 @@
     "id": "158",
     "name": "Udupi Mattu Gulla Brinjal",
     "type": "Agricultural",
-    "states": ["Karnataka"],
+    "states": [
+      "Karnataka"
+    ],
     "coordinates": [
       {
         "state": "Karnataka",
@@ -2707,7 +3028,9 @@
     "id": "159",
     "name": "Baluchari Saree",
     "type": "Handicraft",
-    "states": ["West Bengal"],
+    "states": [
+      "West Bengal"
+    ],
     "coordinates": [
       {
         "state": "West Bengal",
@@ -2724,7 +3047,9 @@
     "id": "160",
     "name": "Dhaniakhali Saree",
     "type": "Handicraft",
-    "states": ["West Bengal"],
+    "states": [
+      "West Bengal"
+    ],
     "coordinates": [
       {
         "state": "West Bengal",
@@ -2741,7 +3066,9 @@
     "id": "161",
     "name": "Kashmir Paper Machie",
     "type": "Handicraft",
-    "states": ["Jammu & Kashmir"],
+    "states": [
+      "Jammu & Kashmir"
+    ],
     "coordinates": [
       {
         "state": "Jammu & Kashmir",
@@ -2758,7 +3085,9 @@
     "id": "162",
     "name": "Kashmir Walnut Wood Carving",
     "type": "Handicraft",
-    "states": ["Jammu & Kashmir"],
+    "states": [
+      "Jammu & Kashmir"
+    ],
     "coordinates": [
       {
         "state": "Jammu & Kashmir",
@@ -2775,7 +3104,9 @@
     "id": "163",
     "name": "Bobbili Veena",
     "type": "Handicraft",
-    "states": ["Andhra Pradesh"],
+    "states": [
+      "Andhra Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Andhra Pradesh",
@@ -2792,7 +3123,9 @@
     "id": "164",
     "name": "Khatamband",
     "type": "Handicraft",
-    "states": ["Jammu & Kashmir"],
+    "states": [
+      "Jammu & Kashmir"
+    ],
     "coordinates": [
       {
         "state": "Jammu & Kashmir",
@@ -2809,7 +3142,9 @@
     "id": "165",
     "name": "Kinhal Toys",
     "type": "Handicraft",
-    "states": ["Karnataka"],
+    "states": [
+      "Karnataka"
+    ],
     "coordinates": [
       {
         "state": "Karnataka",
@@ -2826,7 +3161,9 @@
     "id": "166",
     "name": "Chendamangalam Dhoties & Set Mundu",
     "type": "Handicraft",
-    "states": ["Kerala"],
+    "states": [
+      "Kerala"
+    ],
     "coordinates": [
       {
         "state": "Kerala",
@@ -2843,7 +3180,9 @@
     "id": "167",
     "name": "Porto",
     "type": "Manufactured",
-    "states": ["Portugal"],
+    "states": [
+      "Portugal"
+    ],
     "coordinates": [
       {
         "state": "Portugal",
@@ -2860,7 +3199,9 @@
     "id": "168",
     "name": "Douro",
     "type": "Manufactured",
-    "states": ["Portugal"],
+    "states": [
+      "Portugal"
+    ],
     "coordinates": [
       {
         "state": "Portugal",
@@ -2877,7 +3218,9 @@
     "id": "169",
     "name": "Gopalpur Tussar Fabrics",
     "type": "Handicraft",
-    "states": ["Odisha"],
+    "states": [
+      "Odisha"
+    ],
     "coordinates": [
       {
         "state": "Odisha",
@@ -2894,7 +3237,9 @@
     "id": "170",
     "name": "Siddipet Gollabama",
     "type": "Handicraft",
-    "states": ["Telangana"],
+    "states": [
+      "Telangana"
+    ],
     "coordinates": [
       {
         "state": "Telangana",
@@ -2911,7 +3256,9 @@
     "id": "171",
     "name": "Ganjam Kewda Rooh",
     "type": "Manufactured",
-    "states": ["Odisha"],
+    "states": [
+      "Odisha"
+    ],
     "coordinates": [
       {
         "state": "Odisha",
@@ -2928,7 +3275,9 @@
     "id": "172",
     "name": "Ganjam Kewda Flower",
     "type": "Agricultural",
-    "states": ["Odisha"],
+    "states": [
+      "Odisha"
+    ],
     "coordinates": [
       {
         "state": "Odisha",
@@ -2945,7 +3294,9 @@
     "id": "173",
     "name": "Maheshwar Sarees & Fabrics",
     "type": "Handicraft",
-    "states": ["Madhya Pradesh"],
+    "states": [
+      "Madhya Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Madhya Pradesh",
@@ -2962,7 +3313,9 @@
     "id": "174",
     "name": "Dhalapathar Parda & Fabrics",
     "type": "Handicraft",
-    "states": ["Odisha"],
+    "states": [
+      "Odisha"
+    ],
     "coordinates": [
       {
         "state": "Odisha",
@@ -2979,7 +3332,9 @@
     "id": "175",
     "name": "Sambalpuri Bandha Saree & Fabrics",
     "type": "Handicraft",
-    "states": ["Odisha"],
+    "states": [
+      "Odisha"
+    ],
     "coordinates": [
       {
         "state": "Odisha",
@@ -2996,7 +3351,9 @@
     "id": "176",
     "name": "Bomkai Saree & Fabrics",
     "type": "Handicraft",
-    "states": ["Odisha"],
+    "states": [
+      "Odisha"
+    ],
     "coordinates": [
       {
         "state": "Odisha",
@@ -3013,7 +3370,9 @@
     "id": "177",
     "name": "Habaspuri Saree & Fabrics",
     "type": "Handicraft",
-    "states": ["Odisha"],
+    "states": [
+      "Odisha"
+    ],
     "coordinates": [
       {
         "state": "Odisha",
@@ -3030,7 +3389,9 @@
     "id": "178",
     "name": "Berhampur Patta (Phoda Kumbha) Saree & Joda",
     "type": "Handicraft",
-    "states": ["Odisha"],
+    "states": [
+      "Odisha"
+    ],
     "coordinates": [
       {
         "state": "Odisha",
@@ -3047,7 +3408,9 @@
     "id": "179",
     "name": "Bhagalpur Silk",
     "type": "Handicraft",
-    "states": ["Bihar"],
+    "states": [
+      "Bihar"
+    ],
     "coordinates": [
       {
         "state": "Bihar",
@@ -3064,7 +3427,9 @@
     "id": "180",
     "name": "Mangalagiri Sarees and Fabrics",
     "type": "Handicraft",
-    "states": ["Andhra Pradesh"],
+    "states": [
+      "Andhra Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Andhra Pradesh",
@@ -3081,7 +3446,9 @@
     "id": "181",
     "name": "Madurai Malli",
     "type": "Agricultural",
-    "states": ["Tamil Nadu"],
+    "states": [
+      "Tamil Nadu"
+    ],
     "coordinates": [
       {
         "state": "Tamil Nadu",
@@ -3098,7 +3465,9 @@
     "id": "182",
     "name": "Tequila",
     "type": "Manufactured",
-    "states": ["Mexico"],
+    "states": [
+      "Mexico"
+    ],
     "coordinates": [
       {
         "state": "Mexico",
@@ -3115,7 +3484,9 @@
     "id": "183",
     "name": "\"Pattamadai Pai (\"\"Pattamadai Mat\"\")\"",
     "type": "Handicraft",
-    "states": ["Tamil Nadu"],
+    "states": [
+      "Tamil Nadu"
+    ],
     "coordinates": [
       {
         "state": "Tamil Nadu",
@@ -3132,7 +3503,9 @@
     "id": "184",
     "name": "\"Nachiarkoil Kuthuvilakku (\"\"Nachiarkoil Lamp\"\")\"",
     "type": "Handicraft",
-    "states": ["Tamil Nadu"],
+    "states": [
+      "Tamil Nadu"
+    ],
     "coordinates": [
       {
         "state": "Tamil Nadu",
@@ -3149,7 +3522,9 @@
     "id": "185",
     "name": "Chettinad Kottan",
     "type": "Handicraft",
-    "states": ["Tamil Nadu"],
+    "states": [
+      "Tamil Nadu"
+    ],
     "coordinates": [
       {
         "state": "Tamil Nadu",
@@ -3166,7 +3541,9 @@
     "id": "186",
     "name": "Narayanpet Handloom Sarees",
     "type": "Handicraft",
-    "states": ["Telangana"],
+    "states": [
+      "Telangana"
+    ],
     "coordinates": [
       {
         "state": "Telangana",
@@ -3183,7 +3560,9 @@
     "id": "187",
     "name": "Toda Embroidery",
     "type": "Handicraft",
-    "states": ["Tamil Nadu"],
+    "states": [
+      "Tamil Nadu"
+    ],
     "coordinates": [
       {
         "state": "Tamil Nadu",
@@ -3200,7 +3579,9 @@
     "id": "188",
     "name": "Thanjavur Veenai",
     "type": "Handicraft",
-    "states": ["Tamil Nadu"],
+    "states": [
+      "Tamil Nadu"
+    ],
     "coordinates": [
       {
         "state": "Tamil Nadu",
@@ -3217,7 +3598,9 @@
     "id": "189",
     "name": "Bangalore Blue Grapes",
     "type": "Agricultural",
-    "states": ["Karnataka"],
+    "states": [
+      "Karnataka"
+    ],
     "coordinates": [
       {
         "state": "Karnataka",
@@ -3234,7 +3617,9 @@
     "id": "190",
     "name": "Agra Durrie",
     "type": "Handicraft",
-    "states": ["Uttar Pradesh"],
+    "states": [
+      "Uttar Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Uttar Pradesh",
@@ -3251,7 +3636,9 @@
     "id": "191",
     "name": "Farrukhabad Prints",
     "type": "Handicraft",
-    "states": ["Uttar Pradesh"],
+    "states": [
+      "Uttar Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Uttar Pradesh",
@@ -3268,7 +3655,9 @@
     "id": "192",
     "name": "Lucknow Zardozi",
     "type": "Handicraft",
-    "states": ["Uttar Pradesh"],
+    "states": [
+      "Uttar Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Uttar Pradesh",
@@ -3285,7 +3674,9 @@
     "id": "193",
     "name": "Banaras Brocades and Sarees",
     "type": "Handicraft",
-    "states": ["Uttar Pradesh"],
+    "states": [
+      "Uttar Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Uttar Pradesh",
@@ -3302,7 +3693,9 @@
     "id": "194",
     "name": "Kalanamak Rice",
     "type": "Agricultural",
-    "states": ["Uttar Pradesh"],
+    "states": [
+      "Uttar Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Uttar Pradesh",
@@ -3319,7 +3712,9 @@
     "id": "195",
     "name": "Patan Patola",
     "type": "Handicraft",
-    "states": ["Gujarat"],
+    "states": [
+      "Gujarat"
+    ],
     "coordinates": [
       {
         "state": "Gujarat",
@@ -3336,7 +3731,9 @@
     "id": "196",
     "name": "Orissa Pattachitra",
     "type": "Handicraft",
-    "states": ["Odisha"],
+    "states": [
+      "Odisha"
+    ],
     "coordinates": [
       {
         "state": "Odisha",
@@ -3353,7 +3750,9 @@
     "id": "197",
     "name": "Bastar Dhokra",
     "type": "Handicraft",
-    "states": ["Chhattisgarh"],
+    "states": [
+      "Chhattisgarh"
+    ],
     "coordinates": [
       {
         "state": "Chhattisgarh",
@@ -3370,7 +3769,9 @@
     "id": "198",
     "name": "Bell Metal Ware of Datia and Tikamgarh",
     "type": "Handicraft",
-    "states": ["Madhya Pradesh"],
+    "states": [
+      "Madhya Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Madhya Pradesh",
@@ -3387,7 +3788,9 @@
     "id": "199",
     "name": "Kaipad Rice",
     "type": "Agricultural",
-    "states": ["Kerala"],
+    "states": [
+      "Kerala"
+    ],
     "coordinates": [
       {
         "state": "Kerala",
@@ -3404,7 +3807,9 @@
     "id": "200",
     "name": "Kullu ShawL",
     "type": "Handicraft",
-    "states": ["Himachal Pradesh"],
+    "states": [
+      "Himachal Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Himachal Pradesh",
@@ -3421,7 +3826,9 @@
     "id": "201",
     "name": "Muga Silk of Assam",
     "type": "Handicraft",
-    "states": ["Assam"],
+    "states": [
+      "Assam"
+    ],
     "coordinates": [
       {
         "state": "Assam",
@@ -3438,7 +3845,9 @@
     "id": "202",
     "name": "Firozabad Glass",
     "type": "Handicraft",
-    "states": ["Uttar Pradesh"],
+    "states": [
+      "Uttar Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Uttar Pradesh",
@@ -3455,7 +3864,9 @@
     "id": "203",
     "name": "Kannauj Perfume",
     "type": "Manufactured",
-    "states": ["Uttar Pradesh"],
+    "states": [
+      "Uttar Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Uttar Pradesh",
@@ -3472,7 +3883,9 @@
     "id": "204",
     "name": "Kanpur Saddlery",
     "type": "Handicraft",
-    "states": ["Uttar Pradesh"],
+    "states": [
+      "Uttar Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Uttar Pradesh",
@@ -3489,7 +3902,9 @@
     "id": "205",
     "name": "Moradabad Metal Craft",
     "type": "Handicraft",
-    "states": ["Uttar Pradesh"],
+    "states": [
+      "Uttar Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Uttar Pradesh",
@@ -3506,7 +3921,9 @@
     "id": "206",
     "name": "Saharanpur Wood Craft",
     "type": "Handicraft",
-    "states": ["Uttar Pradesh"],
+    "states": [
+      "Uttar Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Uttar Pradesh",
@@ -3523,7 +3940,9 @@
     "id": "207",
     "name": "Dharmavaram Handloom Pattu Sarres And Paavadas",
     "type": "Handicraft",
-    "states": ["Andhra Pradesh"],
+    "states": [
+      "Andhra Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Andhra Pradesh",
@@ -3540,7 +3959,12 @@
     "id": "208",
     "name": "Warli Painting",
     "type": "Handicraft",
-    "states": ["Maharashtra", "Gujarat", "Dadara & Nagar Haveli", "Daman Diu"],
+    "states": [
+      "Maharashtra",
+      "Gujarat",
+      "Dadara & Nagar Haveli",
+      "Daman Diu"
+    ],
     "coordinates": [
       {
         "state": "Maharashtra",
@@ -3572,7 +3996,9 @@
     "id": "209",
     "name": "Kolhapur Jaggery",
     "type": "Agricultural",
-    "states": ["Maharashtra"],
+    "states": [
+      "Maharashtra"
+    ],
     "coordinates": [
       {
         "state": "Maharashtra",
@@ -3589,7 +4015,9 @@
     "id": "210",
     "name": "Thewa Art Work",
     "type": "Handicraft",
-    "states": ["Rajasthan"],
+    "states": [
+      "Rajasthan"
+    ],
     "coordinates": [
       {
         "state": "Rajasthan",
@@ -3606,7 +4034,9 @@
     "id": "211",
     "name": "Shaphee Lanphee",
     "type": "Handicraft",
-    "states": ["Manipur"],
+    "states": [
+      "Manipur"
+    ],
     "coordinates": [
       {
         "state": "Manipur",
@@ -3623,7 +4053,9 @@
     "id": "212",
     "name": "Wangkhei Phee",
     "type": "Handicraft",
-    "states": ["Manipur"],
+    "states": [
+      "Manipur"
+    ],
     "coordinates": [
       {
         "state": "Manipur",
@@ -3640,7 +4072,9 @@
     "id": "213",
     "name": "Moirang Phee",
     "type": "Handicraft",
-    "states": ["Manipur"],
+    "states": [
+      "Manipur"
+    ],
     "coordinates": [
       {
         "state": "Manipur",
@@ -3657,7 +4091,9 @@
     "id": "214",
     "name": "Kangra Paintings",
     "type": "Handicraft",
-    "states": ["Himachal Pradesh"],
+    "states": [
+      "Himachal Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Himachal Pradesh",
@@ -3674,7 +4110,10 @@
     "id": "215",
     "name": "Nagpur Orange",
     "type": "Agricultural",
-    "states": ["Maharashtra", "Madhya Pradesh"],
+    "states": [
+      "Maharashtra",
+      "Madhya Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Maharashtra",
@@ -3696,7 +4135,9 @@
     "id": "216",
     "name": "Leather Toys of Indore",
     "type": "Handicraft",
-    "states": ["Madhya Pradesh"],
+    "states": [
+      "Madhya Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Madhya Pradesh",
@@ -3713,7 +4154,9 @@
     "id": "217",
     "name": "Bangalore Rose Onion",
     "type": "Agricultural",
-    "states": ["Karnataka"],
+    "states": [
+      "Karnataka"
+    ],
     "coordinates": [
       {
         "state": "Karnataka",
@@ -3730,7 +4173,9 @@
     "id": "218",
     "name": "Meerut Scissors",
     "type": "Manufactured",
-    "states": ["Uttar Pradesh"],
+    "states": [
+      "Uttar Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Uttar Pradesh",
@@ -3747,7 +4192,9 @@
     "id": "219",
     "name": "Khurja Pottery",
     "type": "Handicraft",
-    "states": ["Uttar Pradesh"],
+    "states": [
+      "Uttar Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Uttar Pradesh",
@@ -3764,7 +4211,9 @@
     "id": "220",
     "name": "Naga Tree Tomato",
     "type": "Agricultural",
-    "states": ["Nagaland"],
+    "states": [
+      "Nagaland"
+    ],
     "coordinates": [
       {
         "state": "Nagaland",
@@ -3781,7 +4230,9 @@
     "id": "221",
     "name": "Arunachal Orange",
     "type": "Agricultural",
-    "states": ["Arunachal Pradesh"],
+    "states": [
+      "Arunachal Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Arunachal Pradesh",
@@ -3798,7 +4249,9 @@
     "id": "222",
     "name": "Sikkim Large Cardamom",
     "type": "Agricultural",
-    "states": ["Sikkim"],
+    "states": [
+      "Sikkim"
+    ],
     "coordinates": [
       {
         "state": "Sikkim",
@@ -3815,7 +4268,9 @@
     "id": "223",
     "name": "Mizo Chilli",
     "type": "Agricultural",
-    "states": ["Mizoram"],
+    "states": [
+      "Mizoram"
+    ],
     "coordinates": [
       {
         "state": "Mizoram",
@@ -3832,7 +4287,9 @@
     "id": "224",
     "name": "Joynagar Moa",
     "type": "Food Stuff",
-    "states": ["West Bengal"],
+    "states": [
+      "West Bengal"
+    ],
     "coordinates": [
       {
         "state": "West Bengal",
@@ -3849,7 +4306,9 @@
     "id": "225",
     "name": "Banaras Gulabi Meenakari Craft",
     "type": "Handicraft",
-    "states": ["Uttar Pradesh"],
+    "states": [
+      "Uttar Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Uttar Pradesh",
@@ -3866,7 +4325,9 @@
     "id": "226",
     "name": "Assam Karbi Anglong Ginger",
     "type": "Agricultural",
-    "states": ["Assam"],
+    "states": [
+      "Assam"
+    ],
     "coordinates": [
       {
         "state": "Assam",
@@ -3883,7 +4344,9 @@
     "id": "227",
     "name": "Tripura Queen Pineapple",
     "type": "Agricultural",
-    "states": ["Tripura"],
+    "states": [
+      "Tripura"
+    ],
     "coordinates": [
       {
         "state": "Tripura",
@@ -3900,7 +4363,9 @@
     "id": "228",
     "name": "Chengalikodan Nendran Banana",
     "type": "Agricultural",
-    "states": ["Kerala"],
+    "states": [
+      "Kerala"
+    ],
     "coordinates": [
       {
         "state": "Kerala",
@@ -3917,7 +4382,9 @@
     "id": "229",
     "name": "Ratlami Sev",
     "type": "Food Stuff",
-    "states": ["Madhya Pradesh"],
+    "states": [
+      "Madhya Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Madhya Pradesh",
@@ -3934,7 +4401,9 @@
     "id": "230",
     "name": "Tezpur Litchi",
     "type": "Agricultural",
-    "states": ["Assam"],
+    "states": [
+      "Assam"
+    ],
     "coordinates": [
       {
         "state": "Assam",
@@ -3951,7 +4420,9 @@
     "id": "231",
     "name": "Khasi Mandarin",
     "type": "Agricultural",
-    "states": ["Meghalaya"],
+    "states": [
+      "Meghalaya"
+    ],
     "coordinates": [
       {
         "state": "Meghalaya",
@@ -3968,7 +4439,9 @@
     "id": "232",
     "name": "Kachai Lemon",
     "type": "Agricultural",
-    "states": ["Manipur"],
+    "states": [
+      "Manipur"
+    ],
     "coordinates": [
       {
         "state": "Manipur",
@@ -3985,7 +4458,9 @@
     "id": "233",
     "name": "Makrana Marble",
     "type": "Natural Goods",
-    "states": ["Rajasthan"],
+    "states": [
+      "Rajasthan"
+    ],
     "coordinates": [
       {
         "state": "Rajasthan",
@@ -4002,7 +4477,9 @@
     "id": "234",
     "name": "Varanasi Wooden",
     "type": "Handicraft",
-    "states": ["Uttar Pradesh"],
+    "states": [
+      "Uttar Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Uttar Pradesh",
@@ -4019,7 +4496,9 @@
     "id": "235",
     "name": "Mirzapur Handmade Dari",
     "type": "Handicraft",
-    "states": ["Uttar Pradesh"],
+    "states": [
+      "Uttar Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Uttar Pradesh",
@@ -4036,7 +4515,9 @@
     "id": "236",
     "name": "Memong Narang",
     "type": "Agricultural",
-    "states": ["Meghalaya"],
+    "states": [
+      "Meghalaya"
+    ],
     "coordinates": [
       {
         "state": "Meghalaya",
@@ -4053,7 +4534,9 @@
     "id": "237",
     "name": "Nizamabad Black Pottery",
     "type": "Handicraft",
-    "states": ["Uttar Pradesh"],
+    "states": [
+      "Uttar Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Uttar Pradesh",
@@ -4125,7 +4608,9 @@
     "id": "239",
     "name": "Bagh Prints of Madhya Pradesh (Logo )",
     "type": "Handicraft",
-    "states": ["Madhya Pradesh"],
+    "states": [
+      "Madhya Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Madhya Pradesh",
@@ -4142,7 +4627,9 @@
     "id": "240",
     "name": "Sankheda Furniture",
     "type": "Handicraft",
-    "states": ["Gujarat"],
+    "states": [
+      "Gujarat"
+    ],
     "coordinates": [
       {
         "state": "Gujarat",
@@ -4159,7 +4646,9 @@
     "id": "241",
     "name": "Kutch Embroidery",
     "type": "Handicraft",
-    "states": ["Gujarat"],
+    "states": [
+      "Gujarat"
+    ],
     "coordinates": [
       {
         "state": "Gujarat",
@@ -4176,7 +4665,9 @@
     "id": "242",
     "name": "Karnataka Bronzeware",
     "type": "Handicraft",
-    "states": ["Karnataka"],
+    "states": [
+      "Karnataka"
+    ],
     "coordinates": [
       {
         "state": "Karnataka",
@@ -4193,7 +4684,9 @@
     "id": "243",
     "name": "Ganjifa Cards of Mysore",
     "type": "Handicraft",
-    "states": ["Karnataka"],
+    "states": [
+      "Karnataka"
+    ],
     "coordinates": [
       {
         "state": "Karnataka",
@@ -4210,7 +4703,9 @@
     "id": "244",
     "name": "Navalgund Durries",
     "type": "Handicraft",
-    "states": ["Karnataka"],
+    "states": [
+      "Karnataka"
+    ],
     "coordinates": [
       {
         "state": "Karnataka",
@@ -4227,7 +4722,9 @@
     "id": "245",
     "name": "Thanjavur Art Plate",
     "type": "Handicraft",
-    "states": ["Tamil Nadu"],
+    "states": [
+      "Tamil Nadu"
+    ],
     "coordinates": [
       {
         "state": "Tamil Nadu",
@@ -4244,7 +4741,9 @@
     "id": "246",
     "name": "Swamimalai Bronze Icons",
     "type": "Handicraft",
-    "states": ["Tamil Nadu"],
+    "states": [
+      "Tamil Nadu"
+    ],
     "coordinates": [
       {
         "state": "Tamil Nadu",
@@ -4261,7 +4760,9 @@
     "id": "247",
     "name": "Temple Jewellery of Nagercoil",
     "type": "Handicraft",
-    "states": ["Tamil Nadu"],
+    "states": [
+      "Tamil Nadu"
+    ],
     "coordinates": [
       {
         "state": "Tamil Nadu",
@@ -4278,7 +4779,9 @@
     "id": "248",
     "name": "Ajara Ghansal Rice",
     "type": "Agricultural",
-    "states": ["Maharashtra"],
+    "states": [
+      "Maharashtra"
+    ],
     "coordinates": [
       {
         "state": "Maharashtra",
@@ -4295,7 +4798,9 @@
     "id": "249",
     "name": "Mangalwedha Jowar",
     "type": "Agricultural",
-    "states": ["Maharashtra"],
+    "states": [
+      "Maharashtra"
+    ],
     "coordinates": [
       {
         "state": "Maharashtra",
@@ -4312,7 +4817,9 @@
     "id": "250",
     "name": "Sindhudurg & Ratnagiri Kokum",
     "type": "Agricultural",
-    "states": ["Maharashtra"],
+    "states": [
+      "Maharashtra"
+    ],
     "coordinates": [
       {
         "state": "Maharashtra",
@@ -4329,7 +4836,9 @@
     "id": "251",
     "name": "Agates of Cambay",
     "type": "Handicraft",
-    "states": ["Gujarat"],
+    "states": [
+      "Gujarat"
+    ],
     "coordinates": [
       {
         "state": "Gujarat",
@@ -4346,7 +4855,9 @@
     "id": "252",
     "name": "Guledgudd Khana",
     "type": "Handicraft",
-    "states": ["Karnataka"],
+    "states": [
+      "Karnataka"
+    ],
     "coordinates": [
       {
         "state": "Karnataka",
@@ -4363,7 +4874,9 @@
     "id": "253",
     "name": "Udupi Sarees",
     "type": "Handicraft",
-    "states": ["Karnataka"],
+    "states": [
+      "Karnataka"
+    ],
     "coordinates": [
       {
         "state": "Karnataka",
@@ -4380,7 +4893,9 @@
     "id": "254",
     "name": "Kuthampally Dhoties & Set Mundu",
     "type": "Handicraft",
-    "states": ["Kerala"],
+    "states": [
+      "Kerala"
+    ],
     "coordinates": [
       {
         "state": "Kerala",
@@ -4397,7 +4912,9 @@
     "id": "255",
     "name": "Waghya Ghevada",
     "type": "Agricultural",
-    "states": ["Maharashtra"],
+    "states": [
+      "Maharashtra"
+    ],
     "coordinates": [
       {
         "state": "Maharashtra",
@@ -4414,7 +4931,9 @@
     "id": "256",
     "name": "Navapur Tur Dal",
     "type": "Agricultural",
-    "states": ["Maharashtra"],
+    "states": [
+      "Maharashtra"
+    ],
     "coordinates": [
       {
         "state": "Maharashtra",
@@ -4431,7 +4950,9 @@
     "id": "257",
     "name": "Vengurla Cashew",
     "type": "Agricultural",
-    "states": ["Maharashtra"],
+    "states": [
+      "Maharashtra"
+    ],
     "coordinates": [
       {
         "state": "Maharashtra",
@@ -4448,7 +4969,9 @@
     "id": "258",
     "name": "Lasalgaon Onion",
     "type": "Agricultural",
-    "states": ["Maharashtra"],
+    "states": [
+      "Maharashtra"
+    ],
     "coordinates": [
       {
         "state": "Maharashtra",
@@ -4465,7 +4988,9 @@
     "id": "259",
     "name": "Maddalam of Palakkad",
     "type": "Handicraft",
-    "states": ["Kerala"],
+    "states": [
+      "Kerala"
+    ],
     "coordinates": [
       {
         "state": "Kerala",
@@ -4482,7 +5007,9 @@
     "id": "260",
     "name": "Brass Broidered Coconut Shell Craft of Kerala",
     "type": "Handicraft",
-    "states": ["Kerala"],
+    "states": [
+      "Kerala"
+    ],
     "coordinates": [
       {
         "state": "Kerala",
@@ -4499,7 +5026,9 @@
     "id": "261",
     "name": "Screw Pine Craft of Kerala",
     "type": "Handicraft",
-    "states": ["Kerala"],
+    "states": [
+      "Kerala"
+    ],
     "coordinates": [
       {
         "state": "Kerala",
@@ -4516,7 +5045,9 @@
     "id": "262",
     "name": "Sangli Raisins",
     "type": "Agricultural",
-    "states": ["Maharashtra"],
+    "states": [
+      "Maharashtra"
+    ],
     "coordinates": [
       {
         "state": "Maharashtra",
@@ -4533,7 +5064,9 @@
     "id": "263",
     "name": "Parmigiano Reggiano",
     "type": "Manufactured",
-    "states": ["Italy"],
+    "states": [
+      "Italy"
+    ],
     "coordinates": [
       {
         "state": "Italy",
@@ -4550,7 +5083,9 @@
     "id": "264",
     "name": "Banaras Metal Repouse Craft",
     "type": "Handicraft",
-    "states": ["Uttar Pradesh"],
+    "states": [
+      "Uttar Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Uttar Pradesh",
@@ -4567,7 +5102,9 @@
     "id": "265",
     "name": "Beed Custard Apple",
     "type": "Agricultural",
-    "states": ["Maharashtra"],
+    "states": [
+      "Maharashtra"
+    ],
     "coordinates": [
       {
         "state": "Maharashtra",
@@ -4584,7 +5121,9 @@
     "id": "266",
     "name": "Jalna Sweet Orange",
     "type": "Agricultural",
-    "states": ["Maharashtra"],
+    "states": [
+      "Maharashtra"
+    ],
     "coordinates": [
       {
         "state": "Maharashtra",
@@ -4601,7 +5140,9 @@
     "id": "267",
     "name": "Uttarakhand Tejpat",
     "type": "Agricultural",
-    "states": ["Uttarakhand"],
+    "states": [
+      "Uttarakhand"
+    ],
     "coordinates": [
       {
         "state": "Uttarakhand",
@@ -4618,7 +5159,9 @@
     "id": "268",
     "name": "Waigaon Turmeric",
     "type": "Agricultural",
-    "states": ["Maharashtra"],
+    "states": [
+      "Maharashtra"
+    ],
     "coordinates": [
       {
         "state": "Maharashtra",
@@ -4635,7 +5178,9 @@
     "id": "269",
     "name": "Purandar Fig",
     "type": "Agricultural",
-    "states": ["Maharashtra"],
+    "states": [
+      "Maharashtra"
+    ],
     "coordinates": [
       {
         "state": "Maharashtra",
@@ -4652,7 +5197,9 @@
     "id": "270",
     "name": "Jalgaon Bharit Brinjal",
     "type": "Agricultural",
-    "states": ["Maharashtra"],
+    "states": [
+      "Maharashtra"
+    ],
     "coordinates": [
       {
         "state": "Maharashtra",
@@ -4669,7 +5216,9 @@
     "id": "271",
     "name": "Solapur Pomegranate",
     "type": "Agricultural",
-    "states": ["Maharashtra"],
+    "states": [
+      "Maharashtra"
+    ],
     "coordinates": [
       {
         "state": "Maharashtra",
@@ -4686,7 +5235,9 @@
     "id": "272",
     "name": "Kashmiri Hand Knotted Carpet",
     "type": "Handicraft",
-    "states": ["Jammu & Kashmir"],
+    "states": [
+      "Jammu & Kashmir"
+    ],
     "coordinates": [
       {
         "state": "Jammu & Kashmir",
@@ -4703,7 +5254,9 @@
     "id": "273",
     "name": "Jamnagari Bandhani",
     "type": "Handicraft",
-    "states": ["Gujarat"],
+    "states": [
+      "Gujarat"
+    ],
     "coordinates": [
       {
         "state": "Gujarat",
@@ -4720,7 +5273,9 @@
     "id": "274",
     "name": "Prosecco",
     "type": "Manufactured",
-    "states": ["Italy"],
+    "states": [
+      "Italy"
+    ],
     "coordinates": [
       {
         "state": "Italy",
@@ -4737,7 +5292,9 @@
     "id": "275",
     "name": "Mysore Silk",
     "type": "Handicraft",
-    "states": ["Karnataka"],
+    "states": [
+      "Karnataka"
+    ],
     "coordinates": [
       {
         "state": "Karnataka",
@@ -4754,7 +5311,9 @@
     "id": "276",
     "name": "Varanasi Glass beads",
     "type": "Handicraft",
-    "states": ["Uttar Pradesh"],
+    "states": [
+      "Uttar Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Uttar Pradesh",
@@ -4771,7 +5330,9 @@
     "id": "277",
     "name": "Asiago",
     "type": "Food Stuff",
-    "states": ["Italy"],
+    "states": [
+      "Italy"
+    ],
     "coordinates": [
       {
         "state": "Italy",
@@ -4788,7 +5349,9 @@
     "id": "278",
     "name": "Bhiwapur Chilli",
     "type": "Agricultural",
-    "states": ["Maharashtra"],
+    "states": [
+      "Maharashtra"
+    ],
     "coordinates": [
       {
         "state": "Maharashtra",
@@ -4805,7 +5368,9 @@
     "id": "279",
     "name": "Ambemohar Rice",
     "type": "Agricultural",
-    "states": ["Maharashtra"],
+    "states": [
+      "Maharashtra"
+    ],
     "coordinates": [
       {
         "state": "Maharashtra",
@@ -4822,7 +5387,9 @@
     "id": "280",
     "name": "Dahanu Gholvad Chikoo",
     "type": "Agricultural",
-    "states": ["Maharashtra"],
+    "states": [
+      "Maharashtra"
+    ],
     "coordinates": [
       {
         "state": "Maharashtra",
@@ -4839,7 +5406,9 @@
     "id": "281",
     "name": "Jalgaon Banana",
     "type": "Agricultural",
-    "states": ["Maharashtra"],
+    "states": [
+      "Maharashtra"
+    ],
     "coordinates": [
       {
         "state": "Maharashtra",
@@ -4856,7 +5425,9 @@
     "id": "282",
     "name": "Marathwada Kesar Mango",
     "type": "Agricultural",
-    "states": ["Maharashtra"],
+    "states": [
+      "Maharashtra"
+    ],
     "coordinates": [
       {
         "state": "Maharashtra",
@@ -4873,7 +5444,9 @@
     "id": "283",
     "name": "Karvath Kati Sarees & Fabrics",
     "type": "Handicraft",
-    "states": ["Maharashtra"],
+    "states": [
+      "Maharashtra"
+    ],
     "coordinates": [
       {
         "state": "Maharashtra",
@@ -4890,7 +5463,9 @@
     "id": "284",
     "name": "Applique (Khatwa) Work of Bihar",
     "type": "Handicraft",
-    "states": ["Bihar"],
+    "states": [
+      "Bihar"
+    ],
     "coordinates": [
       {
         "state": "Bihar",
@@ -4907,7 +5482,9 @@
     "id": "285",
     "name": "Molela Clay Work of Rajasthan",
     "type": "Handicraft",
-    "states": ["Rajasthan"],
+    "states": [
+      "Rajasthan"
+    ],
     "coordinates": [
       {
         "state": "Rajasthan",
@@ -4924,7 +5501,9 @@
     "id": "286",
     "name": "Bandar Laddu",
     "type": "Food Stuff",
-    "states": ["Andhra Pradesh"],
+    "states": [
+      "Andhra Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Andhra Pradesh",
@@ -4941,7 +5520,9 @@
     "id": "287",
     "name": "Joha Rice of Assam",
     "type": "Agricultural",
-    "states": ["Assam"],
+    "states": [
+      "Assam"
+    ],
     "coordinates": [
       {
         "state": "Assam",
@@ -4958,7 +5539,9 @@
     "id": "288",
     "name": "Udayagiri Wooden Cutlery",
     "type": "Handicraft",
-    "states": ["Andhra Pradesh"],
+    "states": [
+      "Andhra Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Andhra Pradesh",
@@ -4975,7 +5558,9 @@
     "id": "289",
     "name": "Bardhaman Sitabhog",
     "type": "Food Stuff",
-    "states": ["West Bengal"],
+    "states": [
+      "West Bengal"
+    ],
     "coordinates": [
       {
         "state": "West Bengal",
@@ -4992,7 +5577,9 @@
     "id": "290",
     "name": "Bardhaman Mihidana",
     "type": "Food Stuff",
-    "states": ["West Bengal"],
+    "states": [
+      "West Bengal"
+    ],
     "coordinates": [
       {
         "state": "West Bengal",
@@ -5009,7 +5596,9 @@
     "id": "291",
     "name": "Sikki Grass Products of Bihar",
     "type": "Handicraft",
-    "states": ["Bihar"],
+    "states": [
+      "Bihar"
+    ],
     "coordinates": [
       {
         "state": "Bihar",
@@ -5026,7 +5615,9 @@
     "id": "292",
     "name": "Sujini Embroidery Work of Bihar",
     "type": "Handicraft",
-    "states": ["Bihar"],
+    "states": [
+      "Bihar"
+    ],
     "coordinates": [
       {
         "state": "Bihar",
@@ -5043,7 +5634,9 @@
     "id": "293",
     "name": "Blue Pottery of Jaipur",
     "type": "Handicraft",
-    "states": ["Rajasthan"],
+    "states": [
+      "Rajasthan"
+    ],
     "coordinates": [
       {
         "state": "Rajasthan",
@@ -5060,7 +5653,9 @@
     "id": "294",
     "name": "Kathputlis of Rajasthan",
     "type": "Handicraft",
-    "states": ["Rajasthan"],
+    "states": [
+      "Rajasthan"
+    ],
     "coordinates": [
       {
         "state": "Rajasthan",
@@ -5077,7 +5672,10 @@
     "id": "295",
     "name": "Banaganapalle Mangoes",
     "type": "Agricultural",
-    "states": ["Telangana", "Andhra Pradesh"],
+    "states": [
+      "Telangana",
+      "Andhra Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Telangana",
@@ -5099,7 +5697,9 @@
     "id": "296",
     "name": "Pochampally Ikat",
     "type": "Handicraft",
-    "states": ["Telangana"],
+    "states": [
+      "Telangana"
+    ],
     "coordinates": [
       {
         "state": "Telangana",
@@ -5116,7 +5716,9 @@
     "id": "297",
     "name": "Gobindobhog Rice",
     "type": "Agricultural",
-    "states": ["West Bengal"],
+    "states": [
+      "West Bengal"
+    ],
     "coordinates": [
       {
         "state": "West Bengal",
@@ -5133,7 +5735,9 @@
     "id": "298",
     "name": "Durgi Stone Carvings",
     "type": "Handicraft",
-    "states": ["Andhra Pradesh"],
+    "states": [
+      "Andhra Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Andhra Pradesh",
@@ -5150,7 +5754,9 @@
     "id": "299",
     "name": "Etikoppaka Toys",
     "type": "Handicraft",
-    "states": ["Andhra Pradesh"],
+    "states": [
+      "Andhra Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Andhra Pradesh",
@@ -5167,7 +5773,9 @@
     "id": "300",
     "name": "Tulapanji Rice",
     "type": "Agricultural",
-    "states": ["West Bengal"],
+    "states": [
+      "West Bengal"
+    ],
     "coordinates": [
       {
         "state": "West Bengal",
@@ -5184,7 +5792,9 @@
     "id": "301",
     "name": "Chakshesang Shawl",
     "type": "Handicraft",
-    "states": ["Nagaland"],
+    "states": [
+      "Nagaland"
+    ],
     "coordinates": [
       {
         "state": "Nagaland",
@@ -5201,7 +5811,9 @@
     "id": "302",
     "name": "Mahabalipuram Stone Sculpture",
     "type": "Handicraft",
-    "states": ["Tamil Nadu"],
+    "states": [
+      "Tamil Nadu"
+    ],
     "coordinates": [
       {
         "state": "Tamil Nadu",
@@ -5218,7 +5830,9 @@
     "id": "303",
     "name": "Banglar Rasogolla",
     "type": "Food Stuff",
-    "states": ["West Bengal"],
+    "states": [
+      "West Bengal"
+    ],
     "coordinates": [
       {
         "state": "West Bengal",
@@ -5235,7 +5849,9 @@
     "id": "304",
     "name": "Lamphun Brocade Thai Silk",
     "type": "Handicraft",
-    "states": ["Thailand"],
+    "states": [
+      "Thailand"
+    ],
     "coordinates": [
       {
         "state": "Thailand",
@@ -5252,7 +5868,9 @@
     "id": "305",
     "name": "Nilambur Teak",
     "type": "Agricultural",
-    "states": ["Kerala"],
+    "states": [
+      "Kerala"
+    ],
     "coordinates": [
       {
         "state": "Kerala",
@@ -5269,7 +5887,9 @@
     "id": "306",
     "name": "Bankura Panchmura Terracotta Craft",
     "type": "Handicraft",
-    "states": ["West Bengal"],
+    "states": [
+      "West Bengal"
+    ],
     "coordinates": [
       {
         "state": "West Bengal",
@@ -5286,7 +5906,9 @@
     "id": "307",
     "name": "Pokaran Pottery",
     "type": "Handicraft",
-    "states": ["Rajasthan"],
+    "states": [
+      "Rajasthan"
+    ],
     "coordinates": [
       {
         "state": "Rajasthan",
@@ -5303,7 +5925,9 @@
     "id": "308",
     "name": "Adilabad Dokra",
     "type": "Handicraft",
-    "states": ["Telangana"],
+    "states": [
+      "Telangana"
+    ],
     "coordinates": [
       {
         "state": "Telangana",
@@ -5320,7 +5944,9 @@
     "id": "309",
     "name": "Warangal Durries",
     "type": "Handicraft",
-    "states": ["Telangana"],
+    "states": [
+      "Telangana"
+    ],
     "coordinates": [
       {
         "state": "Telangana",
@@ -5337,7 +5963,9 @@
     "id": "310",
     "name": "Allagadda Stone Carving",
     "type": "Handicraft",
-    "states": ["Andhra Pradesh"],
+    "states": [
+      "Andhra Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Andhra Pradesh",
@@ -5354,7 +5982,9 @@
     "id": "311",
     "name": "Bhagalpuri Zardalu",
     "type": "Agricultural",
-    "states": ["Bihar"],
+    "states": [
+      "Bihar"
+    ],
     "coordinates": [
       {
         "state": "Bihar",
@@ -5371,7 +6001,9 @@
     "id": "312",
     "name": "Katarni Rice",
     "type": "Agricultural",
-    "states": ["Bihar"],
+    "states": [
+      "Bihar"
+    ],
     "coordinates": [
       {
         "state": "Bihar",
@@ -5388,7 +6020,9 @@
     "id": "313",
     "name": "Magahi Paan",
     "type": "Agricultural",
-    "states": ["Bihar"],
+    "states": [
+      "Bihar"
+    ],
     "coordinates": [
       {
         "state": "Bihar",
@@ -5405,7 +6039,9 @@
     "id": "314",
     "name": "Ghazipur Wall-hanging",
     "type": "Handicraft",
-    "states": ["Uttar Pradesh"],
+    "states": [
+      "Uttar Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Uttar Pradesh",
@@ -5422,7 +6058,9 @@
     "id": "315",
     "name": "Varanasi Soft Stone Jali Work",
     "type": "Handicraft",
-    "states": ["Uttar Pradesh"],
+    "states": [
+      "Uttar Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Uttar Pradesh",
@@ -5439,7 +6077,9 @@
     "id": "316",
     "name": "Bengal Dokra",
     "type": "Handicraft",
-    "states": ["West Bengal"],
+    "states": [
+      "West Bengal"
+    ],
     "coordinates": [
       {
         "state": "West Bengal",
@@ -5456,7 +6096,9 @@
     "id": "317",
     "name": "Bengal Patachitra",
     "type": "Handicraft",
-    "states": ["West Bengal"],
+    "states": [
+      "West Bengal"
+    ],
     "coordinates": [
       {
         "state": "West Bengal",
@@ -5473,7 +6115,9 @@
     "id": "318",
     "name": "Purulia Chau Mask",
     "type": "Handicraft",
-    "states": ["West Bengal"],
+    "states": [
+      "West Bengal"
+    ],
     "coordinates": [
       {
         "state": "West Bengal",
@@ -5490,7 +6134,9 @@
     "id": "319",
     "name": "Wooden Mask of Kushmandi",
     "type": "Handicraft",
-    "states": ["West Bengal"],
+    "states": [
+      "West Bengal"
+    ],
     "coordinates": [
       {
         "state": "West Bengal",
@@ -5507,7 +6153,9 @@
     "id": "320",
     "name": "Madur kathi",
     "type": "Handicraft",
-    "states": ["West Bengal"],
+    "states": [
+      "West Bengal"
+    ],
     "coordinates": [
       {
         "state": "West Bengal",
@@ -5524,7 +6172,9 @@
     "id": "321",
     "name": "Jhabua Kadaknath Black Chicken Meat",
     "type": "Food Stuff",
-    "states": ["Madhya Pradesh"],
+    "states": [
+      "Madhya Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Madhya Pradesh",
@@ -5541,7 +6191,9 @@
     "id": "322",
     "name": "Boka Chaul",
     "type": "Agricultural",
-    "states": ["Assam"],
+    "states": [
+      "Assam"
+    ],
     "coordinates": [
       {
         "state": "Assam",
@@ -5558,7 +6210,9 @@
     "id": "323",
     "name": "Grana Padano",
     "type": "Manufactured",
-    "states": ["Italy"],
+    "states": [
+      "Italy"
+    ],
     "coordinates": [
       {
         "state": "Italy",
@@ -5575,7 +6229,9 @@
     "id": "324",
     "name": "Alphonso mangoes",
     "type": "Agricultural",
-    "states": ["Maharashtra"],
+    "states": [
+      "Maharashtra"
+    ],
     "coordinates": [
       {
         "state": "Maharashtra",
@@ -5592,7 +6248,9 @@
     "id": "325",
     "name": "RajKot Patola",
     "type": "Handicraft",
-    "states": ["Gujarat"],
+    "states": [
+      "Gujarat"
+    ],
     "coordinates": [
       {
         "state": "Gujarat",
@@ -5609,7 +6267,9 @@
     "id": "326",
     "name": "Shahi Litchi of Bihar",
     "type": "Agricultural",
-    "states": ["Bihar"],
+    "states": [
+      "Bihar"
+    ],
     "coordinates": [
       {
         "state": "Bihar",
@@ -5626,7 +6286,9 @@
     "id": "327",
     "name": "Sangli Turmeric",
     "type": "Agricultural",
-    "states": ["Maharashtra"],
+    "states": [
+      "Maharashtra"
+    ],
     "coordinates": [
       {
         "state": "Maharashtra",
@@ -5643,7 +6305,9 @@
     "id": "328",
     "name": "Pethapur Printing Blocks",
     "type": "Handicraft",
-    "states": ["Gujarat"],
+    "states": [
+      "Gujarat"
+    ],
     "coordinates": [
       {
         "state": "Gujarat",
@@ -5660,7 +6324,10 @@
     "id": "329",
     "name": "Kolhapuri Chappal",
     "type": "Handicraft",
-    "states": ["Maharashtra", "Karnataka"],
+    "states": [
+      "Maharashtra",
+      "Karnataka"
+    ],
     "coordinates": [
       {
         "state": "Maharashtra",
@@ -5682,7 +6349,9 @@
     "id": "330",
     "name": "Silao Khaja",
     "type": "Food Stuff",
-    "states": ["Bihar"],
+    "states": [
+      "Bihar"
+    ],
     "coordinates": [
       {
         "state": "Bihar",
@@ -5699,7 +6368,9 @@
     "id": "331",
     "name": "Coorg Arabica Coffee",
     "type": "Agricultural",
-    "states": ["Karnataka"],
+    "states": [
+      "Karnataka"
+    ],
     "coordinates": [
       {
         "state": "Karnataka",
@@ -5716,7 +6387,9 @@
     "id": "332",
     "name": "Wayanaad Robusta Coffee",
     "type": "Agricultural",
-    "states": ["Kerala"],
+    "states": [
+      "Kerala"
+    ],
     "coordinates": [
       {
         "state": "Kerala",
@@ -5733,7 +6406,9 @@
     "id": "333",
     "name": "Chikmagalur Arabica Coffee",
     "type": "Agricultural",
-    "states": ["Karnataka"],
+    "states": [
+      "Karnataka"
+    ],
     "coordinates": [
       {
         "state": "Karnataka",
@@ -5750,7 +6425,10 @@
     "id": "334",
     "name": "Araku Valley Arabica Coffee",
     "type": "Agricultural",
-    "states": ["Andhra Pradesh", "Odisha"],
+    "states": [
+      "Andhra Pradesh",
+      "Odisha"
+    ],
     "coordinates": [
       {
         "state": "Andhra Pradesh",
@@ -5772,7 +6450,9 @@
     "id": "335",
     "name": "Bababudangiris Arabica Coffee",
     "type": "Agricultural",
-    "states": ["Karnataka"],
+    "states": [
+      "Karnataka"
+    ],
     "coordinates": [
       {
         "state": "Karnataka",
@@ -5789,7 +6469,9 @@
     "id": "336",
     "name": "Himachali Kala Zeera",
     "type": "Agricultural",
-    "states": ["Himachal Pradesh"],
+    "states": [
+      "Himachal Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Himachal Pradesh",
@@ -5806,7 +6488,9 @@
     "id": "337",
     "name": "Sirsi Supari",
     "type": "Agricultural",
-    "states": ["Karnataka"],
+    "states": [
+      "Karnataka"
+    ],
     "coordinates": [
       {
         "state": "Karnataka",
@@ -5823,7 +6507,9 @@
     "id": "338",
     "name": "Himachali Chulli Oil",
     "type": "Manufactured",
-    "states": ["Himachal Pradesh"],
+    "states": [
+      "Himachal Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Himachal Pradesh",
@@ -5840,7 +6526,9 @@
     "id": "339",
     "name": "Chunar Balua Patthar",
     "type": "Natural Goods",
-    "states": ["Uttar Pradesh"],
+    "states": [
+      "Uttar Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Uttar Pradesh",
@@ -5857,7 +6545,9 @@
     "id": "340",
     "name": "Erode Manjal (Erode Turmeric)",
     "type": "Agricultural",
-    "states": ["Tamil Nadu"],
+    "states": [
+      "Tamil Nadu"
+    ],
     "coordinates": [
       {
         "state": "Tamil Nadu",
@@ -5874,7 +6564,9 @@
     "id": "341",
     "name": "Marayoor Jaggery (Marayoor Sharkara)",
     "type": "Agricultural",
-    "states": ["Kerala"],
+    "states": [
+      "Kerala"
+    ],
     "coordinates": [
       {
         "state": "Kerala",
@@ -5891,7 +6583,9 @@
     "id": "342",
     "name": "Thirubuvanam Silk Sarees",
     "type": "Handicraft",
-    "states": ["Tamil Nadu"],
+    "states": [
+      "Tamil Nadu"
+    ],
     "coordinates": [
       {
         "state": "Tamil Nadu",
@@ -5908,7 +6602,9 @@
     "id": "343",
     "name": "Jeeraphool",
     "type": "Agricultural",
-    "states": ["Chhattisgarh"],
+    "states": [
+      "Chhattisgarh"
+    ],
     "coordinates": [
       {
         "state": "Chhattisgarh",
@@ -5925,7 +6621,9 @@
     "id": "344",
     "name": "Kandhamal Haladi",
     "type": "Agricultural",
-    "states": ["Odisha"],
+    "states": [
+      "Odisha"
+    ],
     "coordinates": [
       {
         "state": "Odisha",
@@ -5942,7 +6640,9 @@
     "id": "345",
     "name": "Odisha Rasagola",
     "type": "Food Stuff",
-    "states": ["Odisha"],
+    "states": [
+      "Odisha"
+    ],
     "coordinates": [
       {
         "state": "Odisha",
@@ -5959,7 +6659,9 @@
     "id": "346",
     "name": "Kodaikanal Malai Poondu",
     "type": "Agricultural",
-    "states": ["Tamil Nadu"],
+    "states": [
+      "Tamil Nadu"
+    ],
     "coordinates": [
       {
         "state": "Tamil Nadu",
@@ -5976,7 +6678,9 @@
     "id": "347",
     "name": "Pawndum",
     "type": "Handicraft",
-    "states": ["Mizoram"],
+    "states": [
+      "Mizoram"
+    ],
     "coordinates": [
       {
         "state": "Mizoram",
@@ -5993,7 +6697,9 @@
     "id": "348",
     "name": "Ngotekherh",
     "type": "Handicraft",
-    "states": ["Mizoram"],
+    "states": [
+      "Mizoram"
+    ],
     "coordinates": [
       {
         "state": "Mizoram",
@@ -6010,7 +6716,9 @@
     "id": "349",
     "name": "Hmaram",
     "type": "Handicraft",
-    "states": ["Mizoram"],
+    "states": [
+      "Mizoram"
+    ],
     "coordinates": [
       {
         "state": "Mizoram",
@@ -6027,7 +6735,9 @@
     "id": "350",
     "name": "Palani Panchamirtham",
     "type": "Food Stuff",
-    "states": ["Tamil Nadu"],
+    "states": [
+      "Tamil Nadu"
+    ],
     "coordinates": [
       {
         "state": "Tamil Nadu",
@@ -6044,7 +6754,9 @@
     "id": "351",
     "name": "Tawlhlohpuan",
     "type": "Handicraft",
-    "states": ["Mizoram"],
+    "states": [
+      "Mizoram"
+    ],
     "coordinates": [
       {
         "state": "Mizoram",
@@ -6061,7 +6773,9 @@
     "id": "352",
     "name": "Mizo Puanchei",
     "type": "Handicraft",
-    "states": ["Mizoram"],
+    "states": [
+      "Mizoram"
+    ],
     "coordinates": [
       {
         "state": "Mizoram",
@@ -6078,7 +6792,9 @@
     "id": "353",
     "name": "Gulbarga Tur Dal",
     "type": "Agricultural",
-    "states": ["Karnataka"],
+    "states": [
+      "Karnataka"
+    ],
     "coordinates": [
       {
         "state": "Karnataka",
@@ -6095,7 +6811,9 @@
     "id": "354",
     "name": "Tirur Betel Leaf (Tirur Vettila)",
     "type": "Agricultural",
-    "states": ["Kerala"],
+    "states": [
+      "Kerala"
+    ],
     "coordinates": [
       {
         "state": "Kerala",
@@ -6112,7 +6830,9 @@
     "id": "355",
     "name": "Irish Whiskey",
     "type": "Manufactured",
-    "states": ["Ireland"],
+    "states": [
+      "Ireland"
+    ],
     "coordinates": [
       {
         "state": "Ireland",
@@ -6129,7 +6849,9 @@
     "id": "356",
     "name": "Khola Chilli",
     "type": "Agricultural",
-    "states": ["Goa"],
+    "states": [
+      "Goa"
+    ],
     "coordinates": [
       {
         "state": "Goa",
@@ -6146,7 +6868,9 @@
     "id": "357",
     "name": "Idu Mishmi Textiles",
     "type": "Handicraft",
-    "states": ["Arunachal Pradesh"],
+    "states": [
+      "Arunachal Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Arunachal Pradesh",
@@ -6163,7 +6887,9 @@
     "id": "358",
     "name": "Dindigul Locks",
     "type": "Handicraft",
-    "states": ["Tamil Nadu"],
+    "states": [
+      "Tamil Nadu"
+    ],
     "coordinates": [
       {
         "state": "Tamil Nadu",
@@ -6180,7 +6906,9 @@
     "id": "359",
     "name": "Kandangi Saree",
     "type": "Handicraft",
-    "states": ["Tamil Nadu"],
+    "states": [
+      "Tamil Nadu"
+    ],
     "coordinates": [
       {
         "state": "Tamil Nadu",
@@ -6197,7 +6925,9 @@
     "id": "360",
     "name": "Srivilliputtur Palkova",
     "type": "Food Stuff",
-    "states": ["Tamil Nadu"],
+    "states": [
+      "Tamil Nadu"
+    ],
     "coordinates": [
       {
         "state": "Tamil Nadu",
@@ -6214,7 +6944,9 @@
     "id": "361",
     "name": "Kaji Nemu",
     "type": "Agricultural",
-    "states": ["Assam"],
+    "states": [
+      "Assam"
+    ],
     "coordinates": [
       {
         "state": "Assam",
@@ -6231,7 +6963,9 @@
     "id": "362",
     "name": "Chokuwa Rice of Assam",
     "type": "Agricultural",
-    "states": ["Assam"],
+    "states": [
+      "Assam"
+    ],
     "coordinates": [
       {
         "state": "Assam",
@@ -6248,7 +6982,9 @@
     "id": "363",
     "name": "Kovilpatti Kadalai Mittai",
     "type": "Food Stuff",
-    "states": ["Tamil Nadu"],
+    "states": [
+      "Tamil Nadu"
+    ],
     "coordinates": [
       {
         "state": "Tamil Nadu",
@@ -6265,7 +7001,10 @@
     "id": "364",
     "name": "Chak - Hao",
     "type": "Agricultural",
-    "states": ["Manipur", "Nagaland"],
+    "states": [
+      "Manipur",
+      "Nagaland"
+    ],
     "coordinates": [
       {
         "state": "Manipur",
@@ -6287,7 +7026,9 @@
     "id": "365",
     "name": "Gorakhpur Terracotta",
     "type": "Handicraft",
-    "states": ["Uttar Pradesh"],
+    "states": [
+      "Uttar Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Uttar Pradesh",
@@ -6304,7 +7045,9 @@
     "id": "366",
     "name": "Kashmir Saffron",
     "type": "Agricultural",
-    "states": ["Jammu & Kashmir"],
+    "states": [
+      "Jammu & Kashmir"
+    ],
     "coordinates": [
       {
         "state": "Jammu & Kashmir",
@@ -6321,7 +7064,9 @@
     "id": "367",
     "name": "Thanjavur Netti Works",
     "type": "Handicraft",
-    "states": ["Tamil Nadu"],
+    "states": [
+      "Tamil Nadu"
+    ],
     "coordinates": [
       {
         "state": "Tamil Nadu",
@@ -6338,7 +7083,9 @@
     "id": "368",
     "name": "Arumbavur Wood Carvings",
     "type": "Handicraft",
-    "states": ["Tamil Nadu"],
+    "states": [
+      "Tamil Nadu"
+    ],
     "coordinates": [
       {
         "state": "Tamil Nadu",
@@ -6355,7 +7102,9 @@
     "id": "369",
     "name": "Telia Rumal",
     "type": "Handicraft",
-    "states": ["Telangana"],
+    "states": [
+      "Telangana"
+    ],
     "coordinates": [
       {
         "state": "Telangana",
@@ -6370,9 +7119,11 @@
   },
   {
     "id": "370",
-    "name": "Sohrai \u2013 Khovar Painting",
+    "name": "Sohrai – Khovar Painting",
     "type": "Handicraft",
-    "states": ["Jharkhand"],
+    "states": [
+      "Jharkhand"
+    ],
     "coordinates": [
       {
         "state": "Jharkhand",
@@ -6389,7 +7140,9 @@
     "id": "371",
     "name": "Chunar Glaze Pottery",
     "type": "Handicraft",
-    "states": ["Uttar Pradesh"],
+    "states": [
+      "Uttar Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Uttar Pradesh",
@@ -6406,7 +7159,9 @@
     "id": "372",
     "name": "Sojat Mehndi",
     "type": "Agricultural",
-    "states": ["Rajasthan"],
+    "states": [
+      "Rajasthan"
+    ],
     "coordinates": [
       {
         "state": "Rajasthan",
@@ -6423,7 +7178,9 @@
     "id": "373",
     "name": "Karuppur Kalamkari Paintings",
     "type": "Handicraft",
-    "states": ["Tamil Nadu"],
+    "states": [
+      "Tamil Nadu"
+    ],
     "coordinates": [
       {
         "state": "Tamil Nadu",
@@ -6440,7 +7197,9 @@
     "id": "374",
     "name": "Kallakurichi Wood Carving",
     "type": "Handicraft",
-    "states": ["Tamil Nadu"],
+    "states": [
+      "Tamil Nadu"
+    ],
     "coordinates": [
       {
         "state": "Tamil Nadu",
@@ -6457,7 +7216,9 @@
     "id": "375",
     "name": "Bhotia Dann of Uttarakhand",
     "type": "Handicraft",
-    "states": ["Uttarakhand"],
+    "states": [
+      "Uttarakhand"
+    ],
     "coordinates": [
       {
         "state": "Uttarakhand",
@@ -6474,7 +7235,9 @@
     "id": "376",
     "name": "Judima",
     "type": "Manufactured",
-    "states": ["Assam"],
+    "states": [
+      "Assam"
+    ],
     "coordinates": [
       {
         "state": "Assam",
@@ -6491,7 +7254,9 @@
     "id": "377",
     "name": "Chios Mastiha",
     "type": "Manufactured",
-    "states": ["Greece"],
+    "states": [
+      "Greece"
+    ],
     "coordinates": [
       {
         "state": "Greece",
@@ -6508,7 +7273,9 @@
     "id": "378",
     "name": "Gorgonzola",
     "type": "Food Stuff",
-    "states": ["Italy"],
+    "states": [
+      "Italy"
+    ],
     "coordinates": [
       {
         "state": "Italy",
@@ -6525,7 +7292,9 @@
     "id": "379",
     "name": "Brunello Di Montalcino",
     "type": "Manufactured",
-    "states": ["Italy"],
+    "states": [
+      "Italy"
+    ],
     "coordinates": [
       {
         "state": "Italy",
@@ -6542,7 +7311,9 @@
     "id": "380",
     "name": "Lambrusco Di Sorbara",
     "type": "Manufactured",
-    "states": ["Italy"],
+    "states": [
+      "Italy"
+    ],
     "coordinates": [
       {
         "state": "Italy",
@@ -6559,7 +7330,9 @@
     "id": "381",
     "name": "Lambrusco Grasparossa Di Castelvetro",
     "type": "Manufactured",
-    "states": ["Italy"],
+    "states": [
+      "Italy"
+    ],
     "coordinates": [
       {
         "state": "Italy",
@@ -6576,7 +7349,9 @@
     "id": "382",
     "name": "Balaghat Chinnor",
     "type": "Agricultural",
-    "states": ["Madhya Pradesh"],
+    "states": [
+      "Madhya Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Madhya Pradesh",
@@ -6593,7 +7368,9 @@
     "id": "383",
     "name": "Kuttiattoor Mango (Kuttiattoor Manga)",
     "type": "Agricultural",
-    "states": ["Kerala"],
+    "states": [
+      "Kerala"
+    ],
     "coordinates": [
       {
         "state": "Kerala",
@@ -6608,9 +7385,11 @@
   },
   {
     "id": "384",
-    "name": "Montepulciano D\u2019abruzzo",
+    "name": "Montepulciano D’abruzzo",
     "type": "Manufactured",
-    "states": ["Italy"],
+    "states": [
+      "Italy"
+    ],
     "coordinates": [
       {
         "state": "Italy",
@@ -6627,7 +7406,9 @@
     "id": "385",
     "name": "Pithora",
     "type": "Handicraft",
-    "states": ["Gujarat"],
+    "states": [
+      "Gujarat"
+    ],
     "coordinates": [
       {
         "state": "Gujarat",
@@ -6644,7 +7425,9 @@
     "id": "386",
     "name": "Manjusha Art",
     "type": "Handicraft",
-    "states": ["Bihar"],
+    "states": [
+      "Bihar"
+    ],
     "coordinates": [
       {
         "state": "Bihar",
@@ -6661,7 +7444,9 @@
     "id": "387",
     "name": "Harmal Chilli",
     "type": "Agricultural",
-    "states": ["Goa"],
+    "states": [
+      "Goa"
+    ],
     "coordinates": [
       {
         "state": "Goa",
@@ -6678,7 +7463,9 @@
     "id": "388",
     "name": "Edayur Chilli",
     "type": "Agricultural",
-    "states": ["Kerala"],
+    "states": [
+      "Kerala"
+    ],
     "coordinates": [
       {
         "state": "Kerala",
@@ -6695,7 +7482,9 @@
     "id": "389",
     "name": "Uttarakhand Aipan",
     "type": "Handicraft",
-    "states": ["Uttarakhand"],
+    "states": [
+      "Uttarakhand"
+    ],
     "coordinates": [
       {
         "state": "Uttarakhand",
@@ -6712,7 +7501,9 @@
     "id": "390",
     "name": "Munsyari Razma",
     "type": "Agricultural",
-    "states": ["Uttarakhand"],
+    "states": [
+      "Uttarakhand"
+    ],
     "coordinates": [
       {
         "state": "Uttarakhand",
@@ -6729,7 +7520,9 @@
     "id": "391",
     "name": "Uttarakhand Ringal Craft",
     "type": "Handicraft",
-    "states": ["Uttarakhand"],
+    "states": [
+      "Uttarakhand"
+    ],
     "coordinates": [
       {
         "state": "Uttarakhand",
@@ -6746,7 +7539,9 @@
     "id": "392",
     "name": "Uttarakhand Tamta Product",
     "type": "Handicraft",
-    "states": ["Uttarakhand"],
+    "states": [
+      "Uttarakhand"
+    ],
     "coordinates": [
       {
         "state": "Uttarakhand",
@@ -6763,7 +7558,9 @@
     "id": "393",
     "name": "Uttarakhand Thulma",
     "type": "Handicraft",
-    "states": ["Uttarakhand"],
+    "states": [
+      "Uttarakhand"
+    ],
     "coordinates": [
       {
         "state": "Uttarakhand",
@@ -6780,7 +7577,9 @@
     "id": "394",
     "name": "Myndoli Banana",
     "type": "Agricultural",
-    "states": ["Goa"],
+    "states": [
+      "Goa"
+    ],
     "coordinates": [
       {
         "state": "Goa",
@@ -6797,7 +7596,9 @@
     "id": "395",
     "name": "Banaras Zardozi",
     "type": "Handicraft",
-    "states": ["Uttar Pradesh"],
+    "states": [
+      "Uttar Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Uttar Pradesh",
@@ -6814,7 +7615,9 @@
     "id": "396",
     "name": "Mirzapur Pital Bartan",
     "type": "Handicraft",
-    "states": ["Uttar Pradesh"],
+    "states": [
+      "Uttar Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Uttar Pradesh",
@@ -6831,7 +7634,9 @@
     "id": "397",
     "name": "Banaras Wood Carving",
     "type": "Handicraft",
-    "states": ["Uttar Pradesh"],
+    "states": [
+      "Uttar Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Uttar Pradesh",
@@ -6848,7 +7653,9 @@
     "id": "398",
     "name": "Banaras Hand Block Print",
     "type": "Handicraft",
-    "states": ["Uttar Pradesh"],
+    "states": [
+      "Uttar Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Uttar Pradesh",
@@ -6865,7 +7672,9 @@
     "id": "399",
     "name": "Kumaon Chyura Oil",
     "type": "Agricultural",
-    "states": ["Uttarakhand"],
+    "states": [
+      "Uttarakhand"
+    ],
     "coordinates": [
       {
         "state": "Uttarakhand",
@@ -6882,7 +7691,9 @@
     "id": "400",
     "name": "Goan Khaje",
     "type": "Food Stuff",
-    "states": ["Goa"],
+    "states": [
+      "Goa"
+    ],
     "coordinates": [
       {
         "state": "Goa",
@@ -6899,7 +7710,9 @@
     "id": "401",
     "name": "Rataul Mango",
     "type": "Agricultural",
-    "states": ["Uttar Pradesh"],
+    "states": [
+      "Uttar Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Uttar Pradesh",
@@ -6916,7 +7729,9 @@
     "id": "402",
     "name": "Tamenglong Orange",
     "type": "Agricultural",
-    "states": ["Manipur"],
+    "states": [
+      "Manipur"
+    ],
     "coordinates": [
       {
         "state": "Manipur",
@@ -6933,7 +7748,9 @@
     "id": "403",
     "name": "Chamba Chappal",
     "type": "Handicraft",
-    "states": ["Himachal Pradesh"],
+    "states": [
+      "Himachal Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Himachal Pradesh",
@@ -6950,7 +7767,9 @@
     "id": "404",
     "name": "Mau Saree",
     "type": "Handicraft",
-    "states": ["Uttar Pradesh"],
+    "states": [
+      "Uttar Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Uttar Pradesh",
@@ -6967,7 +7786,9 @@
     "id": "405",
     "name": "Lahauli Knitted Socks & Gloves",
     "type": "Handicraft",
-    "states": ["Himachal Pradesh"],
+    "states": [
+      "Himachal Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Himachal Pradesh",
@@ -6984,7 +7805,9 @@
     "id": "406",
     "name": "Kanniyakumari Clove",
     "type": "Agricultural",
-    "states": ["Tamil Nadu"],
+    "states": [
+      "Tamil Nadu"
+    ],
     "coordinates": [
       {
         "state": "Tamil Nadu",
@@ -7001,7 +7824,9 @@
     "id": "407",
     "name": "Sirarakhong Hathei",
     "type": "Agricultural",
-    "states": ["Manipur"],
+    "states": [
+      "Manipur"
+    ],
     "coordinates": [
       {
         "state": "Manipur",
@@ -7018,7 +7843,9 @@
     "id": "408",
     "name": "Naga Cucumber",
     "type": "Agricultural",
-    "states": ["Nagaland"],
+    "states": [
+      "Nagaland"
+    ],
     "coordinates": [
       {
         "state": "Nagaland",
@@ -7033,9 +7860,11 @@
   },
   {
     "id": "409",
-    "name": "\u017dateck\u00fd chmel\u2019",
+    "name": "Žatecký chmel’",
     "type": "Manufactured",
-    "states": ["Czech Republic"],
+    "states": [
+      "Czech Republic"
+    ],
     "coordinates": [
       {
         "state": "Czech Republic",
@@ -7046,13 +7875,15 @@
     "primaryState": "Czech Republic",
     "stateCount": 1,
     "image_url": "https://example.com/images/zatecky_chmel.jpg",
-    "info": "\u017dateck\u00fd chmel\u2019 (Saaz hops) is a world-renowned hop variety from \u017datec, Czech Republic, famous for its mild aroma, low bitterness, and high quality. This GI tag ensures the authenticity and traditional cultivation methods of this prized brewing ingredient, essential for many Pilsner-style beers."
+    "info": "Žatecký chmel’ (Saaz hops) is a world-renowned hop variety from Žatec, Czech Republic, famous for its mild aroma, low bitterness, and high quality. This GI tag ensures the authenticity and traditional cultivation methods of this prized brewing ingredient, essential for many Pilsner-style beers."
   },
   {
     "id": "410",
-    "name": "M\u00fcnchener Bier",
+    "name": "Münchener Bier",
     "type": "Manufactured",
-    "states": ["Germany"],
+    "states": [
+      "Germany"
+    ],
     "coordinates": [
       {
         "state": "Germany",
@@ -7063,13 +7894,16 @@
     "primaryState": "Germany",
     "stateCount": 1,
     "image_url": "https://example.com/images/munchener_bier.jpg",
-    "info": "M\u00fcnchener Bier is a traditional beer brewed exclusively within the city limits of Munich, Germany, adhering to strict purity laws like the Reinheitsgebot. Its GI status protects its regional origin and centuries-old brewing heritage, ensuring its authentic character."
+    "info": "Münchener Bier is a traditional beer brewed exclusively within the city limits of Munich, Germany, adhering to strict purity laws like the Reinheitsgebot. Its GI status protects its regional origin and centuries-old brewing heritage, ensuring its authentic character."
   },
   {
     "id": "411",
     "name": "Mahoba Desawari Pan",
     "type": "Agricultural",
-    "states": ["Uttar Pradesh", "Madhya Pradesh"],
+    "states": [
+      "Uttar Pradesh",
+      "Madhya Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Uttar Pradesh",
@@ -7091,7 +7925,9 @@
     "id": "412",
     "name": "Toscano",
     "type": "Manufactured",
-    "states": ["Italy"],
+    "states": [
+      "Italy"
+    ],
     "coordinates": [
       {
         "state": "Italy",
@@ -7108,7 +7944,9 @@
     "id": "413",
     "name": "Mizo Ginger",
     "type": "Agricultural",
-    "states": ["Mizoram"],
+    "states": [
+      "Mizoram"
+    ],
     "coordinates": [
       {
         "state": "Mizoram",
@@ -7125,7 +7963,10 @@
     "id": "414",
     "name": "Dalle Khursani",
     "type": "Agricultural",
-    "states": ["Sikkim", "West Bengal"],
+    "states": [
+      "Sikkim",
+      "West Bengal"
+    ],
     "coordinates": [
       {
         "state": "Sikkim",
@@ -7147,7 +7988,9 @@
     "id": "415",
     "name": "Conegliano Valdobbiadene Prosecco",
     "type": "Manufactured",
-    "states": ["Italy"],
+    "states": [
+      "Italy"
+    ],
     "coordinates": [
       {
         "state": "Italy",
@@ -7164,7 +8007,9 @@
     "id": "416",
     "name": "Franciacorta",
     "type": "Manufactured",
-    "states": ["Italy"],
+    "states": [
+      "Italy"
+    ],
     "coordinates": [
       {
         "state": "Italy",
@@ -7181,7 +8026,9 @@
     "id": "417",
     "name": "Chianti",
     "type": "Manufactured",
-    "states": ["Italy"],
+    "states": [
+      "Italy"
+    ],
     "coordinates": [
       {
         "state": "Italy",
@@ -7198,7 +8045,9 @@
     "id": "418",
     "name": "Bayerisches Bier",
     "type": "Manufactured",
-    "states": ["Germany"],
+    "states": [
+      "Germany"
+    ],
     "coordinates": [
       {
         "state": "Germany",
@@ -7215,7 +8064,9 @@
     "id": "419",
     "name": "Irish Cream / Irish Cream Liqueur",
     "type": "Manufactured",
-    "states": ["Ireland"],
+    "states": [
+      "Ireland"
+    ],
     "coordinates": [
       {
         "state": "Ireland",
@@ -7232,7 +8083,9 @@
     "id": "420",
     "name": "Narasinghapettai Nagaswaram",
     "type": "Handicraft",
-    "states": ["Tamil Nadu"],
+    "states": [
+      "Tamil Nadu"
+    ],
     "coordinates": [
       {
         "state": "Tamil Nadu",
@@ -7249,7 +8102,9 @@
     "id": "421",
     "name": "Mithila Makhana",
     "type": "Agricultural",
-    "states": ["Bihar"],
+    "states": [
+      "Bihar"
+    ],
     "coordinates": [
       {
         "state": "Bihar",
@@ -7266,7 +8121,9 @@
     "id": "422",
     "name": "Brandy De Jerez",
     "type": "Manufactured",
-    "states": ["Spain"],
+    "states": [
+      "Spain"
+    ],
     "coordinates": [
       {
         "state": "Spain",
@@ -7283,7 +8140,9 @@
     "id": "423",
     "name": "Provolone Valpadana",
     "type": "Manufactured",
-    "states": ["Italy"],
+    "states": [
+      "Italy"
+    ],
     "coordinates": [
       {
         "state": "Italy",
@@ -7300,7 +8159,9 @@
     "id": "424",
     "name": "Alibag White Onion",
     "type": "Agricultural",
-    "states": ["Maharashtra"],
+    "states": [
+      "Maharashtra"
+    ],
     "coordinates": [
       {
         "state": "Maharashtra",
@@ -7317,7 +8178,9 @@
     "id": "425",
     "name": "Attappady Aattukombu Avara",
     "type": "Agricultural",
-    "states": ["Kerala"],
+    "states": [
+      "Kerala"
+    ],
     "coordinates": [
       {
         "state": "Kerala",
@@ -7334,7 +8197,9 @@
     "id": "426",
     "name": "Attappady Thuvara",
     "type": "Agricultural",
-    "states": ["Kerala"],
+    "states": [
+      "Kerala"
+    ],
     "coordinates": [
       {
         "state": "Kerala",
@@ -7351,7 +8216,9 @@
     "id": "427",
     "name": "Onattukara Ellu",
     "type": "Agricultural",
-    "states": ["Kerala"],
+    "states": [
+      "Kerala"
+    ],
     "coordinates": [
       {
         "state": "Kerala",
@@ -7368,7 +8235,9 @@
     "id": "428",
     "name": "Kanthalloor Vattavada Veluthulli",
     "type": "Agricultural",
-    "states": ["Kerala"],
+    "states": [
+      "Kerala"
+    ],
     "coordinates": [
       {
         "state": "Kerala",
@@ -7385,7 +8254,9 @@
     "id": "429",
     "name": "Kodungallur Pottuvellari",
     "type": "Agricultural",
-    "states": ["Kerala"],
+    "states": [
+      "Kerala"
+    ],
     "coordinates": [
       {
         "state": "Kerala",
@@ -7402,7 +8273,9 @@
     "id": "430",
     "name": "Tandur Redgram",
     "type": "Agricultural",
-    "states": ["Telangana"],
+    "states": [
+      "Telangana"
+    ],
     "coordinates": [
       {
         "state": "Telangana",
@@ -7419,7 +8292,9 @@
     "id": "431",
     "name": "Ladakh Raktsey Karpo Apricot",
     "type": "Agricultural",
-    "states": ["Ladakh (UT)"],
+    "states": [
+      "Ladakh (UT)"
+    ],
     "coordinates": [
       {
         "state": "Ladakh (UT)",
@@ -7436,7 +8311,9 @@
     "id": "432",
     "name": "Gamosa of Assam",
     "type": "Handicraft",
-    "states": ["Assam"],
+    "states": [
+      "Assam"
+    ],
     "coordinates": [
       {
         "state": "Assam",
@@ -7451,9 +8328,11 @@
   },
   {
     "id": "433",
-    "name": "\u010ceskobud\u011bjovick\u00e9 Pivo",
+    "name": "Českobudějovické Pivo",
     "type": "Manufactured",
-    "states": ["Czech Republic"],
+    "states": [
+      "Czech Republic"
+    ],
     "coordinates": [
       {
         "state": "Czech Republic",
@@ -7464,13 +8343,15 @@
     "primaryState": "Czech Republic",
     "stateCount": 1,
     "image_url": "https://example.com/images/ceskobudejovicke_pivo.jpg",
-    "info": "\u010ceskobud\u011bjovick\u00e9 Pivo is a traditional beer originating from \u010cesk\u00e9 Bud\u011bjovice, Czech Republic, famous for its distinctive brewing methods and high quality. Its GI status, notably for brands like Budweiser Budvar, protects its unique regional identity and rich brewing heritage, ensuring its authentic character."
+    "info": "Českobudějovické Pivo is a traditional beer originating from České Budějovice, Czech Republic, famous for its distinctive brewing methods and high quality. Its GI status, notably for brands like Budweiser Budvar, protects its unique regional identity and rich brewing heritage, ensuring its authentic character."
   },
   {
     "id": "434",
     "name": "Vino Nobile Di Montepulciano",
     "type": "Manufactured",
-    "states": ["Italy"],
+    "states": [
+      "Italy"
+    ],
     "coordinates": [
       {
         "state": "Italy",
@@ -7487,7 +8368,9 @@
     "id": "435",
     "name": "Nagri Dubraj",
     "type": "Agricultural",
-    "states": ["Chhattisgarh"],
+    "states": [
+      "Chhattisgarh"
+    ],
     "coordinates": [
       {
         "state": "Chhattisgarh",
@@ -7504,7 +8387,9 @@
     "id": "436",
     "name": "Morena Gajak",
     "type": "Food Stuff",
-    "states": ["Madhya Pradesh"],
+    "states": [
+      "Madhya Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Madhya Pradesh",
@@ -7521,7 +8406,9 @@
     "id": "437",
     "name": "Rewa Sunderja Mango",
     "type": "Agricultural",
-    "states": ["Madhya Pradesh"],
+    "states": [
+      "Madhya Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Madhya Pradesh",
@@ -7538,7 +8425,9 @@
     "id": "438",
     "name": "Sharbati Gehu",
     "type": "Agricultural",
-    "states": ["Madhya Pradesh"],
+    "states": [
+      "Madhya Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Madhya Pradesh",
@@ -7555,7 +8444,9 @@
     "id": "439",
     "name": "Gond Painting of Madhya Pradesh",
     "type": "Handicraft",
-    "states": ["Madhya Pradesh"],
+    "states": [
+      "Madhya Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Madhya Pradesh",
@@ -7572,7 +8463,9 @@
     "id": "440",
     "name": "Adamchini Chawal",
     "type": "Agricultural",
-    "states": ["Uttar Pradesh"],
+    "states": [
+      "Uttar Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Uttar Pradesh",
@@ -7589,7 +8482,9 @@
     "id": "441",
     "name": "Ramnathapuram Mundu Chilli",
     "type": "Agricultural",
-    "states": ["Tamil Nadu"],
+    "states": [
+      "Tamil Nadu"
+    ],
     "coordinates": [
       {
         "state": "Tamil Nadu",
@@ -7606,7 +8501,9 @@
     "id": "442",
     "name": "Vellore Spiny Brinjal",
     "type": "Agricultural",
-    "states": ["Tamil Nadu"],
+    "states": [
+      "Tamil Nadu"
+    ],
     "coordinates": [
       {
         "state": "Tamil Nadu",
@@ -7623,7 +8520,9 @@
     "id": "443",
     "name": "Myladi Stone Carvings",
     "type": "Handicraft",
-    "states": ["Tamil Nadu"],
+    "states": [
+      "Tamil Nadu"
+    ],
     "coordinates": [
       {
         "state": "Tamil Nadu",
@@ -7640,7 +8539,9 @@
     "id": "444",
     "name": "Manapparai Murukku",
     "type": "Food Stuff",
-    "states": ["Tamil Nadu"],
+    "states": [
+      "Tamil Nadu"
+    ],
     "coordinates": [
       {
         "state": "Tamil Nadu",
@@ -7657,7 +8558,9 @@
     "id": "445",
     "name": "Ooty Varkey",
     "type": "Food Stuff",
-    "states": ["Tamil Nadu"],
+    "states": [
+      "Tamil Nadu"
+    ],
     "coordinates": [
       {
         "state": "Tamil Nadu",
@@ -7674,7 +8577,9 @@
     "id": "446",
     "name": "Manamadurai Pottery",
     "type": "Handicraft",
-    "states": ["Tamil Nadu"],
+    "states": [
+      "Tamil Nadu"
+    ],
     "coordinates": [
       {
         "state": "Tamil Nadu",
@@ -7691,7 +8596,9 @@
     "id": "447",
     "name": "Thaikkal Rattan Craft",
     "type": "Handicraft",
-    "states": ["Tamil Nadu"],
+    "states": [
+      "Tamil Nadu"
+    ],
     "coordinates": [
       {
         "state": "Tamil Nadu",
@@ -7708,7 +8615,9 @@
     "id": "448",
     "name": "Aligarh Tala",
     "type": "Handicraft",
-    "states": ["Uttar Pradesh"],
+    "states": [
+      "Uttar Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Uttar Pradesh",
@@ -7725,7 +8634,9 @@
     "id": "449",
     "name": "Bakhira Brassware",
     "type": "Handicraft",
-    "states": ["Uttar Pradesh"],
+    "states": [
+      "Uttar Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Uttar Pradesh",
@@ -7742,7 +8653,9 @@
     "id": "450",
     "name": "Banda Shazar Patthar craft",
     "type": "Handicraft",
-    "states": ["Uttar Pradesh"],
+    "states": [
+      "Uttar Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Uttar Pradesh",
@@ -7759,7 +8672,9 @@
     "id": "451",
     "name": "Nagina Wood Craft",
     "type": "Handicraft",
-    "states": ["Uttar Pradesh"],
+    "states": [
+      "Uttar Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Uttar Pradesh",
@@ -7776,7 +8691,9 @@
     "id": "452",
     "name": "Pratapgarh Aonla",
     "type": "Agricultural",
-    "states": ["Uttar Pradesh"],
+    "states": [
+      "Uttar Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Uttar Pradesh",
@@ -7793,7 +8710,9 @@
     "id": "453",
     "name": "Hathras Hing",
     "type": "Food Stuff",
-    "states": ["Uttar Pradesh"],
+    "states": [
+      "Uttar Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Uttar Pradesh",
@@ -7810,7 +8729,9 @@
     "id": "454",
     "name": "Chilean Pisco",
     "type": "Manufactured",
-    "states": ["Chile"],
+    "states": [
+      "Chile"
+    ],
     "coordinates": [
       {
         "state": "Chile",
@@ -7827,7 +8748,9 @@
     "id": "455",
     "name": "Mata ni Pachhedi",
     "type": "Handicraft",
-    "states": ["Gujarat"],
+    "states": [
+      "Gujarat"
+    ],
     "coordinates": [
       {
         "state": "Gujarat",
@@ -7844,7 +8767,9 @@
     "id": "456",
     "name": "Wrought Iron Crafts of Dindori",
     "type": "Handicraft",
-    "states": ["Madhya Pradesh"],
+    "states": [
+      "Madhya Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Madhya Pradesh",
@@ -7861,7 +8786,9 @@
     "id": "457",
     "name": "Ujjain Batik Print",
     "type": "Handicraft",
-    "states": ["Madhya Pradesh"],
+    "states": [
+      "Madhya Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Madhya Pradesh",
@@ -7878,7 +8805,9 @@
     "id": "458",
     "name": "Gwalior Handmade Carpet",
     "type": "Handicraft",
-    "states": ["Madhya Pradesh"],
+    "states": [
+      "Madhya Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Madhya Pradesh",
@@ -7895,7 +8824,9 @@
     "id": "459",
     "name": "Waraseoni Handloom Saree & Fabrics",
     "type": "Handicraft",
-    "states": ["Madhya Pradesh"],
+    "states": [
+      "Madhya Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Madhya Pradesh",
@@ -7912,7 +8843,9 @@
     "id": "460",
     "name": "Jabalpur Stone Craft",
     "type": "Handicraft",
-    "states": ["Madhya Pradesh"],
+    "states": [
+      "Madhya Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Madhya Pradesh",
@@ -7929,7 +8862,9 @@
     "id": "461",
     "name": "Salem Sago (Javvarisi)",
     "type": "Food Stuff",
-    "states": ["Tamil Nadu"],
+    "states": [
+      "Tamil Nadu"
+    ],
     "coordinates": [
       {
         "state": "Tamil Nadu",
@@ -7946,7 +8881,9 @@
     "id": "462",
     "name": "Banaras Langda Aam (Mango)",
     "type": "Agricultural",
-    "states": ["Uttar Pradesh"],
+    "states": [
+      "Uttar Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Uttar Pradesh",
@@ -7963,7 +8900,9 @@
     "id": "463",
     "name": "Ramnagar Bhanta (Brinjal)",
     "type": "Agricultural",
-    "states": ["Uttar Pradesh"],
+    "states": [
+      "Uttar Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Uttar Pradesh",
@@ -7980,7 +8919,9 @@
     "id": "464",
     "name": "Authoor Vetrilai",
     "type": "Agricultural",
-    "states": ["Tamil Nadu"],
+    "states": [
+      "Tamil Nadu"
+    ],
     "coordinates": [
       {
         "state": "Tamil Nadu",
@@ -7997,7 +8938,9 @@
     "id": "465",
     "name": "Muzaffarnagar Gur (Jaggery)",
     "type": "Food Stuff",
-    "states": ["Uttar Pradesh"],
+    "states": [
+      "Uttar Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Uttar Pradesh",
@@ -8014,7 +8957,9 @@
     "id": "466",
     "name": "Pashmina Wool of Ladakh",
     "type": "Handicraft",
-    "states": ["Ladakh (UT)"],
+    "states": [
+      "Ladakh (UT)"
+    ],
     "coordinates": [
       {
         "state": "Ladakh (UT)",
@@ -8031,7 +8976,9 @@
     "id": "467",
     "name": "Banaras Pan (Betel Leaf)",
     "type": "Agricultural",
-    "states": ["Uttar Pradesh"],
+    "states": [
+      "Uttar Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Uttar Pradesh",
@@ -8048,7 +8995,9 @@
     "id": "468",
     "name": "Cumbum Panneer Thratchai",
     "type": "Agricultural",
-    "states": ["Tamil Nadu"],
+    "states": [
+      "Tamil Nadu"
+    ],
     "coordinates": [
       {
         "state": "Tamil Nadu",
@@ -8065,7 +9014,9 @@
     "id": "469",
     "name": "Indi Limbe",
     "type": "Agricultural",
-    "states": ["Karnataka"],
+    "states": [
+      "Karnataka"
+    ],
     "coordinates": [
       {
         "state": "Karnataka",
@@ -8082,7 +9033,9 @@
     "id": "470",
     "name": "Basohli Painting",
     "type": "Handicraft",
-    "states": ["Jammu & Kashmir (UT)"],
+    "states": [
+      "Jammu & Kashmir (UT)"
+    ],
     "coordinates": [
       {
         "state": "Jammu & Kashmir (UT)",
@@ -8099,7 +9052,9 @@
     "id": "471",
     "name": "Negamam Cotton Saree",
     "type": "Handicraft",
-    "states": ["Tamil Nadu"],
+    "states": [
+      "Tamil Nadu"
+    ],
     "coordinates": [
       {
         "state": "Tamil Nadu",
@@ -8116,7 +9071,9 @@
     "id": "472",
     "name": "Ladakh Shingskos (Wood Carving)",
     "type": "Handicraft",
-    "states": ["Ladakh (UT)"],
+    "states": [
+      "Ladakh (UT)"
+    ],
     "coordinates": [
       {
         "state": "Ladakh (UT)",
@@ -8133,7 +9090,9 @@
     "id": "473",
     "name": "Sholavandan Vetrilai",
     "type": "Agricultural",
-    "states": ["Tamil Nadu"],
+    "states": [
+      "Tamil Nadu"
+    ],
     "coordinates": [
       {
         "state": "Tamil Nadu",
@@ -8150,7 +9109,9 @@
     "id": "474",
     "name": "Marthandam Honey",
     "type": "Food Stuff",
-    "states": ["Tamil Nadu"],
+    "states": [
+      "Tamil Nadu"
+    ],
     "coordinates": [
       {
         "state": "Tamil Nadu",
@@ -8167,7 +9128,9 @@
     "id": "475",
     "name": "Kari Ishad Mango",
     "type": "Agricultural",
-    "states": ["Karnataka"],
+    "states": [
+      "Karnataka"
+    ],
     "coordinates": [
       {
         "state": "Karnataka",
@@ -8184,7 +9147,9 @@
     "id": "476",
     "name": "Mahoba Gaura Patthar Hastashlip",
     "type": "Handicraft",
-    "states": ["Uttar Pradesh"],
+    "states": [
+      "Uttar Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Uttar Pradesh",
@@ -8201,7 +9166,9 @@
     "id": "477",
     "name": "Mainpuri Tarkashi",
     "type": "Handicraft",
-    "states": ["Uttar Pradesh"],
+    "states": [
+      "Uttar Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Uttar Pradesh",
@@ -8218,7 +9185,9 @@
     "id": "478",
     "name": "Sambhal Horn Craft",
     "type": "Handicraft",
-    "states": ["Uttar Pradesh"],
+    "states": [
+      "Uttar Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Uttar Pradesh",
@@ -8235,7 +9204,9 @@
     "id": "479",
     "name": "Amroha Dholak",
     "type": "Handicraft",
-    "states": ["Uttar Pradesh"],
+    "states": [
+      "Uttar Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Uttar Pradesh",
@@ -8252,7 +9223,9 @@
     "id": "480",
     "name": "Baghpat Home Furnishings",
     "type": "Handicraft",
-    "states": ["Uttar Pradesh"],
+    "states": [
+      "Uttar Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Uttar Pradesh",
@@ -8269,7 +9242,9 @@
     "id": "481",
     "name": "Barabanki Handloom Product",
     "type": "Handicraft",
-    "states": ["Uttar Pradesh"],
+    "states": [
+      "Uttar Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Uttar Pradesh",
@@ -8286,7 +9261,9 @@
     "id": "482",
     "name": "Kalpi Handmade Paper",
     "type": "Handicraft",
-    "states": ["Uttar Pradesh"],
+    "states": [
+      "Uttar Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Uttar Pradesh",
@@ -8303,7 +9280,9 @@
     "id": "483",
     "name": "Atreyapuram Pootharekulu",
     "type": "Food Stuff",
-    "states": ["Andhra Pradesh"],
+    "states": [
+      "Andhra Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Andhra Pradesh",
@@ -8320,7 +9299,9 @@
     "id": "484",
     "name": "Ladakh Seabuckthorn",
     "type": "Agricultural",
-    "states": ["Ladakh (UT)"],
+    "states": [
+      "Ladakh (UT)"
+    ],
     "coordinates": [
       {
         "state": "Ladakh (UT)",
@@ -8337,7 +9318,9 @@
     "id": "485",
     "name": "Bhandara Chinoor Rice",
     "type": "Agricultural",
-    "states": ["Maharashtra"],
+    "states": [
+      "Maharashtra"
+    ],
     "coordinates": [
       {
         "state": "Maharashtra",
@@ -8354,7 +9337,9 @@
     "id": "486",
     "name": "Jaderi Namakatti",
     "type": "Handicraft",
-    "states": ["Tamil Nadu"],
+    "states": [
+      "Tamil Nadu"
+    ],
     "coordinates": [
       {
         "state": "Tamil Nadu",
@@ -8371,7 +9356,9 @@
     "id": "487",
     "name": "Agra Leather Footwear",
     "type": "Manufactured",
-    "states": ["Uttar Pradesh"],
+    "states": [
+      "Uttar Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Uttar Pradesh",
@@ -8388,7 +9375,9 @@
     "id": "488",
     "name": "Nathdwara Pichhwai Painting",
     "type": "Handicraft",
-    "states": ["Rajasthan"],
+    "states": [
+      "Rajasthan"
+    ],
     "coordinates": [
       {
         "state": "Rajasthan",
@@ -8405,7 +9394,9 @@
     "id": "489",
     "name": "Kanyakumari Matti Banana",
     "type": "Agricultural",
-    "states": ["Tamil Nadu"],
+    "states": [
+      "Tamil Nadu"
+    ],
     "coordinates": [
       {
         "state": "Tamil Nadu",
@@ -8422,7 +9413,9 @@
     "id": "490",
     "name": "Mushqbudji Rice",
     "type": "Agricultural",
-    "states": ["Jammu & Kashmir"],
+    "states": [
+      "Jammu & Kashmir"
+    ],
     "coordinates": [
       {
         "state": "Jammu & Kashmir",
@@ -8439,7 +9432,9 @@
     "id": "491",
     "name": "Chedibutta Saree",
     "type": "Handicraft",
-    "states": ["Tamil Nadu"],
+    "states": [
+      "Tamil Nadu"
+    ],
     "coordinates": [
       {
         "state": "Tamil Nadu",
@@ -8456,7 +9451,9 @@
     "id": "492",
     "name": "Agsechi Vayingim (Agassaim Brinjal)",
     "type": "Agricultural",
-    "states": ["Goa"],
+    "states": [
+      "Goa"
+    ],
     "coordinates": [
       {
         "state": "Goa",
@@ -8473,7 +9470,9 @@
     "id": "493",
     "name": "Rajouri Chikri Wood Craft",
     "type": "Handicraft",
-    "states": ["Jammu & Kashmir"],
+    "states": [
+      "Jammu & Kashmir"
+    ],
     "coordinates": [
       {
         "state": "Jammu & Kashmir",
@@ -8490,7 +9489,9 @@
     "id": "494",
     "name": "Sat Shiro Bheno (Sat Shirancho Bhendo)",
     "type": "Agricultural",
-    "states": ["Goa"],
+    "states": [
+      "Goa"
+    ],
     "coordinates": [
       {
         "state": "Goa",
@@ -8507,7 +9508,9 @@
     "id": "495",
     "name": "Marcha Rice",
     "type": "Agricultural",
-    "states": ["Bihar"],
+    "states": [
+      "Bihar"
+    ],
     "coordinates": [
       {
         "state": "Bihar",
@@ -8524,7 +9527,9 @@
     "id": "496",
     "name": "Jalesar Dhatu Shilp (Metal Craft)",
     "type": "Handicraft",
-    "states": ["Uttar Pradesh"],
+    "states": [
+      "Uttar Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Uttar Pradesh",
@@ -8541,7 +9546,9 @@
     "id": "497",
     "name": "Goa Mankurad Mango",
     "type": "Agricultural",
-    "states": ["Goa"],
+    "states": [
+      "Goa"
+    ],
     "coordinates": [
       {
         "state": "Goa",
@@ -8558,7 +9565,9 @@
     "id": "498",
     "name": "Goan Bebinca",
     "type": "Food Stuff",
-    "states": ["Goa"],
+    "states": [
+      "Goa"
+    ],
     "coordinates": [
       {
         "state": "Goa",
@@ -8575,7 +9584,9 @@
     "id": "499",
     "name": "Udaipur Koftgari Metal Craft",
     "type": "Handicraft",
-    "states": ["Rajasthan"],
+    "states": [
+      "Rajasthan"
+    ],
     "coordinates": [
       {
         "state": "Rajasthan",
@@ -8592,7 +9603,9 @@
     "id": "500",
     "name": "Bikaner Kashidakari Craft",
     "type": "Handicraft",
-    "states": ["Rajasthan"],
+    "states": [
+      "Rajasthan"
+    ],
     "coordinates": [
       {
         "state": "Rajasthan",
@@ -8609,7 +9622,9 @@
     "id": "501",
     "name": "Jodhpur Bandhej Craft",
     "type": "Handicraft",
-    "states": ["Rajasthan"],
+    "states": [
+      "Rajasthan"
+    ],
     "coordinates": [
       {
         "state": "Rajasthan",
@@ -8626,7 +9641,9 @@
     "id": "502",
     "name": "Bikaner Usta Kala Craft",
     "type": "Handicraft",
-    "states": ["Rajasthan"],
+    "states": [
+      "Rajasthan"
+    ],
     "coordinates": [
       {
         "state": "Rajasthan",
@@ -8643,7 +9660,9 @@
     "id": "503",
     "name": "Bhaderwah Rajmash",
     "type": "Agricultural",
-    "states": ["Jammu & Kashmir"],
+    "states": [
+      "Jammu & Kashmir"
+    ],
     "coordinates": [
       {
         "state": "Jammu & Kashmir",
@@ -8660,7 +9679,9 @@
     "id": "504",
     "name": "Ramban Sulai Honey",
     "type": "Food Stuff",
-    "states": ["Jammu & Kashmir"],
+    "states": [
+      "Jammu & Kashmir"
+    ],
     "coordinates": [
       {
         "state": "Jammu & Kashmir",
@@ -8677,7 +9698,9 @@
     "id": "505",
     "name": "Udangudi Panangkarupatti",
     "type": "Food Stuff",
-    "states": ["Tamil Nadu"],
+    "states": [
+      "Tamil Nadu"
+    ],
     "coordinates": [
       {
         "state": "Tamil Nadu",
@@ -8694,7 +9717,9 @@
     "id": "506",
     "name": "Goa Cashew (Kaju Or Caju)",
     "type": "Agricultural",
-    "states": ["Goa"],
+    "states": [
+      "Goa"
+    ],
     "coordinates": [
       {
         "state": "Goa",
@@ -8711,7 +9736,9 @@
     "id": "507",
     "name": "Basohli Pashmina Woolen Products",
     "type": "Handicraft",
-    "states": ["Jammu & Kashmir"],
+    "states": [
+      "Jammu & Kashmir"
+    ],
     "coordinates": [
       {
         "state": "Jammu & Kashmir",
@@ -8728,7 +9755,9 @@
     "id": "508",
     "name": "Kendrapara Rasabali",
     "type": "Food Stuff",
-    "states": ["Odisha"],
+    "states": [
+      "Odisha"
+    ],
     "coordinates": [
       {
         "state": "Odisha",
@@ -8743,9 +9772,11 @@
   },
   {
     "id": "509",
-    "name": "Arunachal Pradesh Khaw Tai\u201d (Khamti Rice)",
+    "name": "Arunachal Pradesh Khaw Tai” (Khamti Rice)",
     "type": "Agricultural",
-    "states": ["Arunachal Pradesh"],
+    "states": [
+      "Arunachal Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Arunachal Pradesh",
@@ -8762,7 +9793,9 @@
     "id": "510",
     "name": "Udhampur Kaladi",
     "type": "Food Stuff",
-    "states": ["Jammu & Kashmir"],
+    "states": [
+      "Jammu & Kashmir"
+    ],
     "coordinates": [
       {
         "state": "Jammu & Kashmir",
@@ -8779,7 +9812,9 @@
     "id": "511",
     "name": "Arunachal Pradesh Yak Churpi",
     "type": "Food Stuff",
-    "states": ["Arunachal Pradesh"],
+    "states": [
+      "Arunachal Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Arunachal Pradesh",
@@ -8796,7 +9831,9 @@
     "id": "512",
     "name": "Arunachal Pradesh Tangsa Textile Product",
     "type": "Handicraft",
-    "states": ["Arunachal Pradesh"],
+    "states": [
+      "Arunachal Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Arunachal Pradesh",
@@ -8813,7 +9850,9 @@
     "id": "513",
     "name": "Uttarakhand Berinag Tea",
     "type": "Agricultural",
-    "states": ["Uttarakhand"],
+    "states": [
+      "Uttarakhand"
+    ],
     "coordinates": [
       {
         "state": "Uttarakhand",
@@ -8830,7 +9869,9 @@
     "id": "514",
     "name": "Uttarakhand Bichhu Buti (Nettle) Fabrics",
     "type": "Handicraft",
-    "states": ["Uttarakhand"],
+    "states": [
+      "Uttarakhand"
+    ],
     "coordinates": [
       {
         "state": "Uttarakhand",
@@ -8847,7 +9888,9 @@
     "id": "515",
     "name": "Uttarakhand Mandua",
     "type": "Agricultural",
-    "states": ["Uttarakhand"],
+    "states": [
+      "Uttarakhand"
+    ],
     "coordinates": [
       {
         "state": "Uttarakhand",
@@ -8864,7 +9907,9 @@
     "id": "516",
     "name": "Uttarakhand Jhangora",
     "type": "Agricultural",
-    "states": ["Uttarakhand"],
+    "states": [
+      "Uttarakhand"
+    ],
     "coordinates": [
       {
         "state": "Uttarakhand",
@@ -8881,7 +9926,9 @@
     "id": "517",
     "name": "Uttarakhand Gahat",
     "type": "Agricultural",
-    "states": ["Uttarakhand"],
+    "states": [
+      "Uttarakhand"
+    ],
     "coordinates": [
       {
         "state": "Uttarakhand",
@@ -8898,7 +9945,9 @@
     "id": "518",
     "name": "Uttarakhand Lal Chawal (Red Rice)",
     "type": "Agricultural",
-    "states": ["Uttarakhand"],
+    "states": [
+      "Uttarakhand"
+    ],
     "coordinates": [
       {
         "state": "Uttarakhand",
@@ -8915,7 +9964,9 @@
     "id": "519",
     "name": "Uttarakhand Kala Bhat",
     "type": "Agricultural",
-    "states": ["Uttarakhand"],
+    "states": [
+      "Uttarakhand"
+    ],
     "coordinates": [
       {
         "state": "Uttarakhand",
@@ -8932,7 +9983,9 @@
     "id": "520",
     "name": "Uttarakhand Malta Fruit",
     "type": "Agricultural",
-    "states": ["Uttarakhand"],
+    "states": [
+      "Uttarakhand"
+    ],
     "coordinates": [
       {
         "state": "Uttarakhand",
@@ -8949,7 +10002,9 @@
     "id": "521",
     "name": "Uttarakhand Chaulai (Ramdana)",
     "type": "Agricultural",
-    "states": ["Uttarakhand"],
+    "states": [
+      "Uttarakhand"
+    ],
     "coordinates": [
       {
         "state": "Uttarakhand",
@@ -8966,7 +10021,9 @@
     "id": "522",
     "name": "Almora Lakhori Mirchi",
     "type": "Agricultural",
-    "states": ["Uttarakhand"],
+    "states": [
+      "Uttarakhand"
+    ],
     "coordinates": [
       {
         "state": "Uttarakhand",
@@ -8983,7 +10040,9 @@
     "id": "523",
     "name": "Uttarakhand Buransh",
     "type": "Food Stuff",
-    "states": ["Uttarakhand"],
+    "states": [
+      "Uttarakhand"
+    ],
     "coordinates": [
       {
         "state": "Uttarakhand",
@@ -9000,7 +10059,9 @@
     "id": "524",
     "name": "Uttarakhand Pahari Toor Dal",
     "type": "Agricultural",
-    "states": ["Uttarakhand"],
+    "states": [
+      "Uttarakhand"
+    ],
     "coordinates": [
       {
         "state": "Uttarakhand",
@@ -9017,7 +10078,9 @@
     "id": "525",
     "name": "Nainital Mombatti (Candle)",
     "type": "Manufactured",
-    "states": ["Uttarakhand"],
+    "states": [
+      "Uttarakhand"
+    ],
     "coordinates": [
       {
         "state": "Uttarakhand",
@@ -9034,7 +10097,9 @@
     "id": "526",
     "name": "Rangwali Pichhoda of Kumaon",
     "type": "Handicraft",
-    "states": ["Uttarakhand"],
+    "states": [
+      "Uttarakhand"
+    ],
     "coordinates": [
       {
         "state": "Uttarakhand",
@@ -9051,7 +10116,9 @@
     "id": "527",
     "name": "Ramnagar Nainital Litchi",
     "type": "Agricultural",
-    "states": ["Uttarakhand"],
+    "states": [
+      "Uttarakhand"
+    ],
     "coordinates": [
       {
         "state": "Uttarakhand",
@@ -9068,7 +10135,9 @@
     "id": "528",
     "name": "Ramgarh Nainital Aadu (Peach)",
     "type": "Agricultural",
-    "states": ["Uttarakhand"],
+    "states": [
+      "Uttarakhand"
+    ],
     "coordinates": [
       {
         "state": "Uttarakhand",
@@ -9085,7 +10154,9 @@
     "id": "529",
     "name": "Chamoli Wooden Ramman Mask",
     "type": "Handicraft",
-    "states": ["Uttarakhand"],
+    "states": [
+      "Uttarakhand"
+    ],
     "coordinates": [
       {
         "state": "Uttarakhand",
@@ -9102,7 +10173,9 @@
     "id": "530",
     "name": "Uttarakhand Likhai (Wood Carving)",
     "type": "Handicraft",
-    "states": ["Uttarakhand"],
+    "states": [
+      "Uttarakhand"
+    ],
     "coordinates": [
       {
         "state": "Uttarakhand",
@@ -9119,7 +10192,9 @@
     "id": "531",
     "name": "Odisha Khajuri Guda",
     "type": "Food Stuff",
-    "states": ["Odisha"],
+    "states": [
+      "Odisha"
+    ],
     "coordinates": [
       {
         "state": "Odisha",
@@ -9136,7 +10211,9 @@
     "id": "532",
     "name": "Tangail Saree of Bengal",
     "type": "Handicraft",
-    "states": ["West Bengal"],
+    "states": [
+      "West Bengal"
+    ],
     "coordinates": [
       {
         "state": "West Bengal",
@@ -9153,7 +10230,9 @@
     "id": "533",
     "name": "Garad Saree",
     "type": "Handicraft",
-    "states": ["West Bengal"],
+    "states": [
+      "West Bengal"
+    ],
     "coordinates": [
       {
         "state": "West Bengal",
@@ -9170,7 +10249,9 @@
     "id": "534",
     "name": "Korial saree",
     "type": "Handicraft",
-    "states": ["West Bengal"],
+    "states": [
+      "West Bengal"
+    ],
     "coordinates": [
       {
         "state": "West Bengal",
@@ -9187,7 +10268,9 @@
     "id": "535",
     "name": "Dhenkanal Magji",
     "type": "Food Stuff",
-    "states": ["Odisha"],
+    "states": [
+      "Odisha"
+    ],
     "coordinates": [
       {
         "state": "Odisha",
@@ -9204,7 +10287,9 @@
     "id": "536",
     "name": "Similipal Kai Chutney of Odisha",
     "type": "Food Stuff",
-    "states": ["Odisha"],
+    "states": [
+      "Odisha"
+    ],
     "coordinates": [
       {
         "state": "Odisha",
@@ -9221,7 +10306,9 @@
     "id": "537",
     "name": "Nayagarh Kanteimundi Brinjal",
     "type": "Agricultural",
-    "states": ["Odisha"],
+    "states": [
+      "Odisha"
+    ],
     "coordinates": [
       {
         "state": "Odisha",
@@ -9238,7 +10325,9 @@
     "id": "538",
     "name": "Kalonunia Rice",
     "type": "Agricultural",
-    "states": ["West Bengal"],
+    "states": [
+      "West Bengal"
+    ],
     "coordinates": [
       {
         "state": "West Bengal",
@@ -9255,7 +10344,9 @@
     "id": "539",
     "name": "Kachchhi Kharek",
     "type": "Agricultural",
-    "states": ["Gujarat"],
+    "states": [
+      "Gujarat"
+    ],
     "coordinates": [
       {
         "state": "Gujarat",
@@ -9272,7 +10363,9 @@
     "id": "540",
     "name": "Sundarban Honey",
     "type": "Food Stuff",
-    "states": ["West Bengal"],
+    "states": [
+      "West Bengal"
+    ],
     "coordinates": [
       {
         "state": "West Bengal",
@@ -9289,7 +10382,9 @@
     "id": "541",
     "name": "Kapadaganda: Dungaria Kondh Embroidery Shawl",
     "type": "Handicraft",
-    "states": ["Odisha"],
+    "states": [
+      "Odisha"
+    ],
     "coordinates": [
       {
         "state": "Odisha",
@@ -9306,7 +10401,9 @@
     "id": "542",
     "name": "Ramban Anardana",
     "type": "Agricultural",
-    "states": ["Jammu and Kashmir"],
+    "states": [
+      "Jammu and Kashmir"
+    ],
     "coordinates": [
       {
         "state": "Jammu and Kashmir",
@@ -9323,7 +10420,9 @@
     "id": "543",
     "name": "Koraput Kalajeera Rice",
     "type": "Agricultural",
-    "states": ["Odisha"],
+    "states": [
+      "Odisha"
+    ],
     "coordinates": [
       {
         "state": "Odisha",
@@ -9340,7 +10439,9 @@
     "id": "544",
     "name": "Arunachal Pradesh Handmade Carpet",
     "type": "Handicraft",
-    "states": ["Arunachal Pradesh"],
+    "states": [
+      "Arunachal Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Arunachal Pradesh",
@@ -9357,7 +10458,9 @@
     "id": "545",
     "name": "Arunachal Pradesh Wancho Wooden Craft",
     "type": "Handicraft",
-    "states": ["Arunachal Pradesh"],
+    "states": [
+      "Arunachal Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Arunachal Pradesh",
@@ -9374,7 +10477,9 @@
     "id": "546",
     "name": "Arunachal Pradesh Adi Kekir (Ginger)",
     "type": "Agricultural",
-    "states": ["Arunachal Pradesh"],
+    "states": [
+      "Arunachal Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Arunachal Pradesh",
@@ -9391,7 +10496,9 @@
     "id": "547",
     "name": "Painting of Lanjia Saura (IDITAL)",
     "type": "Handicraft",
-    "states": ["Odisha"],
+    "states": [
+      "Odisha"
+    ],
     "coordinates": [
       {
         "state": "Odisha",
@@ -9408,7 +10515,9 @@
     "id": "548",
     "name": "Sawantwadi Ganjifa Cards",
     "type": "Handicraft",
-    "states": ["Maharashtra"],
+    "states": [
+      "Maharashtra"
+    ],
     "coordinates": [
       {
         "state": "Maharashtra",
@@ -9425,7 +10534,9 @@
     "id": "549",
     "name": "Arunachal Pradesh Apatani Textile",
     "type": "Handicraft",
-    "states": ["Arunachal Pradesh"],
+    "states": [
+      "Arunachal Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Arunachal Pradesh",
@@ -9442,7 +10553,9 @@
     "id": "550",
     "name": "Arunachal Pradesh Monpa Textile",
     "type": "Handicraft",
-    "states": ["Arunachal Pradesh"],
+    "states": [
+      "Arunachal Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Arunachal Pradesh",
@@ -9459,7 +10572,9 @@
     "id": "551",
     "name": "Arunachal Pradesh Nyishi Textile",
     "type": "Handicraft",
-    "states": ["Arunachal Pradesh"],
+    "states": [
+      "Arunachal Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Arunachal Pradesh",
@@ -9476,7 +10591,9 @@
     "id": "552",
     "name": "Arunachal Pradesh Monpa Handmade Paper",
     "type": "Handicraft",
-    "states": ["Arunachal Pradesh"],
+    "states": [
+      "Arunachal Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Arunachal Pradesh",
@@ -9493,7 +10610,9 @@
     "id": "553",
     "name": "Arunachal Pradesh Adi Textile",
     "type": "Handicraft",
-    "states": ["Arunachal Pradesh"],
+    "states": [
+      "Arunachal Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Arunachal Pradesh",
@@ -9510,7 +10629,10 @@
     "id": "554",
     "name": "Arunachal Pradesh Singpho Phalap (Singpho Tea)",
     "type": "Agricultural",
-    "states": ["Arunachal Pradesh", "Assam"],
+    "states": [
+      "Arunachal Pradesh",
+      "Assam"
+    ],
     "coordinates": [
       {
         "state": "Arunachal Pradesh",
@@ -9532,7 +10654,9 @@
     "id": "555",
     "name": "Arunachal Pradesh Galo Textile",
     "type": "Handicraft",
-    "states": ["Arunachal Pradesh"],
+    "states": [
+      "Arunachal Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Arunachal Pradesh",
@@ -9549,7 +10673,9 @@
     "id": "556",
     "name": "Arunachal Pradesh Adi Apong",
     "type": "Manufactured",
-    "states": ["Arunachal Pradesh"],
+    "states": [
+      "Arunachal Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Arunachal Pradesh",
@@ -9566,7 +10692,9 @@
     "id": "557",
     "name": "Arunachal Pradesh Dao (Sword)",
     "type": "Manufactured",
-    "states": ["Arunachal Pradesh"],
+    "states": [
+      "Arunachal Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Arunachal Pradesh",
@@ -9583,7 +10711,9 @@
     "id": "558",
     "name": "Arunachal Pradesh Angnyat Millet",
     "type": "Agricultural",
-    "states": ["Arunachal Pradesh"],
+    "states": [
+      "Arunachal Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Arunachal Pradesh",
@@ -9600,7 +10730,9 @@
     "id": "559",
     "name": "Arunachal Pradesh Marua Apo (Marua Millet Beverage)",
     "type": "Manufactured",
-    "states": ["Arunachal Pradesh"],
+    "states": [
+      "Arunachal Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Arunachal Pradesh",
@@ -9617,7 +10749,9 @@
     "id": "560",
     "name": "Arunachal Pradesh Tai Khamti Textile",
     "type": "Handicraft",
-    "states": ["Arunachal Pradesh"],
+    "states": [
+      "Arunachal Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Arunachal Pradesh",
@@ -9634,7 +10768,9 @@
     "id": "561",
     "name": "Sitia Lasithiou Kritis",
     "type": "Food Stuff",
-    "states": ["Greece"],
+    "states": [
+      "Greece"
+    ],
     "coordinates": [
       {
         "state": "Greece",
@@ -9651,7 +10787,9 @@
     "id": "562",
     "name": "Kalamata",
     "type": "Food Stuff",
-    "states": ["Greece"],
+    "states": [
+      "Greece"
+    ],
     "coordinates": [
       {
         "state": "Greece",
@@ -9668,7 +10806,9 @@
     "id": "563",
     "name": "Barolo",
     "type": "Manufactured",
-    "states": ["Italy"],
+    "states": [
+      "Italy"
+    ],
     "coordinates": [
       {
         "state": "Italy",
@@ -9685,7 +10825,9 @@
     "id": "564",
     "name": "Banglar Muslin",
     "type": "Handicraft",
-    "states": ["West Bengal"],
+    "states": [
+      "West Bengal"
+    ],
     "coordinates": [
       {
         "state": "West Bengal",
@@ -9702,7 +10844,9 @@
     "id": "565",
     "name": "Narasapur Crochet Lace Products",
     "type": "Handicraft",
-    "states": ["Andhra Pradesh"],
+    "states": [
+      "Andhra Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Andhra Pradesh",
@@ -9719,7 +10863,9 @@
     "id": "566",
     "name": "Kutch Rogan Craft",
     "type": "Handicraft",
-    "states": ["Gujarat"],
+    "states": [
+      "Gujarat"
+    ],
     "coordinates": [
       {
         "state": "Gujarat",
@@ -9736,7 +10882,9 @@
     "id": "567",
     "name": "Cuttack Rupa Tarakasi (Silver Filigree)",
     "type": "Handicraft",
-    "states": ["Odisha"],
+    "states": [
+      "Odisha"
+    ],
     "coordinates": [
       {
         "state": "Odisha",
@@ -9753,7 +10901,9 @@
     "id": "568",
     "name": "Ratlam Riyawan Lahsun (Garlic)",
     "type": "Agricultural",
-    "states": ["Madhya Pradesh"],
+    "states": [
+      "Madhya Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Madhya Pradesh",
@@ -9770,7 +10920,9 @@
     "id": "569",
     "name": "Tripura Risa Textile",
     "type": "Handicraft",
-    "states": ["Tripura"],
+    "states": [
+      "Tripura"
+    ],
     "coordinates": [
       {
         "state": "Tripura",
@@ -9787,7 +10939,9 @@
     "id": "570",
     "name": "Hyderabad Lac Bangles",
     "type": "Handicraft",
-    "states": ["Telangana"],
+    "states": [
+      "Telangana"
+    ],
     "coordinates": [
       {
         "state": "Telangana",
@@ -9804,7 +10958,9 @@
     "id": "571",
     "name": "Majuli Mask of Assam",
     "type": "Handicraft",
-    "states": ["Assam"],
+    "states": [
+      "Assam"
+    ],
     "coordinates": [
       {
         "state": "Assam",
@@ -9821,7 +10977,9 @@
     "id": "572",
     "name": "Assam Majuli Manuscript Painting",
     "type": "Handicraft",
-    "states": ["Assam"],
+    "states": [
+      "Assam"
+    ],
     "coordinates": [
       {
         "state": "Assam",
@@ -9838,7 +10996,9 @@
     "id": "573",
     "name": "Ambaji White Marble",
     "type": "Natural Goods",
-    "states": ["Gujarat"],
+    "states": [
+      "Gujarat"
+    ],
     "coordinates": [
       {
         "state": "Gujarat",
@@ -9855,7 +11015,9 @@
     "id": "574",
     "name": "Patchwork of Rampur",
     "type": "Handicraft",
-    "states": ["Uttar Pradesh"],
+    "states": [
+      "Uttar Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Uttar Pradesh",
@@ -9872,7 +11034,9 @@
     "id": "575",
     "name": "Lakadong Turmeric",
     "type": "Agricultural",
-    "states": ["Meghalaya"],
+    "states": [
+      "Meghalaya"
+    ],
     "coordinates": [
       {
         "state": "Meghalaya",
@@ -9889,7 +11053,9 @@
     "id": "576",
     "name": "Kutch Bandhani",
     "type": "Handicraft",
-    "states": ["Gujarat"],
+    "states": [
+      "Gujarat"
+    ],
     "coordinates": [
       {
         "state": "Gujarat",
@@ -9906,7 +11072,9 @@
     "id": "577",
     "name": "Vasmat Haldi (Turmeric)",
     "type": "Agricultural",
-    "states": ["Maharashtra"],
+    "states": [
+      "Maharashtra"
+    ],
     "coordinates": [
       {
         "state": "Maharashtra",
@@ -9923,7 +11091,9 @@
     "id": "578",
     "name": "Nandurbar Amchur",
     "type": "Agricultural",
-    "states": ["Maharashtra"],
+    "states": [
+      "Maharashtra"
+    ],
     "coordinates": [
       {
         "state": "Maharashtra",
@@ -9940,7 +11110,9 @@
     "id": "579",
     "name": "Nandurbar Mirchi",
     "type": "Agricultural",
-    "states": ["Maharashtra"],
+    "states": [
+      "Maharashtra"
+    ],
     "coordinates": [
       {
         "state": "Maharashtra",
@@ -9957,7 +11129,9 @@
     "id": "580",
     "name": "Miraj Tanpura",
     "type": "Handicraft",
-    "states": ["Maharashtra"],
+    "states": [
+      "Maharashtra"
+    ],
     "coordinates": [
       {
         "state": "Maharashtra",
@@ -9974,7 +11148,9 @@
     "id": "581",
     "name": "Hupari Silver Craft",
     "type": "Handicraft",
-    "states": ["Maharashtra"],
+    "states": [
+      "Maharashtra"
+    ],
     "coordinates": [
       {
         "state": "Maharashtra",
@@ -9991,7 +11167,9 @@
     "id": "582",
     "name": "Miraj Sitar",
     "type": "Handicraft",
-    "states": ["Maharashtra"],
+    "states": [
+      "Maharashtra"
+    ],
     "coordinates": [
       {
         "state": "Maharashtra",
@@ -10008,7 +11186,9 @@
     "id": "583",
     "name": "Sawantwadi Wooden Craft",
     "type": "Handicraft",
-    "states": ["Maharashtra"],
+    "states": [
+      "Maharashtra"
+    ],
     "coordinates": [
       {
         "state": "Maharashtra",
@@ -10025,7 +11205,9 @@
     "id": "584",
     "name": "Mathura Sanjhi Craft",
     "type": "Handicraft",
-    "states": ["Uttar Pradesh"],
+    "states": [
+      "Uttar Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Uttar Pradesh",
@@ -10042,7 +11224,10 @@
     "id": "585",
     "name": "Bundelkhand Kathiya Gehu (Wheat)",
     "type": "Agricultural",
-    "states": ["Uttar Pradesh", "Madhya Pradesh"],
+    "states": [
+      "Uttar Pradesh",
+      "Madhya Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Uttar Pradesh",
@@ -10064,7 +11249,9 @@
     "id": "586",
     "name": "Banaras Tabla",
     "type": "Handicraft",
-    "states": ["Uttar Pradesh"],
+    "states": [
+      "Uttar Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Uttar Pradesh",
@@ -10081,7 +11268,9 @@
     "id": "587",
     "name": "Banaras Lal Bharwamirch",
     "type": "Agricultural",
-    "states": ["Uttar Pradesh"],
+    "states": [
+      "Uttar Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Uttar Pradesh",
@@ -10098,7 +11287,9 @@
     "id": "588",
     "name": "Pilibhit Bansuri",
     "type": "Handicraft",
-    "states": ["Uttar Pradesh"],
+    "states": [
+      "Uttar Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Uttar Pradesh",
@@ -10115,7 +11306,9 @@
     "id": "589",
     "name": "Panchincholi Tamarind",
     "type": "Agricultural",
-    "states": ["Maharashtra"],
+    "states": [
+      "Maharashtra"
+    ],
     "coordinates": [
       {
         "state": "Maharashtra",
@@ -10132,7 +11325,9 @@
     "id": "590",
     "name": "Borsuri Tur Dal",
     "type": "Agricultural",
-    "states": ["Maharashtra"],
+    "states": [
+      "Maharashtra"
+    ],
     "coordinates": [
       {
         "state": "Maharashtra",
@@ -10149,7 +11344,9 @@
     "id": "591",
     "name": "Kasti Coriander",
     "type": "Agricultural",
-    "states": ["Maharashtra"],
+    "states": [
+      "Maharashtra"
+    ],
     "coordinates": [
       {
         "state": "Maharashtra",
@@ -10166,7 +11363,9 @@
     "id": "592",
     "name": "Chiraigaon Karonda of Varanasi",
     "type": "Agricultural",
-    "states": ["Uttar Pradesh"],
+    "states": [
+      "Uttar Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Uttar Pradesh",
@@ -10183,7 +11382,9 @@
     "id": "593",
     "name": "Gharchola Craft of Gujarat",
     "type": "Handicraft",
-    "states": ["Gujarat"],
+    "states": [
+      "Gujarat"
+    ],
     "coordinates": [
       {
         "state": "Gujarat",
@@ -10200,7 +11401,9 @@
     "id": "594",
     "name": "Banaras Lal Peda",
     "type": "Food Stuff",
-    "states": ["Uttar Pradesh"],
+    "states": [
+      "Uttar Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Uttar Pradesh",
@@ -10217,7 +11420,9 @@
     "id": "595",
     "name": "Badlapur Jamun",
     "type": "Agricultural",
-    "states": ["Maharashtra"],
+    "states": [
+      "Maharashtra"
+    ],
     "coordinates": [
       {
         "state": "Maharashtra",
@@ -10234,7 +11439,9 @@
     "id": "596",
     "name": "Banaras Shehnai",
     "type": "Handicraft",
-    "states": ["Uttar Pradesh"],
+    "states": [
+      "Uttar Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Uttar Pradesh",
@@ -10251,7 +11458,9 @@
     "id": "597",
     "name": "Sambhal Bone Craft",
     "type": "Handicraft",
-    "states": ["Uttar Pradesh"],
+    "states": [
+      "Uttar Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Uttar Pradesh",
@@ -10268,7 +11477,9 @@
     "id": "598",
     "name": "Moonj Craft of Uttar Pradesh",
     "type": "Handicraft",
-    "states": ["Uttar Pradesh"],
+    "states": [
+      "Uttar Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Uttar Pradesh",
@@ -10285,7 +11496,9 @@
     "id": "599",
     "name": "Chitrakoot Wooden Craft & Toys",
     "type": "Handicraft",
-    "states": ["Uttar Pradesh"],
+    "states": [
+      "Uttar Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Uttar Pradesh",
@@ -10302,7 +11515,9 @@
     "id": "600",
     "name": "Bahadoli Jamun",
     "type": "Agricultural",
-    "states": ["Maharashtra"],
+    "states": [
+      "Maharashtra"
+    ],
     "coordinates": [
       {
         "state": "Maharashtra",
@@ -10319,7 +11534,9 @@
     "id": "601",
     "name": "Pen Ganesh Idol",
     "type": "Handicraft",
-    "states": ["Maharashtra"],
+    "states": [
+      "Maharashtra"
+    ],
     "coordinates": [
       {
         "state": "Maharashtra",
@@ -10336,7 +11553,9 @@
     "id": "602",
     "name": "Kunthalgiri Khawa",
     "type": "Food Stuff",
-    "states": ["Maharashtra"],
+    "states": [
+      "Maharashtra"
+    ],
     "coordinates": [
       {
         "state": "Maharashtra",
@@ -10353,7 +11572,9 @@
     "id": "603",
     "name": "Kavdi Maal of Tuljapur",
     "type": "Handicraft",
-    "states": ["Maharashtra"],
+    "states": [
+      "Maharashtra"
+    ],
     "coordinates": [
       {
         "state": "Maharashtra",
@@ -10370,7 +11591,9 @@
     "id": "604",
     "name": "Dagdi Jowar of Jalna",
     "type": "Agricultural",
-    "states": ["Maharashtra"],
+    "states": [
+      "Maharashtra"
+    ],
     "coordinates": [
       {
         "state": "Maharashtra",
@@ -10387,7 +11610,9 @@
     "id": "605",
     "name": "Bodo Dokhona",
     "type": "Handicraft",
-    "states": ["Assam"],
+    "states": [
+      "Assam"
+    ],
     "coordinates": [
       {
         "state": "Assam",
@@ -10404,7 +11629,9 @@
     "id": "606",
     "name": "Bodo Eri Silk",
     "type": "Handicraft",
-    "states": ["Assam"],
+    "states": [
+      "Assam"
+    ],
     "coordinates": [
       {
         "state": "Assam",
@@ -10421,7 +11648,9 @@
     "id": "607",
     "name": "Bodo Jwmgra",
     "type": "Handicraft",
-    "states": ["Assam"],
+    "states": [
+      "Assam"
+    ],
     "coordinates": [
       {
         "state": "Assam",
@@ -10438,7 +11667,9 @@
     "id": "608",
     "name": "Bodo Gamsa",
     "type": "Handicraft",
-    "states": ["Assam"],
+    "states": [
+      "Assam"
+    ],
     "coordinates": [
       {
         "state": "Assam",
@@ -10455,7 +11686,9 @@
     "id": "609",
     "name": "Bodo Keradapini",
     "type": "Agricultural",
-    "states": ["Assam"],
+    "states": [
+      "Assam"
+    ],
     "coordinates": [
       {
         "state": "Assam",
@@ -10472,7 +11705,9 @@
     "id": "610",
     "name": "Bodo Thorkha",
     "type": "Handicraft",
-    "states": ["Assam"],
+    "states": [
+      "Assam"
+    ],
     "coordinates": [
       {
         "state": "Assam",
@@ -10489,7 +11724,9 @@
     "id": "611",
     "name": "Bodo Gongar Dunjia",
     "type": "Agricultural",
-    "states": ["Assam"],
+    "states": [
+      "Assam"
+    ],
     "coordinates": [
       {
         "state": "Assam",
@@ -10506,7 +11743,9 @@
     "id": "612",
     "name": "Bodo Kham",
     "type": "Handicraft",
-    "states": ["Assam"],
+    "states": [
+      "Assam"
+    ],
     "coordinates": [
       {
         "state": "Assam",
@@ -10523,7 +11762,9 @@
     "id": "613",
     "name": "Bodo Serja",
     "type": "Handicraft",
-    "states": ["Assam"],
+    "states": [
+      "Assam"
+    ],
     "coordinates": [
       {
         "state": "Assam",
@@ -10540,7 +11781,9 @@
     "id": "614",
     "name": "Bodo Sifung",
     "type": "Handicraft",
-    "states": ["Assam"],
+    "states": [
+      "Assam"
+    ],
     "coordinates": [
       {
         "state": "Assam",
@@ -10557,7 +11800,9 @@
     "id": "615",
     "name": "Bodo Khardwi",
     "type": "Agricultural",
-    "states": ["Assam"],
+    "states": [
+      "Assam"
+    ],
     "coordinates": [
       {
         "state": "Assam",
@@ -10574,7 +11819,9 @@
     "id": "616",
     "name": "Bodo Gongona",
     "type": "Handicraft",
-    "states": ["Assam"],
+    "states": [
+      "Assam"
+    ],
     "coordinates": [
       {
         "state": "Assam",
@@ -10591,7 +11838,9 @@
     "id": "617",
     "name": "Bodo Jotha",
     "type": "Handicraft",
-    "states": ["Assam"],
+    "states": [
+      "Assam"
+    ],
     "coordinates": [
       {
         "state": "Assam",
@@ -10608,7 +11857,9 @@
     "id": "618",
     "name": "Assam Jaapi",
     "type": "Handicraft",
-    "states": ["Assam"],
+    "states": [
+      "Assam"
+    ],
     "coordinates": [
       {
         "state": "Assam",
@@ -10625,7 +11876,9 @@
     "id": "619",
     "name": "Assam Asharikandi Terracotta Craft",
     "type": "Handicraft",
-    "states": ["Assam"],
+    "states": [
+      "Assam"
+    ],
     "coordinates": [
       {
         "state": "Assam",
@@ -10642,7 +11895,9 @@
     "id": "620",
     "name": "Gujarat Suf Embroidery",
     "type": "Handicraft",
-    "states": ["Gujarat"],
+    "states": [
+      "Gujarat"
+    ],
     "coordinates": [
       {
         "state": "Gujarat",
@@ -10659,7 +11914,9 @@
     "id": "621",
     "name": "Jaunpur Imarti",
     "type": "Food Stuff",
-    "states": ["Uttar Pradesh"],
+    "states": [
+      "Uttar Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Uttar Pradesh",
@@ -10676,7 +11933,9 @@
     "id": "622",
     "name": "Banaras Thandai",
     "type": "Food Stuff",
-    "states": ["Uttar Pradesh"],
+    "states": [
+      "Uttar Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Uttar Pradesh",
@@ -10693,7 +11952,10 @@
     "id": "623",
     "name": "Assam Mishing Handloom Products",
     "type": "Handicraft",
-    "states": ["Assam", "Arunachal Pradesh"],
+    "states": [
+      "Assam",
+      "Arunachal Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Assam",
@@ -10715,7 +11977,9 @@
     "id": "624",
     "name": "Assam Bihu Dhol",
     "type": "Handicraft",
-    "states": ["Assam"],
+    "states": [
+      "Assam"
+    ],
     "coordinates": [
       {
         "state": "Assam",
@@ -10732,7 +11996,9 @@
     "id": "625",
     "name": "Assam Pani Meteka Craft",
     "type": "Handicraft",
-    "states": ["Assam"],
+    "states": [
+      "Assam"
+    ],
     "coordinates": [
       {
         "state": "Assam",
@@ -10749,7 +12015,9 @@
     "id": "626",
     "name": "Sarthebari Metal Craft",
     "type": "Handicraft",
-    "states": ["Assam"],
+    "states": [
+      "Assam"
+    ],
     "coordinates": [
       {
         "state": "Assam",
@@ -10766,7 +12034,9 @@
     "id": "627",
     "name": "Banaras Mural Painting",
     "type": "Handicraft",
-    "states": ["Uttar Pradesh"],
+    "states": [
+      "Uttar Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Uttar Pradesh",
@@ -10783,7 +12053,9 @@
     "id": "628",
     "name": "Ahmedabad Sodagari Block Print",
     "type": "Handicraft",
-    "states": ["Gujarat"],
+    "states": [
+      "Gujarat"
+    ],
     "coordinates": [
       {
         "state": "Gujarat",
@@ -10800,7 +12072,9 @@
     "id": "629",
     "name": "Surat Sadeli Craft",
     "type": "Handicraft",
-    "states": ["Gujarat"],
+    "states": [
+      "Gujarat"
+    ],
     "coordinates": [
       {
         "state": "Gujarat",
@@ -10817,7 +12091,9 @@
     "id": "630",
     "name": "Tripura Pachra-Rignai",
     "type": "Handicraft",
-    "states": ["Tripura"],
+    "states": [
+      "Tripura"
+    ],
     "coordinates": [
       {
         "state": "Tripura",
@@ -10834,7 +12110,9 @@
     "id": "631",
     "name": "Tripura Matabari Peda (Sweet)",
     "type": "Food Stuff",
-    "states": ["Tripura"],
+    "states": [
+      "Tripura"
+    ],
     "coordinates": [
       {
         "state": "Tripura",
@@ -10851,7 +12129,9 @@
     "id": "632",
     "name": "Bharuch Sujani Weaving",
     "type": "Handicraft",
-    "states": ["Gujarat"],
+    "states": [
+      "Gujarat"
+    ],
     "coordinates": [
       {
         "state": "Gujarat",
@@ -10868,7 +12148,9 @@
     "id": "633",
     "name": "Meghalaya Garo Textile",
     "type": "Handicraft",
-    "states": ["Meghalaya"],
+    "states": [
+      "Meghalaya"
+    ],
     "coordinates": [
       {
         "state": "Meghalaya",
@@ -10885,7 +12167,9 @@
     "id": "634",
     "name": "Meghalaya Lyrnai Pottery",
     "type": "Handicraft",
-    "states": ["Meghalaya"],
+    "states": [
+      "Meghalaya"
+    ],
     "coordinates": [
       {
         "state": "Meghalaya",
@@ -10902,7 +12186,9 @@
     "id": "635",
     "name": "Meghalaya Chubitchi",
     "type": "Manufactured",
-    "states": ["Meghalaya"],
+    "states": [
+      "Meghalaya"
+    ],
     "coordinates": [
       {
         "state": "Meghalaya",
@@ -10919,7 +12205,9 @@
     "id": "636",
     "name": "Nihonshu / Japanese Sake",
     "type": "Manufactured",
-    "states": ["Japan"],
+    "states": [
+      "Japan"
+    ],
     "coordinates": [
       {
         "state": "Japan",
@@ -10936,7 +12224,9 @@
     "id": "637",
     "name": "Pilkhuwa Hand Block Print Textile",
     "type": "Handicraft",
-    "states": ["Uttar Pradesh"],
+    "states": [
+      "Uttar Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Uttar Pradesh",
@@ -10953,7 +12243,9 @@
     "id": "638",
     "name": "Banaras Metal Casting Craft",
     "type": "Handicraft",
-    "states": ["Uttar Pradesh"],
+    "states": [
+      "Uttar Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Uttar Pradesh",
@@ -10970,7 +12262,9 @@
     "id": "639",
     "name": "Bareilly Cane & Bamboo Craft",
     "type": "Handicraft",
-    "states": ["Uttar Pradesh"],
+    "states": [
+      "Uttar Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Uttar Pradesh",
@@ -10987,7 +12281,9 @@
     "id": "640",
     "name": "Tharu Embroidery of Uttar Pradesh",
     "type": "Handicraft",
-    "states": ["Uttar Pradesh"],
+    "states": [
+      "Uttar Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Uttar Pradesh",
@@ -11004,7 +12300,9 @@
     "id": "641",
     "name": "Bareilly Zari Zardoji",
     "type": "Handicraft",
-    "states": ["Uttar Pradesh"],
+    "states": [
+      "Uttar Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Uttar Pradesh",
@@ -11021,7 +12319,9 @@
     "id": "642",
     "name": "Banaras Tirangi Barfi",
     "type": "Food Stuff",
-    "states": ["Uttar Pradesh"],
+    "states": [
+      "Uttar Pradesh"
+    ],
     "coordinates": [
       {
         "state": "Uttar Pradesh",
@@ -11038,7 +12338,9 @@
     "id": "643",
     "name": "Kutch Ajrakh",
     "type": "Handicraft",
-    "states": ["Gujarat"],
+    "states": [
+      "Gujarat"
+    ],
     "coordinates": [
       {
         "state": "Gujarat",
@@ -11055,7 +12357,9 @@
     "id": "644",
     "name": "Bodo Aronai",
     "type": "Handicraft",
-    "states": ["Assam"],
+    "states": [
+      "Assam"
+    ],
     "coordinates": [
       {
         "state": "Assam",
@@ -11070,9 +12374,11 @@
   },
   {
     "id": "645",
-    "name": "Bodo Napham \u2013 Fermented Fish",
+    "name": "Bodo Napham – Fermented Fish",
     "type": "Food Stuff",
-    "states": ["Assam"],
+    "states": [
+      "Assam"
+    ],
     "coordinates": [
       {
         "state": "Assam",
@@ -11089,7 +12395,9 @@
     "id": "646",
     "name": "Bodo Ondla",
     "type": "Food Stuff",
-    "states": ["Assam"],
+    "states": [
+      "Assam"
+    ],
     "coordinates": [
       {
         "state": "Assam",
@@ -11104,9 +12412,11 @@
   },
   {
     "id": "647",
-    "name": "Bodo Gwkha \u2013 Gwkhwi",
+    "name": "Bodo Gwkha – Gwkhwi",
     "type": "Food Stuff",
-    "states": ["Assam"],
+    "states": [
+      "Assam"
+    ],
     "coordinates": [
       {
         "state": "Assam",
@@ -11117,13 +12427,15 @@
     "primaryState": "Assam",
     "stateCount": 1,
     "image_url": "https://example.com/images/bodo_gwkha_gwkhwi.jpg",
-    "info": "Bodo Gwkha \u2013 Gwkhwi represents a traditional food preparation or ingredient specific to the Bodo community in Assam, known for its distinct taste and cultural relevance. This GI-tagged food item showcases the unique culinary diversity and indigenous food systems of the region."
+    "info": "Bodo Gwkha – Gwkhwi represents a traditional food preparation or ingredient specific to the Bodo community in Assam, known for its distinct taste and cultural relevance. This GI-tagged food item showcases the unique culinary diversity and indigenous food systems of the region."
   },
   {
     "id": "648",
     "name": "Bodo Jou Gwran",
     "type": "Manufactured",
-    "states": ["Assam"],
+    "states": [
+      "Assam"
+    ],
     "coordinates": [
       {
         "state": "Assam",
@@ -11140,7 +12452,9 @@
     "id": "649",
     "name": "Bodo Jou Gishi",
     "type": "Manufactured",
-    "states": ["Assam"],
+    "states": [
+      "Assam"
+    ],
     "coordinates": [
       {
         "state": "Assam",
@@ -11157,7 +12471,9 @@
     "id": "650",
     "name": "Bodo Maibra Jou Bidwi",
     "type": "Manufactured",
-    "states": ["Assam"],
+    "states": [
+      "Assam"
+    ],
     "coordinates": [
       {
         "state": "Assam",
@@ -11174,7 +12490,9 @@
     "id": "651",
     "name": "Bodo Narzi",
     "type": "Agricultural",
-    "states": ["Assam"],
+    "states": [
+      "Assam"
+    ],
     "coordinates": [
       {
         "state": "Assam",
@@ -11191,7 +12509,9 @@
     "id": "652",
     "name": "Nicobari Canoe - Hodi Craft of Andaman & Nicobar",
     "type": "Handicraft",
-    "states": ["Andaman and Nicobar Islands"],
+    "states": [
+      "Andaman and Nicobar Islands"
+    ],
     "coordinates": [
       {
         "state": "Andaman and Nicobar Islands",
@@ -11208,7 +12528,9 @@
     "id": "653",
     "name": "Nicobari Mat (Chatrai / Hileuoi) of Andaman & Nicobar",
     "type": "Handicraft",
-    "states": ["Andaman and Nicobar Islands"],
+    "states": [
+      "Andaman and Nicobar Islands"
+    ],
     "coordinates": [
       {
         "state": "Andaman and Nicobar Islands",
@@ -11225,7 +12547,9 @@
     "id": "654",
     "name": "Andaman Karen Musley Rice",
     "type": "Agricultural",
-    "states": ["Andaman and Nicobar Islands"],
+    "states": [
+      "Andaman and Nicobar Islands"
+    ],
     "coordinates": [
       {
         "state": "Andaman and Nicobar Islands",
@@ -11242,7 +12566,9 @@
     "id": "655",
     "name": "Nicobari Tavi-i-Ngaich (Virgin Coconut Oil) of Andaman & Nicobar",
     "type": "Manufactured",
-    "states": ["Andaman and Nicobar Islands"],
+    "states": [
+      "Andaman and Nicobar Islands"
+    ],
     "coordinates": [
       {
         "state": "Andaman and Nicobar Islands",
@@ -11257,9 +12583,11 @@
   },
   {
     "id": "656",
-    "name": "Nguat\u2013Kuk\u2019\u2013\u2018Khawtha\u2019 Coconut of Andaman & Nicobar",
+    "name": "Nguat–Kuk’–‘Khawtha’ Coconut of Andaman & Nicobar",
     "type": "Agricultural",
-    "states": ["Andaman and Nicobar Islands"],
+    "states": [
+      "Andaman and Nicobar Islands"
+    ],
     "coordinates": [
       {
         "state": "Andaman and Nicobar Islands",
@@ -11270,13 +12598,15 @@
     "primaryState": "Andaman and Nicobar Islands",
     "stateCount": 1,
     "image_url": "https://example.com/images/nguat_kuk_khawtha_coconut.jpg",
-    "info": "The Nguat\u2013Kuk\u2019\u2013\u2018Khawtha\u2019 Coconut is a distinct agricultural variety native to the Andaman & Nicobar Islands, specifically cultivated by the indigenous communities. Renowned for its unique taste and properties, this coconut is a staple in the local diet and economy. Its GI status affirms its specific geographical origin and traditional cultivation practices."
+    "info": "The Nguat–Kuk’–‘Khawtha’ Coconut is a distinct agricultural variety native to the Andaman & Nicobar Islands, specifically cultivated by the indigenous communities. Renowned for its unique taste and properties, this coconut is a staple in the local diet and economy. Its GI status affirms its specific geographical origin and traditional cultivation practices."
   },
   {
     "id": "657",
     "name": "Padauk Wood Craft of Andaman & Nicobar",
     "type": "Handicraft",
-    "states": ["Andaman and Nicobar Islands"],
+    "states": [
+      "Andaman and Nicobar Islands"
+    ],
     "coordinates": [
       {
         "state": "Andaman and Nicobar Islands",
@@ -11293,7 +12623,9 @@
     "id": "658",
     "name": "Nicobari Hut of Andaman & Nicobar",
     "type": "Handicraft",
-    "states": ["Andaman and Nicobar Islands"],
+    "states": [
+      "Andaman and Nicobar Islands"
+    ],
     "coordinates": [
       {
         "state": "Andaman and Nicobar Islands",
@@ -11310,7 +12642,9 @@
     "id": "659",
     "name": "Agra Stone Inlay Work",
     "type": "Handicraft",
-    "states": ["Uttar Predesh"],
+    "states": [
+      "Uttar Predesh"
+    ],
     "coordinates": [
       {
         "state": "Uttar Predesh",
@@ -11327,7 +12661,9 @@
     "id": "660",
     "name": "Bareilly Terracotta",
     "type": "Handicraft",
-    "states": ["Uttar Predesh"],
+    "states": [
+      "Uttar Predesh"
+    ],
     "coordinates": [
       {
         "state": "Uttar Predesh",
@@ -11344,7 +12680,9 @@
     "id": "661",
     "name": "Madurai Marikolunthu (Davana)",
     "type": "Agricultural",
-    "states": ["Tamil Nadu"],
+    "states": [
+      "Tamil Nadu"
+    ],
     "coordinates": [
       {
         "state": "Tamil Nadu",
@@ -11361,7 +12699,9 @@
     "id": "662",
     "name": "Vilachery Clay Toys",
     "type": "Handicraft",
-    "states": ["Tamil Nadu"],
+    "states": [
+      "Tamil Nadu"
+    ],
     "coordinates": [
       {
         "state": "Tamil Nadu",
@@ -11378,7 +12718,9 @@
     "id": "663",
     "name": "Amalsad Chikoo",
     "type": "Agricultural",
-    "states": ["Gujarat"],
+    "states": [
+      "Gujarat"
+    ],
     "coordinates": [
       {
         "state": "Gujarat",
@@ -11395,7 +12737,9 @@
     "id": "664",
     "name": "Axomiya Gohona (Assamese Jewellery)",
     "type": "Handicraft",
-    "states": ["Assam"],
+    "states": [
+      "Assam"
+    ],
     "coordinates": [
       {
         "state": "Assam",
@@ -11412,7 +12756,9 @@
     "id": "665",
     "name": "Warangal Chapata Chilli",
     "type": "Agricultural",
-    "states": ["Telangana"],
+    "states": [
+      "Telangana"
+    ],
     "coordinates": [
       {
         "state": "Telangana",
@@ -11429,7 +12775,9 @@
     "id": "666",
     "name": "Patteda Anchu Saree & Fabrics",
     "type": "Handicraft",
-    "states": ["Karnataka"],
+    "states": [
+      "Karnataka"
+    ],
     "coordinates": [
       {
         "state": "Karnataka",
@@ -11446,7 +12794,9 @@
     "id": "667",
     "name": "Akola Kagzi Lime",
     "type": "Agricultural",
-    "states": ["Maharashtra"],
+    "states": [
+      "Maharashtra"
+    ],
     "coordinates": [
       {
         "state": "Maharashtra",
@@ -11463,7 +12813,9 @@
     "id": "668",
     "name": "Thalanadan Grambu (Clove)",
     "type": "Agricultural",
-    "states": ["Kerala"],
+    "states": [
+      "Kerala"
+    ],
     "coordinates": [
       {
         "state": "Kerala",
@@ -11480,7 +12832,9 @@
     "id": "669",
     "name": "Meghalaya Ryndia Textile",
     "type": "Handicraft",
-    "states": ["Meghalaya"],
+    "states": [
+      "Meghalaya"
+    ],
     "coordinates": [
       {
         "state": "Meghalaya",
@@ -11497,7 +12851,9 @@
     "id": "670",
     "name": "Meghalaya Khasi Handloom Products",
     "type": "Handicraft",
-    "states": ["Meghalaya"],
+    "states": [
+      "Meghalaya"
+    ],
     "coordinates": [
       {
         "state": "Meghalaya",
@@ -11514,7 +12870,9 @@
     "id": "671",
     "name": "Amravati Pippal",
     "type": "Agricultural",
-    "states": ["Maharashtra"],
+    "states": [
+      "Maharashtra"
+    ],
     "coordinates": [
       {
         "state": "Maharashtra",
@@ -11531,7 +12889,9 @@
     "id": "672",
     "name": "Amravati Chana",
     "type": "Agricultural",
-    "states": ["Maharashtra"],
+    "states": [
+      "Maharashtra"
+    ],
     "coordinates": [
       {
         "state": "Maharashtra",
@@ -11548,7 +12908,9 @@
     "id": "673",
     "name": "Kashmir Namda",
     "type": "Handicraft",
-    "states": ["Jammu & Kashmir"],
+    "states": [
+      "Jammu & Kashmir"
+    ],
     "coordinates": [
       {
         "state": "Jammu & Kashmir",
@@ -11565,7 +12927,9 @@
     "id": "674",
     "name": "Kashmir Wagguv",
     "type": "Handicraft",
-    "states": ["Jammu & Kashmir"],
+    "states": [
+      "Jammu & Kashmir"
+    ],
     "coordinates": [
       {
         "state": "Jammu & Kashmir",
@@ -11582,7 +12946,9 @@
     "id": "675",
     "name": "Shikara",
     "type": "Handicraft",
-    "states": ["Jammu & Kashmir"],
+    "states": [
+      "Jammu & Kashmir"
+    ],
     "coordinates": [
       {
         "state": "Jammu & Kashmir",
@@ -11599,7 +12965,9 @@
     "id": "676",
     "name": "Gabba",
     "type": "Handicraft",
-    "states": ["Jammu & Kashmir"],
+    "states": [
+      "Jammu & Kashmir"
+    ],
     "coordinates": [
       {
         "state": "Jammu & Kashmir",
@@ -11616,7 +12984,9 @@
     "id": "677",
     "name": "Kashmir Willow Bat",
     "type": "Handicraft",
-    "states": ["Jammu & Kashmir"],
+    "states": [
+      "Jammu & Kashmir"
+    ],
     "coordinates": [
       {
         "state": "Jammu & Kashmir",
@@ -11633,7 +13003,9 @@
     "id": "678",
     "name": "Malda Nistari Silk Yarn",
     "type": "Handicraft",
-    "states": ["West Bengal"],
+    "states": [
+      "West Bengal"
+    ],
     "coordinates": [
       {
         "state": "West Bengal",
@@ -11650,7 +13022,9 @@
     "id": "679",
     "name": "Kamarpukur Sada Bode",
     "type": "Food Stuff",
-    "states": ["West Bengal"],
+    "states": [
+      "West Bengal"
+    ],
     "coordinates": [
       {
         "state": "West Bengal",
@@ -11667,7 +13041,9 @@
     "id": "680",
     "name": "Banglar Nolen Gur Sandesh",
     "type": "Food Stuff",
-    "states": ["West Bengal"],
+    "states": [
+      "West Bengal"
+    ],
     "coordinates": [
       {
         "state": "West Bengal",
@@ -11684,7 +13060,9 @@
     "id": "681",
     "name": "Murshidabad Chhanabora",
     "type": "Food Stuff",
-    "states": ["West Bengal"],
+    "states": [
+      "West Bengal"
+    ],
     "coordinates": [
       {
         "state": "West Bengal",
@@ -11701,7 +13079,9 @@
     "id": "682",
     "name": "Bishnupur Motichur Laddu",
     "type": "Food Stuff",
-    "states": ["West Bengal"],
+    "states": [
+      "West Bengal"
+    ],
     "coordinates": [
       {
         "state": "West Bengal",
@@ -11718,7 +13098,9 @@
     "id": "683",
     "name": "Kashmir Chain Stitch",
     "type": "Handicraft",
-    "states": ["Jammu & Kashmir"],
+    "states": [
+      "Jammu & Kashmir"
+    ],
     "coordinates": [
       {
         "state": "Jammu & Kashmir",
@@ -11735,7 +13117,9 @@
     "id": "684",
     "name": "Kashmir Crewel",
     "type": "Handicraft",
-    "states": ["Jammu & Kashmir"],
+    "states": [
+      "Jammu & Kashmir"
+    ],
     "coordinates": [
       {
         "state": "Jammu & Kashmir",
@@ -11752,7 +13136,9 @@
     "id": "685",
     "name": "Kashmir Tweed",
     "type": "Handicraft",
-    "states": ["Jammu & Kashmir"],
+    "states": [
+      "Jammu & Kashmir"
+    ],
     "coordinates": [
       {
         "state": "Jammu & Kashmir",
@@ -11769,7 +13155,9 @@
     "id": "686",
     "name": "Baruipur Guava",
     "type": "Agricultural",
-    "states": ["West Bengal"],
+    "states": [
+      "West Bengal"
+    ],
     "coordinates": [
       {
         "state": "West Bengal",
@@ -11786,7 +13174,9 @@
     "id": "687",
     "name": "Aceto Balsamico di Modena",
     "type": "Manufactured",
-    "states": ["Italy"],
+    "states": [
+      "Italy"
+    ],
     "coordinates": [
       {
         "state": "Italy",
@@ -11803,7 +13193,9 @@
     "id": "688",
     "name": "Thovalai Maanika Maalai",
     "type": "Handicraft",
-    "states": ["Tamil Nadu"],
+    "states": [
+      "Tamil Nadu"
+    ],
     "coordinates": [
       {
         "state": "Tamil Nadu",
@@ -11820,7 +13212,9 @@
     "id": "689",
     "name": "Kumbakonam Vetrilai (Kumbakonam Betel Leaf)",
     "type": "Agricultural",
-    "states": ["Tamil Nadu"],
+    "states": [
+      "Tamil Nadu"
+    ],
     "coordinates": [
       {
         "state": "Tamil Nadu",
@@ -11837,7 +13231,9 @@
     "id": "690",
     "name": "Panruti Palappazham (Panruti Jack Fruit)",
     "type": "Agricultural",
-    "states": ["Tamil Nadu"],
+    "states": [
+      "Tamil Nadu"
+    ],
     "coordinates": [
       {
         "state": "Tamil Nadu",
@@ -11854,7 +13250,9 @@
     "id": "691",
     "name": "Panruti Cashew",
     "type": "Agricultural",
-    "states": ["Tamil Nadu"],
+    "states": [
+      "Tamil Nadu"
+    ],
     "coordinates": [
       {
         "state": "Tamil Nadu",
@@ -11871,7 +13269,9 @@
     "id": "692",
     "name": "Puliyankudi Acid Lime",
     "type": "Agricultural",
-    "states": ["Tamil Nadu"],
+    "states": [
+      "Tamil Nadu"
+    ],
     "coordinates": [
       {
         "state": "Tamil Nadu",
@@ -11888,7 +13288,9 @@
     "id": "693",
     "name": "Virudhunagar Samba Vathal",
     "type": "Agricultural",
-    "states": ["Tamil Nadu"],
+    "states": [
+      "Tamil Nadu"
+    ],
     "coordinates": [
       {
         "state": "Tamil Nadu",
@@ -11905,7 +13307,9 @@
     "id": "694",
     "name": "Chettikulam Small Onion",
     "type": "Agricultural",
-    "states": ["Tamil Nadu"],
+    "states": [
+      "Tamil Nadu"
+    ],
     "coordinates": [
       {
         "state": "Tamil Nadu",
@@ -11922,7 +13326,9 @@
     "id": "695",
     "name": "Kannadippaya (Bamboo Mat)",
     "type": "Handicraft",
-    "states": ["Kerala"],
+    "states": [
+      "Kerala"
+    ],
     "coordinates": [
       {
         "state": "Kerala",
@@ -11939,7 +13345,9 @@
     "id": "696",
     "name": "Radhunipagal Rice",
     "type": "Agricultural",
-    "states": ["West Bengal"],
+    "states": [
+      "West Bengal"
+    ],
     "coordinates": [
       {
         "state": "West Bengal",
@@ -11956,7 +13364,9 @@
     "id": "697",
     "name": "Ramanadu Chithiraikar Rice",
     "type": "Agricultural",
-    "states": ["Tamil Nadu"],
+    "states": [
+      "Tamil Nadu"
+    ],
     "coordinates": [
       {
         "state": "Tamil Nadu",

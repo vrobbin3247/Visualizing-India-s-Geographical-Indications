@@ -13,6 +13,7 @@ interface GI {
   coordinates: { state: string; lat: number; lng: number }[];
   primaryState: string;
   stateCount: number;
+  image_url: string;
 }
 
 function App() {

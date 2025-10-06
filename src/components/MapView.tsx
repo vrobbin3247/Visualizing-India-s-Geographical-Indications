@@ -22,6 +22,7 @@ interface GI {
   coordinates: { state: string; lat: number; lng: number }[];
   primaryState: string;
   stateCount: number;
+  image_url: string;
 }
 
 const typeColors: { [key: string]: string } = {
@@ -146,10 +147,17 @@ const MapView: React.FC<MapViewProps> = ({
                 }}
               >
                 <Tooltip direction="top" offset={[0, -10]}>
-                  <div className="text-sm">
-                    <strong>{gi.name}</strong>
-                    <br />
-                    <span className="text-gray-600">{gi.type}</span>
+                  <div className="w-32 text-center">
+                    <img
+                      src={gi.image_url}
+                      alt={gi.name}
+                      className="w-full h-24 object-cover rounded-t-lg"
+                    />
+                    <div className="p-2">
+                      <strong className="font-bold">{gi.name}</strong>
+                      <br />
+                      <span className="text-gray-600 text-xs">{gi.type}</span>
+                    </div>
                   </div>
                 </Tooltip>
               </CircleMarker>

@@ -74,4 +74,6 @@ It’s built for anyone curious about India’s regional diversity from students
 ```bash
 git clone https://github.com/vrobbin3247/Visualizing-India-s-Geographical-Indications.git
 cd Visualizing-India-s-Geographical-Indications
+npm install
+npm run dev
 ```

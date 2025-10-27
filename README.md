@@ -1,5 +1,5 @@
 # 🌏 GI Visualizer: Interactive Map of India's Geographical Treasures
-
+![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fvrobbin3247%2FVisualizing-India-s-Geographical-Indications&label=views&icon=github&color=%23198754&message=&style=flat-square&tz=UTC)
 ![React](https://img.shields.io/badge/React-19.1.1-lightblue)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-4.1.14-teal)
 ![Vite](https://img.shields.io/badge/Vite-7.1.7-purple)
